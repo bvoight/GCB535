@@ -34,7 +34,7 @@ We do not reliably check the Canvas messaging functionality.
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
 * Amy Campbell: XXXX
-* Emily O'Driscoll: XXXX
+* Emily O'Driscoll: CRISPR Screens, Neurodegeneration, Proteolytic Cleavage
 
 ## Location and time
 
