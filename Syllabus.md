@@ -39,8 +39,8 @@ We do not reliably check the Canvas messaging functionality.
 ## Location and time
 
 * The course will be administered virtually for Spring 2021
-* Virtual Link will be provided to enrolled students
-* MWF 10a-11a
+* A Virtual Link will be provided to enrolled students on Canvas.
+* MWF 10-11a
 
 ## Office hours
 
@@ -60,8 +60,8 @@ for your convenience.
 
 * BFV: Wednesday 11a-12p
 * OS: Monday 1-2 PM 
-* TAs: Tuesday 4-5 PM
-* TAs: Thursday 4-5 PM
+* TAs: XXXXX
+* TAs: XXXXX
 
 ## Course web site
 
