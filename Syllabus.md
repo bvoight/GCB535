@@ -1,4 +1,4 @@
-# GCB/CIS/MTR 535: Introduction to Bioinformatics
+# GCB/CIS/MTR 535 (2021): Introduction to Bioinformatics
 
 ## Course Staff
 
@@ -13,14 +13,7 @@ We do not reliably check the Canvas messaging functionality.
     10-126 Smilow Center for Translational Research (SCTR)
     3400 Civic Center Blvd
     215-746-8083
-    bvoight28@gmail.com
-
-#### Casey S. Greene, PhD
-    Department of Systems Pharmacology and Translational Therapeutics
-    10-131 Smilow Center for Translational Research (SCTR)
-    3400 Civic Center Blvd
-    215-573-2991
-    greenescientist@gmail.com
+    bvoight@pennmedicine.upenn.edu
 
 #### Ophir Shalem, PhD
     Department of Genetics
@@ -31,43 +24,44 @@ We do not reliably check the Canvas messaging functionality.
 
 ### Teaching assistants
 
-[Katerina Gawronski](mailto:kgawro@pennmedicine.upenn.edu): kgawro@pennmedicine.upenn.edu 
+[Amy Campbell](mailto:acampbe@pennmedicine.upenn.edu): acampbe@pennmedicine.upenn.edu
 
-[Zilu Zhou](mailto:zhouzilu@pennmedicine.upenn.edu): zhouzilu@pennmedicine.upenn.edu 
-
-[Jingya Qiu](mailto:jingyaq@pennmedicine.upenn.edu): jingyaq@pennmedicine.upenn.edu
+[Emily O’Driscoll](mailto:emilyod@pennmedicine.upenn.edu): emilyod@pennmedicine.upenn.edu
 
 ### Keywords
 
 * Ben Voight: human genetics, statistics, cardiometabolic disease
-* Casey Greene: machine learning, systems biology, gene expression
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-* Katerina Gawronski: molecular trait mapping, alternative splicing, cardiometabolic disease
-* Zilu Zhou: statistical genomics, cancer, machine learning
-* Jingya Qiu: cancer biology, single-cell RNA Seq, immunology
+* Amy Campbell: XXXX
+* Emily O'Driscoll: XXXX
 
 ## Location and time
 
-* MWF 10a-11a SCTR 10-146
+* The course will be administered virtually for Spring 2021
+* Virtual Link will be provided to enrolled students
+* MWF 10a-11a
 
 ## Office hours
 
 Office hours are time that we (the instructors and TAs) set aside for you to 
 drop by to talk about the course and ask any questions that you may have.
-TA office hours are open door. Please feel free to attend at your convenience.
-Office hours with Ben and Casey are generally open door. However, students may
+
+This year, we are hosting office hours virtually, which will correspond to a
+designated time where a TA or instructor will be available to chat with you
+at the given time. Please feel free to attend at your convenience.
+
+Office hours with Ben and Ophir are generally open door. However, students may
 schedule meetings during this time with the course directors, and scheduled
 students will receive precedence. To schedule a meeting, send a quick e-mail to
 the course directors. There are some days where there are preexisting conflicts
-with regularly scheduled office hours. We've created a [table with details](https://github.com/greenelab/GCB535/blob/master/OfficeHours.md)
+with regularly scheduled office hours. We've created a [table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
 for your convenience.
 
-* CSG: Monday 9-10 AM in SCTR 10-131
-* OS: Monday 1-2 PM in room 5050 CTRB
-* TAs: Tuesday 4-5 PM in Room 10-120 SCTR
-* BFV: Wednesday 11a-12p in SCTR 10-126
-* TAs: Thursday 4-5 PM in Room 10-120 SCTR
+* BFV: Wednesday 11a-12p
+* OS: Monday 1-2 PM 
+* TAs: Tuesday 4-5 PM
+* TAs: Thursday 4-5 PM
 
 ## Course web site
 
@@ -113,7 +107,7 @@ free software from the Internet.
 ## Schedule
 
 The most up to date schedule for the course is available in the [course
-calendar](https://github.com/greenelab/GCB535/blob/master/Course_Calendar.md).
+calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 
 ## Grading
 
@@ -138,13 +132,13 @@ return assignments quickly while providing flexibility where it is required.
 accept late turn-ins. This material is required in order to fully participate
 in the in class exercises.
 
-* Homework is due at the start of class immediately following the class in which
-it was assigned (e.g. homework assigned Monday is due at the start of class on
-Wednesday). Homework will be accepted up to one class period after its due date
-(e.g. assigned Monday would be accepted at the start of class on Friday), but
-grades will be penalized (minus 30% off). If you would like to have an
-assignment graded under this late policy, you must e-mail one of the course
-directors before the start of the class period in question.
+* Homework for the previous week will be due at the start of each week on Monday
+at the start of class (e.g. homework assigned Monday, Wednesday, and/or Friday
+is due at the start of class on the next Monday at 10:00a). 
+
+* Homework will be accepted up to Wednesday of that week, but grades will be penalized 
+(minus 30% off). If you would like to have an assignment graded under this late policy, 
+you must e-mail one of the course directors before the start of the class period in question.
 
 ## Plagiarism policy
 
