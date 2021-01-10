@@ -97,6 +97,9 @@ BIOL526 (Experimental Principles in Cell and Molecular Biology), BIOL527
 (Advanced Molecular Biology and Genetics), BIOL528 (Advanced Molecular
 Genetics), BIOL540 (Genetic Systems), or equivalent, is a prerequisite.
 
+## Note on Reproducibility and Responsible Research
+
+
 ## Equipment prerequisite
 
 All students are required to bring a laptop to class for in class activities.

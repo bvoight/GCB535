@@ -1,49 +1,48 @@
-# GCB/CIS/MTR 535 Course Calendar
+# GCB/CIS/MTR 535 2021 Course Calendar
 
-| Date   | Topic                                       | In Class + Homework Directory | Homework Due          |
-|--------|---------------------------------------------|-------------------------------|-----------------------|
-| 16-Jan | Lecture Intro/Databases                     | 00_Cocalc                     | -                     |
-| 18-Jan | Seeking Biological Info Online              | 01_Databases                  | 00_Cocalc             |
-| 21-Jan | MLK Day - No Class                          | -                             | -                     |
-| 23-Jan | UNIX Directories and Files                  | 02_Unix-I                     | 01_Databases          |
-| 25-Jan | UNIX Web Resources and Workflows            | 03_Unix-II                    | 02_Unix-I             |
-| 28-Jan | Motif Discovery                             | 04_Motif-I                    | 03_Unix-II            |
-| 30-Jan | cis-regulatory Modules                      | 05_Motif-II                   | 04_Motif-I            |
-| 1-Feb  | Regulatory Analysis                         | 06_Motif-III                  | 05_Motif-II           |
-| 4-Feb  | Sequence Alignment: Basics next gen         | 07_Alignment                  | 06_Motif-III          |
-| 6-Feb  | ChIP-Seq Primer - I                         | 08_ChIP-Seq-I                 | 07_Alignment          |
-| 8-Feb  | ChIP-Seq Primer - II                        | 09_ChIP-Seq-II                | 08_ChIP-Seq-I         |
-| 11-Feb | Phylogenies and Multiple Sequence Alignment | 10_Phylogenies                | 09_ChIP-Seq-II        |
-| 13-Feb | ENCODE Primer - I                           | 11-ENCODE-I                   | 10_Phylogenies        |
-| 15-Feb | More on ENCODE - II                         | 12-ENCODE-II                  | 11-ENCODE-I           |
-| 18-Feb | Intro to R - I                              | 13_R-I                        | 12-ENCODE-II          |
-| 20-Feb | Sequencing Tech; Intro to R - II            | 14_R-II                       | 13_R-I                |
-| 22-Feb | Tools for Reproducible Research             | 15_Reproducibility            | 14_R-II               |
-| 25-Feb | Analysis of Gene Expression (Arrays)        | 16_GeneExpression-I           | 15_Reproducibility    |
-| 27-Feb | Functional Enrichment Analysis              | 17_GeneExpression-II          | 16_GeneExpression-I   |
-| 1-Mar  | -                                           | 18_GeneExpression-III         | 17_GeneExpression-II  |
-| -      | SPRING BREAK - No Class                     | -                             | -                     |
-| 11-Mar | Intro to R - III - The Tidyverse            | 35_Tidyverse                  | 18_GeneExpression-III |
-| 13-Mar | RNA-Seq Primer - I                          | 19_RNA-Seq-I                  | 35_Tidyverse          |
-| 15-Mar | RNA-Seq Primer - II                         | 20_RNA-Seq-II                 | 19_RNA-Seq-I          |
-| 18-Mar | RNA-Seq Primer - II                         | 21_RNA-Seq-III                | 20_RNA-Seq-II         |
-| 20-Mar | Bioinformatics in Pharmacology              | 22_Pharmacology               | 21_RNA-Seq-III        |
-| 22-Mar | Programming in Python - I                   | 23_Python-I                   | 22_Pharmacology       |
-| 25-Mar | Programming in Python - II                  | 24_Python-II                  | 23_Python-I           |
-| 27-Mar | Programming in Python - III                 | 25_Python-III                 | 24_Python-II          |
-| 29-Mar | Programming in Python - IV                  | 26_Python-IV                  | 25_Python-III         |
-| 1-Apr  | Programming in Python - V                   | 27_Python-V                   | 26_Python-IV          |
-| 3-Apr  | Machine Learning (ML) - I (MANDATORY for Participation)       | 28_ML-I                       | 27_Python-V           |
-| 5-Apr  | ML - II                                     | 29_ML-II                      | 28_ML-I               |
-| 8-Apr  | ML - III (MANDATORY for Participation)                        | 30_ML-III                     | 29_ML-II              |
-| 10-Apr  | ML - IV                                     | 31_ML-IV                      | 30_ML-III             |
-| 12-Apr | ML - V                                      | 32_ML-V                       | 31_ML-IV              |
-| 15-Apr | Intro to PLINK                              | 33_Variation-I                | 32_ML-V               |
-| 17-Apr | Analysis of Genetic Variation               | 34_Variation-II               | 33_Variation-I        |
-| 19-Apr | OPEN STUDIO                                           | -                             | -       |
-| 22-Apr | Single cell RNA-Seq Analysis - I            | 36_scRNA-Seq-I                | 34_Variation-II          |
-| 24-Apr | Single cell RNA-Seq Analysis II             | 37_scRNA-Seq-II               | 36_scRNA-Seq-I        |
-| 26-Apr | OPEN STUDIO            | -                             | 37_scRNA-Seq-II       |
-| 29-Apr | CRISPR Screening - I  (MANDATORY for Participation) | 38_CRISPR_Screening           | (Final Distributed 30-Apr)   |
-| 1-May  | CRISPR Screening - II     | -                           |  38_CRISPR_Screening |
-| 7-May  | -                                           | -                             | FINAL Due @ 2pm       |
+| Date       | Day | Topic                                                                 | In Class + Homework Directory | Homework Due  |
+|------------|-----|-----------------------------------------------------------------------|-------------------------------|---------------|
+| 20-Jan     | W   | Lecture Intro/Databases                                               | 00                            | -             |
+| 22-Jan     | F   | Seeking Biological Info Online                                        | 01                            | 00            |
+| 25-Jan     | M   | UNIX Directories and Files                                            | 02                            | 01            |
+| 27-Jan     | W   | UNIX Web Resources and Workflows                                      | 03                            | -             |
+| 29-Jan     | F   | Data Parsing/Cleaning - I [<em>"Simple rules for new analysis tasks"</em>]     | 04                            | -             |
+| 1-Feb      | M   | ChIP-Seq Primer - I                                                   | 05                            | 02,03         |
+| 3-Feb      | W   | ChIP-Seq Primer - II                                                  | 06                            | -             |
+| 5-Feb      | F   | Data Parsing/Cleaning - II ["Fix My Data"]                            | 07                            | -             |
+| 8-Feb      | M   | ENCODE Primer - I                                                     | 08                            | 05,06         |
+| 10-Feb     | W   | More on ENCODE - II                                                   | 09                            | -             |
+| 12-Feb     | F   | -                                                                     | PENN ENGAGEMENT DAY           | -             |
+| 15-Feb     | M   | Motif Disco/cis-reg/reg analysis I                                    | 10, 11, 12                    | 08,09         |
+| 17-Feb     | W   | Motif Disco/cis-reg/reg analysis II                                   | -                             | -             |
+| 19-Feb     | F   | Communication in bioinformatics and data science: a case example      | 13                            | -             |
+| 22-Feb     | M   | Intro to R - I                                                        | 14                            | 10,11,12      |
+| 24-Feb     | W   | Intro to R - II                                                       | 15                            | -             |
+| 26-Feb     | F   | Visualization in R: ggplot2 - I [Syntax for ggplot2, demystifying]    | 16                            | -             |
+| 1-Mar      | M   | Visualization in R: ggplot2 - II ["Plot My Data"]                     | 17                            | 14,15         |
+| 3-Mar      | W   | Intro to R - III - The Tidyverse                                      | 18                            | -             |
+| 5-Mar      | F   | Data Parsing/Cleaning - III ["Fix My Data with Tidyverse"]            | 19                            | -             |
+| 8-Mar      | M   | Tools for Reproducible Research                                       | 20                            | 17,18         |
+| 10-Mar     | W   | -                                                                     | SPRING BREAK                  | -             |
+| 12-Mar     | F   | -                                                                     | SPRING BREAK                  | -             |
+| 15-Mar     | M   | Analysis of Gene Expression (Arrays)                                  | 21,22,23                      | 20            |
+| 17-Mar     | W   | Functional Enrichment Analysis                                        | -                             | -             |
+| 19-Mar     | F   | Implementing a Pipeline - I ["Framework for a new analysis pipeline"] | 24                            | -             |
+| 22-Mar     | M   | RNA-Seq I                                                             | 25                            | 21,22,23      |
+| 24-Mar     | W   | RNA-Seq II                                                            | 26                            | -             |
+| 26-Mar     | F   | Implementing a Pipeline - II ["Fix My Pipeline"]                      | 27                            | -             |
+| 29-Mar     | M   | Sequence Alignment: Basics next gen                                   | 28                            | 25,26         |
+| 31-Mar     | W   | Bioinformatics in Pharmacology                                        | 29                            | -             |
+| 2-Apr      | F   | -                                                                     | Good Friday                   | -             |
+| 5-Apr      | M   | ATAC-Seq Primer - I                                                   | 31                            | 28,29         |
+| 7-Apr      | W   | ATAC-Seq Primer - II                                                  | 32                            | -             |
+| 9-Apr      | F   | Data Parsing/Cleaning - III ["Batch Effects"]                         | 33                            | -             |
+| 12-Apr     | M   | Intro to PLINK                                                        | 34                            | 31,32         |
+| 14-Apr     | W   | Analysis of Genetic Variation                                         | 35                            | -             |
+| 16-Apr     | F   | Debugging Code - I ["Approach to fixing and testing Code"]            | 36                            | -             |
+| 19-Apr     | M   | Single cell RNA-Seq Analysis - I                                      | 37                            | 34,35         |
+| 21-Apr     | W   | Single cell RNA-Seq Analysis II                                       | 38                            | -             |
+| 23-Apr     | F   | Debugging Code - II ["Fix My Code"]                                   | 39                            | -             |
+| 26-Apr     | M   | CRISPR Screening - I (MANDATORY for Participation)                    | 40                            | 37,38         |
+| 28-Apr     | W   | CRISPR Screening - II                                                 | 41                            | -             |
+| May 4 - 11 | -   | Final Exam Week                                                       | 99                            | FINAL due TBD |
