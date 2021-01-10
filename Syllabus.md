@@ -25,7 +25,6 @@ We do not reliably check the Canvas messaging functionality.
 ### Teaching assistants
 
 [Amy Campbell](mailto:acampbe@pennmedicine.upenn.edu): acampbe@pennmedicine.upenn.edu
-
 [Emily O’Driscoll](mailto:emilyod@pennmedicine.upenn.edu): emilyod@pennmedicine.upenn.edu
 
 ### Keywords
@@ -33,7 +32,7 @@ We do not reliably check the Canvas messaging functionality.
 * Ben Voight: human genetics, statistics, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-* Amy Campbell: XXXX
+* Amy Campbell: microbiome, comparative genomics, pathogen biology
 * Emily O'Driscoll: CRISPR Screens, Neurodegeneration, Proteolytic Cleavage
 
 ## Location and time
@@ -55,7 +54,8 @@ Office hours with Ben and Ophir are generally open door. However, students may
 schedule meetings during this time with the course directors, and scheduled
 students will receive precedence. To schedule a meeting, send a quick e-mail to
 the course directors. There are some days where there are preexisting conflicts
-with regularly scheduled office hours. We've created a [table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
+with regularly scheduled office hours. We've created a 
+[table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
 for your convenience.
 
 * BFV: Wednesday 11a-12p
