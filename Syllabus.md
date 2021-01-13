@@ -60,7 +60,7 @@ with regularly scheduled office hours. We've created a
 for your convenience.
 
 * BFV: Wednesday 11a-12p
-* OS: Monday 1-2 PM 
+* OS: Monday 2-3 PM 
 * TAs: Thursday 4:30-5:30pm
 
 ## Course web site
