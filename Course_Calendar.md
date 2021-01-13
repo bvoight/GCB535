@@ -12,7 +12,7 @@
 | 5-Feb      | F   | Data Parsing/Cleaning - II (Fix My Data)                          | 07                             | -                 |
 | 8-Feb      | M   | ENCODE Primer - I                                                 | 08                             | 05,06             |
 | 10-Feb     | W   | More on ENCODE - II                                               | 09                             | -                 |
-| 12-Feb     | F   | -                                                                 | NO CLASS (Penn Engagement Day) | -                 |
+| 12-Feb     | F   | -                                                                 | NO CLASS (Penn Engagement)     | -                 |
 | 15-Feb     | M   | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12                       | 08,09             |
 | 17-Feb     | W   | Motif Disco/cis-reg/regulatory analysis                           | -                              | -                 |
 | 19-Feb     | F   | Debugging Code (Approach to Fixing and Testing Code)              | 13                             | -                 |
