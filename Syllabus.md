@@ -25,6 +25,7 @@ We do not reliably check the Canvas messaging functionality.
 ### Teaching assistants
 
 [Amy Campbell](mailto:acampbe@pennmedicine.upenn.edu): acampbe@pennmedicine.upenn.edu
+
 [Emily O’Driscoll](mailto:emilyod@pennmedicine.upenn.edu): emilyod@pennmedicine.upenn.edu
 
 ### Keywords
@@ -155,4 +156,5 @@ regarding the office of academic integrity for Penn’s policy on plagiarism and
 our discretion on grading.
 
 https://provost.upenn.edu/policies/faculty-handbook/students/iv-d
+
 http://www.upenn.edu/academicintegrity/ai_violations.html
