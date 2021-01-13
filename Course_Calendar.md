@@ -12,7 +12,7 @@
 | 5-Feb      | F   | Data Parsing/Cleaning - II (Fix My Data)                          | 07                             | -                 |
 | 8-Feb      | M   | ENCODE Primer - I                                                 | 08                             | 05,06             |
 | 10-Feb     | W   | More on ENCODE - II                                               | 09                             | -                 |
-| 12-Feb     | F   | -                                                                 | NO CLASS (Penn Engagement)     | -                 |
+| 12-Feb     | F   | -                                                                 | NO CLASS (Penn Engagement Day) | -                 |
 | 15-Feb     | M   | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12                       | 08,09             |
 | 17-Feb     | W   | Motif Disco/cis-reg/regulatory analysis                           | -                              | -                 |
 | 19-Feb     | F   | Debugging Code (Approach to Fixing and Testing Code)              | 13                             | -                 |
@@ -37,8 +37,8 @@
 | 5-Apr      | M   | Machine Learning - I                                              | 31                             | 28,29             |
 | 7-Apr      | W   | Machine Learning - II                                             | 32                             | -                 |
 | 9-Apr      | F   | Machine Learning - III                                            | 33                             | -                 |
-| 12-Apr     | M   | Intro to PLINK                                                    | 34                             | 31,32             |
-| 14-Apr     | W   | Analysis of Genetic Variation                                     | 35                             | -                 |
+| 12-Apr     | M   | Analyis of Genetic Variation - I (PLINK)                          | 34                             | 31,32             |
+| 14-Apr     | W   | Analysis of Genetic Variation - II                                | 35                             | -                 |
 | 16-Apr     | F   | Equity and Inclusion in Bioinformatics [***PARTICIPATION***]      | 36                             | -                 |
 | 19-Apr     | M   | Single cell RNA-Seq Analysis - I                                  | 37                             | 34,35             |
 | 21-Apr     | W   | Single cell RNA-Seq Analysis II                                   | 38                             | -                 |
