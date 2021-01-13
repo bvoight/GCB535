@@ -60,8 +60,7 @@ for your convenience.
 
 * BFV: Wednesday 11a-12p
 * OS: Monday 1-2 PM 
-* TAs: XXXXX
-* TAs: XXXXX
+* TAs: Thursday 4:30-5:30pm
 
 ## Course web site
 
