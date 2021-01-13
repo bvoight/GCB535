@@ -6,16 +6,16 @@
 | 22-Jan     | F   | Seeking Biological Info Online                                    | 01                             | 00                |
 | 25-Jan     | M   | UNIX Directories and Files                                        | 02                             | 01                |
 | 27-Jan     | W   | UNIX Web Resources and Workflows                                  | 03                             | -                 |
-| 29-Jan     | F   | Data Parsing/Cleaning - I (Simple rules for new analysis tasks)   | 04                             | -                 |
+| 29-Jan     | F   | Data Parsing/Cleaning - I (Principles for a new analysis)         | 04                             | -                 |
 | 1-Feb      | M   | ChIP-Seq Primer - I                                               | 05                             | 02,03             |
 | 3-Feb      | W   | ChIP-Seq Primer - II                                              | 06                             | -                 |
-| 5-Feb      | F   | Data Parsing/Cleaning - II ("Fix My Data")                        | 07                             | -                 |
+| 5-Feb      | F   | Data Parsing/Cleaning - II (Fix My Data)                          | 07                             | -                 |
 | 8-Feb      | M   | ENCODE Primer - I                                                 | 08                             | 05,06             |
 | 10-Feb     | W   | More on ENCODE - II                                               | 09                             | -                 |
 | 12-Feb     | F   | -                                                                 | NO CLASS (Penn Engagement Day) | -                 |
 | 15-Feb     | M   | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12                       | 08,09             |
 | 17-Feb     | W   | Motif Disco/cis-reg/regulatory analysis                           | -                              | -                 |
-| 19-Feb     | F   | Debugging Code ("Approach to Fixing and Testing Code")            | 13                             | -                 |
+| 19-Feb     | F   | Debugging Code (Approach to Fixing and Testing Code)              | 13                             | -                 |
 | 22-Feb     | M   | Intro to R - I                                                    | 14                             | 10,11,12          |
 | 24-Feb     | W   | Intro to R - II                                                   | 15                             | -                 |
 | 26-Feb     | F   | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 16                             | -                 |
@@ -30,7 +30,7 @@
 | 19-Mar     | F   | Multiple Hypothesis Testing ("Intuition and FDR")                 | 24                             | -                 |
 | 22-Mar     | M   | RNA-Seq - I                                                       | 25                             | 21,22,23          |
 | 24-Mar     | W   | RNA-Seq - II                                                      | 26                             | -                 |
-| 26-Mar     | F   | Pipeline Implementation - I (Framework for an analysis pipeline)  | 27                             | -                 |
+| 26-Mar     | F   | Pipeline Implementation - I (Framework)                           | 27                             | -                 |
 | 29-Mar     | M   | Sequence Alignment: Basics next gen                               | 28                             | 25,26             |
 | 31-Mar     | W   | Bioinformatics in Pharmacology                                    | 29                             | -                 |
 | 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 |
