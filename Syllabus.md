@@ -98,7 +98,17 @@ BIOL526 (Experimental Principles in Cell and Molecular Biology), BIOL527
 Genetics), BIOL540 (Genetic Systems), or equivalent, is a prerequisite.
 
 ## Note on Reproducibility and Responsible Research
-
+Scientific rigor and reproducibility (SRR) is essential for progress, and especially so in 
+Bioinformatics. This course aims to address SRR by teaching students programming
+and computational pipeline building skills, so that students can generate results that are
+"technically reproducible" - that the same code run on the same input file generates
+the same output file or result each time. Moreover, the class will teach students
+technical an intuitional skills on how to look at, and evaluate, data sets they are 
+provided that might be established or new. This helps to generate SRR because 'bugs'
+or technical artefacts in data files hinders the production of reproducible results. 
+Students who leave the course will have developed their intuition and 'healthy skepticism'
+new data sets they encounter, and a framework to evaluate, visualize, and correct
+issues in data as they are encountered.
 
 ## Equipment prerequisite
 
