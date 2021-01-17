@@ -1,8 +1,7 @@
 ### Instructions for setting up the course on CoCalc
+### updated: BFV on 01-17-2021
 
-## updated: BFV on 01-17-2021
-
-* In this iteration, I decided not to put GCB535-Keys up on CoCalc -- we can edit those 'behind the scenes' on local machines as it were. thus, walk through for this is getting moved to the end "archive"
+In this iteration, I decided not to put GCB535-Keys up on CoCalc -- we can edit those 'behind the scenes' on local machines as it were. thus, walk through for this is getting moved to the end "archive"
 
 1. Login to CoCalc.
 2. If you haven't already done so, setup your [ssh keys](https://cocalc.com/settings/ssh-keys?session=default). [I had to remotely log in to sciget to get this to work]
