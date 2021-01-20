@@ -19,7 +19,7 @@
 | 22-Feb     | M   | Intro to R - I                                                    | 14                             | 10,11,12          |
 | 24-Feb     | W   | Intro to R - II                                                   | 15                             | -                 |
 | 26-Feb     | F   | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 16                             | -                 |
-| 1-Mar      | M   | Visualization in R: ggplot2 - II (Plot My Data)                   | 17                             | 14,15             |
+| 1-Mar      | M   | Visualization in R: ggplot2 - II (Plot My Data)                   | 17                             | 13,14,15          |
 | 3-Mar      | W   | Intro to R - III - The Tidyverse                                  | 18                             | -                 |
 | 5-Mar      | F   | Data Parsing/Cleaning - III (Fix My Data with Tidyverse)          | 19                             | -                 |
 | 8-Mar      | M   | Tools for Reproducible Research                                   | 20                             | 18                |
@@ -34,7 +34,7 @@
 | 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | 25,26             |
 | 31-Mar     | W   | Bioinformatics in Pharmacology                                    | 29                             | -                 |
 | 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 |
-| 5-Apr      | M   | Machine Learning - I                                              | 31                             | 28,29             |
+| 5-Apr      | M   | Machine Learning - I                                              | 31                             | 29                |
 | 7-Apr      | W   | Machine Learning - II                                             | 32                             | -                 |
 | 9-Apr      | F   | Machine Learning - III                                            | 33                             | -                 |
 | 12-Apr     | M   | Analyis of Genetic Variation - I (PLINK)                          | 34                             | 31,32             |
