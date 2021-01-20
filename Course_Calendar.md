@@ -15,7 +15,7 @@
 | 12-Feb     | F   | -                                                                 | NO CLASS (Penn Engagement Day) | -                 |
 | 15-Feb     | M   | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12                       | 08,09             |
 | 17-Feb     | W   | Motif Disco/cis-reg/regulatory analysis                           | -                              | -                 |
-| 19-Feb     | F   | Debugging Code (Approach to Fixing and Testing Code)              | 13                             | -                 |
+| 19-Feb     | F   | Sequence Alignment: Basics next gen                               | 13                             |                   |
 | 22-Feb     | M   | Intro to R - I                                                    | 14                             | 10,11,12          |
 | 24-Feb     | W   | Intro to R - II                                                   | 15                             | -                 |
 | 26-Feb     | F   | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 16                             | -                 |
@@ -30,8 +30,8 @@
 | 19-Mar     | F   | Multiple Hypothesis Testing ("Intuition and FDR")                 | 24                             | -                 |
 | 22-Mar     | M   | RNA-Seq - I                                                       | 25                             | 21,22,23          |
 | 24-Mar     | W   | RNA-Seq - II                                                      | 26                             | -                 |
-| 26-Mar     | F   | Pipeline Implementation - I (Framework)                           | 27                             | -                 |
-| 29-Mar     | M   | Sequence Alignment: Basics next gen                               | 28                             | 25,26             |
+| 26-Mar     | F   | Debugging Code (Approach to Fixing and Testing Code)              | 27                             | -                 |
+| 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | 25,26             |
 | 31-Mar     | W   | Bioinformatics in Pharmacology                                    | 29                             | -                 |
 | 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 |
 | 5-Apr      | M   | Machine Learning - I                                              | 31                             | 28,29             |
@@ -42,7 +42,7 @@
 | 16-Apr     | F   | Equity and Inclusion in Bioinformatics [***PARTICIPATION***]      | 36                             | -                 |
 | 19-Apr     | M   | Single cell RNA-Seq Analysis - I                                  | 37                             | 34,35             |
 | 21-Apr     | W   | Single cell RNA-Seq Analysis II                                   | 38                             | -                 |
-| 23-Apr     | F   | Data Parsing/Cleaning - III (Batch Effects)                       | 39                             | -                 |
+| 23-Apr     | F   | Data Parsing/Cleaning - IV (Batch Effects)                        | 39                             | -                 |
 | 26-Apr     | M   | CRISPR Screening - I                                              | 40                             | 37,38             |
 | 28-Apr     | W   | CRISPR Screening - II                                             | 41                             | Last Day of Class |
 | 30-Apr     | F   | -                                                                 | NO CLASS                       | 40,41             |
