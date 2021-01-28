@@ -3,11 +3,11 @@
 sage-jupyter$
 sage-chat$
 \.*
-testbed/*
 ^GCB535-Keys/
 .ipynb_checkpoints
 *.course
 GCB535-*
+*-collect
 *DUE_DATE.txt
-2017*
-02_UNIX-I/UNIX-I-InClass.ipynb
+2021*
+^workspace/
