@@ -37,8 +37,8 @@
 | 5-Apr      | M   | Machine Learning - I                                              | 31                             | 29                | -              |
 | 7-Apr      | W   | Machine Learning - II                                             | 32                             | -                 | -              |
 | 9-Apr      | F   | Machine Learning - III                                            | 33                             | -                 | -              |
-| 12-Apr     | M   | Analyis of Genetic Variation - I (PLINK)                          | 34                             | 31,32             | -              |
-| 14-Apr     | W   | Analysis of Genetic Variation - II                                | 35                             | -                 | -              |
+| 12-Apr     | M   | -                                                                 | NO CLASS (Penn Engagement Day) |                   | -              |
+| 14-Apr     | W   | Analysis of Genetic Variation                                     | 34,35                          | 31,32             | -              |
 | 16-Apr     | F   | Equity and Inclusion in Bioinformatics                            | 36                             | -                 | Yes            |
 | 19-Apr     | M   | Single cell RNA-Seq Analysis - I                                  | 37                             | 34,35             | -              |
 | 21-Apr     | W   | Single cell RNA-Seq Analysis II                                   | 38                             | -                 | -              |
