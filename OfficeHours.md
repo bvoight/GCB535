@@ -12,7 +12,7 @@
 | 10-Feb | W   | -              | Hours with Ben Available on Request |
 | 11-Feb | Th  | 4:30 - 5:30p   | Amy/Emily                           |
 | 15-Feb | M   | 2:00 - 3:00p   | Ophir                               |
-| 17-Feb | W   | 11:00 - 12:00p | Ben                                 |
+| 17-Feb | W   | -              | Hours with Ben Available on Request |
 | 18-Feb | Th  | 4:30 - 5:30p   | Amy/Emily                           |
 | 22-Feb | M   | 2:00 - 3:00p   | Ophir                               |
 | 24-Feb | W   | 11:00 - 12:00p | Ben                                 |
