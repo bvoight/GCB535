@@ -15,14 +15,14 @@
 | 12-Feb     | F   | -                                                                 | NO CLASS (Penn Engagement Day) | -                 | -              |
 | 15-Feb     | M   | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12                       | 08,09             | -              |
 | 17-Feb     | W   | Motif Disco/cis-reg/regulatory analysis                           | -                              | -                 | -              |
-| 19-Feb     | F   | Sequence Alignment: Basics next gen                               | 13                             |                   | -              |
+| 19-Feb     | F   | Sequence Alignment: Basics next gen                               | 13                             | -                 | -              |
 | 22-Feb     | M   | Intro to R - I                                                    | 14                             | 10,11,12          | -              |
 | 24-Feb     | W   | Intro to R - II                                                   | 15                             | -                 | -              |
-| 26-Feb     | F   | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 16                             | -                 | Yes            |
-| 1-Mar      | M   | Visualization in R: ggplot2 - II (Plot My Data)                   | 17                             | 13,14,15          | Yes            |
-| 3-Mar      | W   | Intro to R - III - The Tidyverse                                  | 18                             | -                 | -              |
+| 26-Feb     | F   | Intro to R - III - The Tidyverse                                  | 16                             | -                 | -              |
+| 1-Mar      | M   | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 17                             | 13,14,15          | Yes            |
+| 3-Mar      | W   | Visualization in R: ggplot2 - II (Plot My Data)                   | 18                             | -                 | -              |
 | 5-Mar      | F   | Data Parsing/Cleaning - III (Fix My Data with Tidyverse)          | 19                             | -                 | Yes            |
-| 8-Mar      | M   | Tools for Reproducible Research                                   | 20                             | 18                | -              |
+| 8-Mar      | M   | Tools for Reproducible Research                                   | 20                             | 16,17,18          | -              |
 | 10-Mar     | W   | -                                                                 | NO CLASS (Spring Break)        | -                 | -              |
 | 12-Mar     | F   | -                                                                 | NO CLASS (Spring Break)        | -                 | -              |
 | 15-Mar     | M   | Analysis of Gene Expression (Arrays)                              | 21,22,23                       | 20                | -              |
