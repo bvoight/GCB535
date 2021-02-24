@@ -1,0 +1,57 @@
+state_name	state	population_2010
+Alaska	AK	710231
+Alabama	AL	4779736
+Arkansas	AR	2915918
+Arizona	AZ	6392017
+California	CA	37253956
+Colorado	CO	5029196
+Connecticut	CT	3574097
+District of Columbia	DC	601723
+Delaware	DE	897934
+Florida	FL	18801310
+Georgia	GA	9687653
+Hawaii	HI	1360301
+Iowa	IA	3046355
+Idaho	ID	1567582
+Illinois	IL	12830632
+Indiana	IN	6483802
+Kansas	KS	2853118
+Kentucky	KY	4339367
+Louisiana	LA	4533372
+Massachusetts	MA	6547629
+Maryland	MD	5773552
+Maine	ME	1328361
+Michigan	MI	9883640
+Minnesota	MN	5303925
+Missouri	MO	5988927
+Mississippi	MS	2967297
+Montana	MT	989415
+North Carolina	NC	9535483
+North Dakota	ND	672591
+Nebraska	NE	1826341
+New Hampshire	NH	1316470
+New Jersey	NJ	8791894
+New Mexico	NM	2059179
+Nevada	NV	2700551
+New York	NY	19378102
+Ohio	OH	11536504
+Oklahoma	OK	3751351
+Oregon	OR	3831074
+Pennsylvania	PA	12702379
+Puerto Rico	PR	3725789
+Rhode Island	RI	1052567
+South Carolina	SC	4625364
+South Dakota	SD	814180
+Tennessee	TN	6346105
+Texas	TX	25145561
+Utah	UT	2763885
+Virginia	VA	8001024
+Vermont	VT	625741
+Washington	WA	6724540
+Wisconsin	WI	5686986
+West Virginia	WV	1852994
+Wyoming	WY	563626
+American Samoa	AS	55519
+Guam	GU	159358
+Northern Mariana Islans	MP	53883
+US Virgin Islands	VI	106405
