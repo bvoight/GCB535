@@ -1,5 +1,3 @@
-# GCB/CIS/MTR 535 2021 Course Calendar
-
 | Date       | Day | Topic                                                             | In Class + Homework Directory  | Homework Due      | Participation? |
 |------------|-----|-------------------------------------------------------------------|--------------------------------|-------------------|----------------|
 | 20-Jan     | W   | Lecture Intro/Databases                                           | 00                             | -                 | -              |
@@ -28,7 +26,7 @@
 | 15-Mar     | M   | Analysis of Gene Expression (Arrays)                              | 21,22,23                       | 20                | -              |
 | 17-Mar     | W   | Analysis of Gene Expression (Arrays)                              | -                              | -                 | -              |
 | 19-Mar     | F   | Multiple Hypothesis Testing ("Intuition and FDR")                 | 24                             | -                 | Yes            |
-| 22-Mar     | M   | RNA-Seq - I                                                       | 25                             | 21,22,23          | -              |
+| 22-Mar     | M   | RNA-Seq - I                                                       | 25                             | 21,22,23          | Yes            |
 | 24-Mar     | W   | RNA-Seq - II                                                      | 26                             | -                 | -              |
 | 26-Mar     | F   | Debugging Code (Approach to Fixing and Testing Code)              | 27                             | -                 | Yes            |
 | 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | 25,26             | Yes            |
@@ -36,7 +34,7 @@
 | 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 | Yes            |
 | 5-Apr      | M   | Machine Learning - I                                              | 31                             | 29                | -              |
 | 7-Apr      | W   | Machine Learning - II                                             | 32                             | -                 | -              |
-| 9-Apr      | F   | Machine Learning - III                                            | 33                             | -                 | -              |
+| 9-Apr      | F   | Machine Learning - III                                            | 33                             | -                 | Yes            |
 | 12-Apr     | M   | -                                                                 | NO CLASS (Penn Engagement Day) |                   | -              |
 | 14-Apr     | W   | Analysis of Genetic Variation                                     | 34,35                          | 31,32             | -              |
 | 16-Apr     | F   | Equity and Inclusion in Bioinformatics                            | 36                             | -                 | Yes            |
