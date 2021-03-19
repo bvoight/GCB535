@@ -41,7 +41,7 @@
 | 19-Apr     | M   | Single cell RNA-Seq Analysis - I                                  | 37                             | 34,35             | -              |
 | 21-Apr     | W   | Single cell RNA-Seq Analysis II                                   | 38                             | -                 | -              |
 | 23-Apr     | F   | Data Parsing/Cleaning - IV (Batch Effects)                        | 39                             | -                 | Yes            |
-| 26-Apr     | M   | CRISPR Screening - I                                              | 40                             | 37,38             | -              |
+| 26-Apr     | M   | CRISPR Screening - I                                              | 40                             | 37,38             | Yes            |
 | 28-Apr     | W   | CRISPR Screening - II                                             | 41                             | Last Day of Class | -              |
 | 30-Apr     | F   | -                                                                 | NO CLASS                       | 40,41             | -              |
 | May 4 - 11 | -   | Final Exam Week                                                   | 99                             | FINAL due TBD     | -              |
