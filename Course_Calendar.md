@@ -26,9 +26,9 @@
 | 15-Mar     | M   | Analysis of Gene Expression (Arrays)                              | 21,22,23                       | 20                | -              |
 | 17-Mar     | W   | Analysis of Gene Expression (Arrays)                              | -                              | -                 | -              |
 | 19-Mar     | F   | Multiple Hypothesis Testing ("Intuition and FDR")                 | 24                             | -                 | Yes            |
-| 22-Mar     | M   | RNA-Seq - I                                                       | 25                             | 21,22,23          | Yes            |
-| 24-Mar     | W   | RNA-Seq - II                                                      | 26                             | -                 | -              |
-| 26-Mar     | F   | Debugging Code (Approach to Fixing and Testing Code)              | 27                             | -                 | Yes            |
+| 22-Mar     | M   | Debugging Code (Approach to Fixing and Testing Code)              | 25                             | 21,22,23          | Yes            |
+| 24-Mar     | W   | RNA-Seq - I                                                       | 26                             | -                 | -              |
+| 26-Mar     | F   | RNA-Seq - II                                                      | 27                             | -                 | -              |
 | 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | 25,26             | Yes            |
 | 31-Mar     | W   | Bioinformatics in Pharmacology                                    | 29                             | -                 | -              |
 | 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 | Yes            |
