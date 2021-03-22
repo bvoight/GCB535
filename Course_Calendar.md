@@ -29,7 +29,7 @@
 | 22-Mar     | M   | Debugging Code (Approach to Fixing and Testing Code)              | 25                             | 21,22,23          | Yes            |
 | 24-Mar     | W   | RNA-Seq - I                                                       | 26                             | -                 | -              |
 | 26-Mar     | F   | RNA-Seq - II                                                      | 27                             | -                 | -              |
-| 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | 25,26             | Yes            |
+| 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | 26,27             | Yes            |
 | 31-Mar     | W   | Bioinformatics in Pharmacology                                    | 29                             | -                 | -              |
 | 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 | Yes            |
 | 5-Apr      | M   | Machine Learning - I                                              | 31                             | 29                | -              |
