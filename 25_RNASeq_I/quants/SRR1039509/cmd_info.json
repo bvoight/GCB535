@@ -1,0 +1,12 @@
+{
+    "salmon_version": "0.14.1",
+    "index": "/proj/milovelab/anno/gencode.v29_salmon_0.14.1",
+    "libType": "A",
+    "threads": "6",
+    "validateMappings": [],
+    "gcBias": [],
+    "output": "quants/SRR1039509",
+    "mates1": "fastq/SRR1039509_1.fastq.gz",
+    "mates2": "fastq/SRR1039509_2.fastq.gz",
+    "auxDir": "aux_info"
+}
