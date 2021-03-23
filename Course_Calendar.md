@@ -26,10 +26,10 @@
 | 15-Mar     | M   | Analysis of Gene Expression (Arrays)                              | 21,22,23                       | 20                | -              |
 | 17-Mar     | W   | Analysis of Gene Expression (Arrays)                              | -                              | -                 | -              |
 | 19-Mar     | F   | Multiple Hypothesis Testing ("Intuition and FDR")                 | 24                             | -                 | Yes            |
-| 22-Mar     | M   | RNA-Seq - I                                                       | 25                             | 21,22,23          | Yes            |
-| 24-Mar     | W   | RNA-Seq - II                                                      | 26                             | -                 | -              |
-| 26-Mar     | F   | Debugging Code (Approach to Fixing and Testing Code)              | 27                             | -                 | Yes            |
-| 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | 25,26             | Yes            |
+| 22-Mar     | M   | Debugging Code (Approach to Fixing and Testing Code)              | 25                             | 21,22,23          | Yes            |
+| 24-Mar     | W   | RNA-Seq - I                                                       | 26                             | -                 | -              |
+| 26-Mar     | F   | RNA-Seq - II                                                      | 27                             | -                 | -              |
+| 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | 26,27             | Yes            |
 | 31-Mar     | W   | Bioinformatics in Pharmacology                                    | 29                             | -                 | -              |
 | 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 | Yes            |
 | 5-Apr      | M   | Machine Learning - I                                              | 31                             | 29                | -              |
@@ -41,7 +41,7 @@
 | 19-Apr     | M   | Single cell RNA-Seq Analysis - I                                  | 37                             | 34,35             | -              |
 | 21-Apr     | W   | Single cell RNA-Seq Analysis II                                   | 38                             | -                 | -              |
 | 23-Apr     | F   | Data Parsing/Cleaning - IV (Batch Effects)                        | 39                             | -                 | Yes            |
-| 26-Apr     | M   | CRISPR Screening - I                                              | 40                             | 37,38             | -              |
+| 26-Apr     | M   | CRISPR Screening - I                                              | 40                             | 37,38             | Yes            |
 | 28-Apr     | W   | CRISPR Screening - II                                             | 41                             | Last Day of Class | -              |
 | 30-Apr     | F   | -                                                                 | NO CLASS                       | 40,41             | -              |
 | May 4 - 11 | -   | Final Exam Week                                                   | 99                             | FINAL due TBD     | -              |
