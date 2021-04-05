@@ -32,9 +32,9 @@
 | 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | -                 | Yes            |
 | 31-Mar     | W   | Bioinformatics in Pharmacology                                    | 29                             | -                 | -              |
 | 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 | Yes            |
-| 5-Apr      | M   | Machine Learning - I                                              | 31                             | 27,29             | -              |
+| 5-Apr      | M   | Machine Learning - I                                              | 31                             | 29                | -              |
 | 7-Apr      | W   | Machine Learning - II                                             | 32                             | -                 | -              |
-| 9-Apr      | F   | Machine Learning - III                                            | 33                             | -                 | Yes            |
+| 9-Apr      | F   | Machine Learning - III                                            | 33                             | 27                | Yes            |
 | 12-Apr     | M   | -                                                                 | NO CLASS (Penn Engagement Day) |                   | -              |
 | 14-Apr     | W   | Analysis of Genetic Variation                                     | 34,35                          | 31,32             | -              |
 | 16-Apr     | F   | Equity and Inclusion in Bioinformatics                            | 36                             | -                 | Yes            |
