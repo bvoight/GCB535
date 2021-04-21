@@ -1,0 +1,27 @@
+setname,seqBatch,species,tissue
+1,adipose (h),D87PMJN1:253:D2GUAACXX:8,human,adipose
+2,adrenal (h),D87PMJN1:253:D2GUAACXX:8,human,adrenal
+3,brain (h),HWI-ST373:375:C3172ACXX:7,human,brain
+4,sigmoid (h),D87PMJN1:253:D2GUAACXX:8,human,sigmoid
+5,heart (h),D87PMJN1:253:D2GUAACXX:7,human,heart
+6,kidney (h),D87PMJN1:253:D2GUAACXX:7,human,kidney
+7,liver (h),D87PMJN1:253:D2GUAACXX:7,human,liver
+8,lung (h),D87PMJN1:253:D2GUAACXX:8,human,lung
+9,ovary (h),D87PMJN1:253:D2GUAACXX:8,human,ovary
+10,pancreas (h),HWI-ST373:375:C3172ACXX:7,human,pancreas
+11,spleen (h),D87PMJN1:253:D2GUAACXX:7,human,spleen
+12,small bowel (h),D87PMJN1:253:D2GUAACXX:7,human,small_bowel
+13,testis (h),D87PMJN1:253:D2GUAACXX:7,human,testis
+14,adipose (m),D4LHBFN1:276:C2HKJACXX:4,mouse,adipose
+15,adrenal (m),D4LHBFN1:276:C2HKJACXX:4,mouse,adrenal
+16,brain (m),HWI-ST373:375:C3172ACXX:7,mouse,brain
+17,sigmoid (m),D4LHBFN1:276:C2HKJACXX:4,mouse,sigmoid
+18,heart (m),MONK:312:C2GR3ACXX:6,mouse,heart
+19,kidney (m),MONK:312:C2GR3ACXX:6,mouse,kidney
+20,liver (m),MONK:312:C2GR3ACXX:6,mouse,liver
+21,lung (m),D4LHBFN1:276:C2HKJACXX:4,mouse,lung
+22,ovary (m),D4LHBFN1:276:C2HKJACXX:4,mouse,ovary
+23,pancreas (m),D4LHBFN1:276:C2HKJACXX:4,mouse,pancreas
+24,spleen (m),HWI-ST373:375:C3172ACXX:7,mouse,spleen
+25,small bowel (m),MONK:312:C2GR3ACXX:6,mouse,small_bowel
+26,testis (m),MONK:312:C2GR3ACXX:6,mouse,testis
