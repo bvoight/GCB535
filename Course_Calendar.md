@@ -1,47 +1,44 @@
-| Date       | Day | Topic                                                             | In Class + Homework Directory  | Homework Due      | Participation? |
-|------------|-----|-------------------------------------------------------------------|--------------------------------|-------------------|----------------|
-| 20-Jan     | W   | Lecture Intro/Databases                                           | 00                             | -                 | -              |
-| 22-Jan     | F   | Seeking Biological Info Online                                    | 01                             | 00                | -              |
-| 25-Jan     | M   | UNIX Directories and Files                                        | 02                             | 01                | -              |
-| 27-Jan     | W   | UNIX Web Resources and Workflows                                  | 03                             | -                 | -              |
-| 29-Jan     | F   | Data Parsing/Cleaning - I (Principles for a new analysis)         | 04                             | -                 | Yes            |
-| 1-Feb      | M   | ChIP-Seq Primer - I                                               | 05                             | 02,03             | -              |
-| 3-Feb      | W   | ChIP-Seq Primer - II                                              | 06                             | -                 | -              |
-| 5-Feb      | F   | Data Parsing/Cleaning - II (Fix My Data)                          | 07                             | -                 | Yes            |
-| 8-Feb      | M   | ENCODE Primer - I                                                 | 08                             | 05,06             | -              |
-| 10-Feb     | W   | More on ENCODE - II                                               | 09                             | -                 | -              |
-| 12-Feb     | F   | -                                                                 | NO CLASS (Penn Engagement Day) | -                 | -              |
-| 15-Feb     | M   | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12                       | 08,09             | -              |
-| 17-Feb     | W   | Motif Disco/cis-reg/regulatory analysis                           | -                              | -                 | -              |
-| 19-Feb     | F   | Sequence Alignment: Basics next gen                               | 13                             | -                 | -              |
-| 22-Feb     | M   | Intro to R - I                                                    | 14                             | 10,11,12          | -              |
-| 24-Feb     | W   | Intro to R - II                                                   | 15                             | -                 | -              |
-| 26-Feb     | F   | Intro to R - III - The Tidyverse                                  | 16                             | -                 | -              |
-| 1-Mar      | M   | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 17                             | 13,14,15          | Yes            |
-| 3-Mar      | W   | Visualization in R: ggplot2 - II (Plot My Data)                   | 18                             | -                 | -              |
-| 5-Mar      | F   | Data Parsing/Cleaning - III (Fix My Data with Tidyverse)          | 19                             | -                 | Yes            |
-| 8-Mar      | M   | Tools for Reproducible Research                                   | 20                             | 16,17,18          | -              |
-| 10-Mar     | W   | -                                                                 | NO CLASS (Spring Break)        | -                 | -              |
-| 12-Mar     | F   | -                                                                 | NO CLASS (Spring Break)        | -                 | -              |
-| 15-Mar     | M   | Analysis of Gene Expression (Arrays)                              | 21,22,23                       | 20                | -              |
-| 17-Mar     | W   | Analysis of Gene Expression (Arrays)                              | -                              | -                 | -              |
-| 19-Mar     | F   | Multiple Hypothesis Testing ("Intuition and FDR")                 | 24                             | -                 | Yes            |
-| 22-Mar     | M   | Debugging Code (Approach to Fixing and Testing Code)              | 25                             | 21,22,23          | Yes            |
-| 24-Mar     | W   | RNA-Seq - I                                                       | 26                             | -                 | -              |
-| 26-Mar     | F   | RNA-Seq - II                                                      | 27                             | -                 | -              |
-| 29-Mar     | M   | Pipeline Implementation - I (Framework)                           | 28                             | -                 | Yes            |
-| 31-Mar     | W   | Bioinformatics in Pharmacology                                    | 29                             | -                 | -              |
-| 2-Apr      | F   | Pipeline Implementation - II (Fix My Pipeline)                    | 30                             | -                 | Yes            |
-| 5-Apr      | M   | Machine Learning - I                                              | 31                             | 29                | -              |
-| 7-Apr      | W   | Machine Learning - II                                             | 32                             | -                 | -              |
-| 9-Apr      | F   | Machine Learning - III                                            | 33                             | 27                | Yes            |
-| 12-Apr     | M   | -                                                                 | NO CLASS (Penn Engagement Day) |                   | -              |
-| 14-Apr     | W   | Analysis of Genetic Variation                                     | 34,35                          | 31,32             | -              |
-| 16-Apr     | F   | Equity and Inclusion in Bioinformatics                            | 36                             | -                 | Yes            |
-| 19-Apr     | M   | Single cell RNA-Seq Analysis - I                                  | 37                             | 34,35             | -              |
-| 21-Apr     | W   | Single cell RNA-Seq Analysis II                                   | 38                             | -                 | -              |
-| 23-Apr     | F   | Data Parsing/Cleaning - IV (Batch Effects)                        | 39                             | -                 | Yes            |
-| 26-Apr     | M   | CRISPR Screening - I                                              | 40                             | 37,38             | Yes            |
-| 28-Apr     | W   | CRISPR Screening - II                                             | -                              | Last Day of Class | -              |
-| 30-Apr     | F   | -                                                                 | NO CLASS                       | 40                | -              |
-| May 4 - 11 | -   | Final Exam Week                                                   | 99                             | FINAL due TBD     | -              |
+| UNIT     | Date (2022) | Topic                                                             | Modules  | Recorded Lecture |
+|----------|-------------|-------------------------------------------------------------------|----------|------------------|
+| UNIT I   | 12-Jan      | Lecture Intro/Databases                                           | 00       | Yes              |
+| UNIT I   |             | Seeking Biological Info Online                                    | 01       | .                |
+| UNIT I   |             | UNIX Directories and Files                                        | 02       | .                |
+| UNIT I   |             | UNIX Web Resources and Workflows                                  | 03       | .                |
+| UNIT I   | 24-Jan      | Data Parsing/Cleaning - I (Principles for a new analysis)         | 04       | Yes              |
+|----------|-------------|-------------------------------------------------------------------|----------|------------------|
+| UNIT II  | 26-Jan      | ChIP-Seq Primer - I                                               | 05       | .                |
+| UNIT II  |             | ChIP-Seq Primer - II                                              | 06       | .                |
+| UNIT II  |             | Data Parsing/Cleaning - II (Fix My Data)                          | 07       | Yes              |
+| UNIT II  |             | ENCODE Primer - I                                                 | 08       | .                |
+| UNIT II  |             | More on ENCODE - II                                               | 09       | .                |
+| UNIT II  |             | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12 | .                |
+| UNIT II  |             | Sequence Alignment: Basics next gen                               | 13       | .                |
+| UNIT II  |             | Intro to R - I                                                    | 14       | .                |
+| UNIT II  |             | Intro to R - II                                                   | 15       | .                |
+| UNIT II  |             | Intro to R - III - The Tidyverse                                  | 16       | .                |
+| UNIT II  | 21-Feb      | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 17       | .                |
+|----------|-------------|-------------------------------------------------------------------|----------|------------------|
+| UNIT III | 23-Feb      | Visualization in R: ggplot2 - II (Plot My Data)                   | 18       | .                |
+| UNIT III |             | Data Parsing/Cleaning - III (Fix My Data with Tidyverse)          | 19       | Yes              |
+| UNIT III |             | Tools for Reproducible Research                                   | 20       | .                |
+| UNIT III |             | Analysis of Gene Expression (Arrays)                              | 21,22,23 | .                |
+| UNIT III |             | Analysis of Gene Expression (Arrays)                              | -        | .                |
+| UNIT III |             | Multiple Hypothesis Testing ("Intuition and FDR")                 | 24       | Yes              |
+| UNIT III |             | Debugging Code (Approach to Fixing and Testing Code)              | 25       | TBD              |
+| UNIT III |             | RNA-Seq - I                                                       | 26       | .                |
+| UNIT III |             | RNA-Seq - II                                                      | 27       | .                |
+| UNIT III |             | Pipeline Implementation - I (Framework)                           | 28       | Yes              |
+| UNIT III | 25-Mar      | Bioinformatics in Pharmacology                                    | 29       | .                |
+|----------|-------------|-------------------------------------------------------------------|----------|------------------|
+| UNIT IV  | 28-Mar      | Pipeline Implementation - II (Fix My Pipeline)                    | 30       | .                |
+| UNIT IV  |             | Machine Learning - I                                              | 31       | .                |
+| UNIT IV  |             | Machine Learning - II                                             | 32       | .                |
+| UNIT IV  |             | Machine Learning - III                                            | 33       | .                |
+| UNIT IV  |             | Analysis of Genetic Variation                                     | 34,35    | .                |
+| UNIT IV  |             | Equity and Inclusion in Bioinformatics                            | 36       | Yes              |
+| UNIT IV  |             | Single cell RNA-Seq Analysis - I                                  | 37       | .                |
+| UNIT IV  |             | Single cell RNA-Seq Analysis II                                   | 38       | .                |
+| UNIT IV  |             | Data Parsing/Cleaning - IV (Batch Effects)                        | 39       | Yes              |
+| UNIT IV  |             | CRISPR Screening - I                                              | 40       | Yes              |
+| UNIT IV  | 27-Apr      | CRISPR Screening - II                                             | 41       | .                |
+|----------|-------------|-------------------------------------------------------------------|----------|------------------|

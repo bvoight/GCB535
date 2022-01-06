@@ -1,5 +1,5 @@
-# GCB535
-This repository contains the course materials for GCB 535 taught at the
+# GCB535  / GCB999
+This repository contains the course materials for GCB535 (or GCB999) taught at the
 University of Pennsylvania.
 
 ## CoCalc 
