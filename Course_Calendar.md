@@ -1,21 +1,21 @@
-| UNIT     | Date (2022) | Topic                                                             | Modules  | Recorded Lecture |
+| UNIT     | Date (2022), Start -> End| Topic                                                             | Modules  | Recorded Lecture |
 |----------|-------------|-------------------------------------------------------------------|----------|------------------|
 | UNIT I   | 12-Jan      | Lecture Intro/Databases                                           | 00       | Yes              |
-| UNIT I   |             | Seeking Biological Info Online                                    | 01       | .                |
-| UNIT I   |             | UNIX Directories and Files                                        | 02       | .                |
-| UNIT I   |             | UNIX Web Resources and Workflows                                  | 03       | .                |
+| UNIT I   | -->         | Seeking Biological Info Online                                    | 01       | .                |
+| UNIT I   | -->         | UNIX Directories and Files                                        | 02       | .                |
+| UNIT I   | -->         | UNIX Web Resources and Workflows                                  | 03       | .                |
 | UNIT I   | 24-Jan      | Data Parsing/Cleaning - I (Principles for a new analysis)         | 04       | Yes              |
 |----------|-------------|-------------------------------------------------------------------|----------|------------------|
 | UNIT II  | 26-Jan      | ChIP-Seq Primer - I                                               | 05       | .                |
-| UNIT II  |             | ChIP-Seq Primer - II                                              | 06       | .                |
-| UNIT II  |             | Data Parsing/Cleaning - II (Fix My Data)                          | 07       | Yes              |
-| UNIT II  |             | ENCODE Primer - I                                                 | 08       | .                |
-| UNIT II  |             | More on ENCODE - II                                               | 09       | .                |
-| UNIT II  |             | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12 | .                |
-| UNIT II  |             | Sequence Alignment: Basics next gen                               | 13       | .                |
-| UNIT II  |             | Intro to R - I                                                    | 14       | .                |
-| UNIT II  |             | Intro to R - II                                                   | 15       | .                |
-| UNIT II  |             | Intro to R - III - The Tidyverse                                  | 16       | .                |
+| UNIT II  | -->         | ChIP-Seq Primer - II                                              | 06       | .                |
+| UNIT II  | -->         | Data Parsing/Cleaning - II (Fix My Data)                          | 07       | Yes              |
+| UNIT II  | -->         | ENCODE Primer - I                                                 | 08       | .                |
+| UNIT II  | -->         | More on ENCODE - II                                               | 09       | .                |
+| UNIT II  | -->         | Motif Disco/cis-reg/regulatory analysis                           | 10,11,12 | .                |
+| UNIT II  | -->         | Sequence Alignment: Basics next gen                               | 13       | .                |
+| UNIT II  | -->         | Intro to R - I                                                    | 14       | .                |
+| UNIT II  | -->         | Intro to R - II                                                   | 15       | .                |
+| UNIT II  | -->         | Intro to R - III - The Tidyverse                                  | 16       | .                |
 | UNIT II  | 21-Feb      | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 17       | .                |
 |----------|-------------|-------------------------------------------------------------------|----------|------------------|
 | UNIT III | 23-Feb      | Visualization in R: ggplot2 - II (Plot My Data)                   | 18       | .                |
