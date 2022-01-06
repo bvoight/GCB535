@@ -22,7 +22,6 @@
 | UNIT III | -->         | Data Parsing/Cleaning - III (Fix My Data with Tidyverse)          | 19       | Yes              |
 | UNIT III | -->         | Tools for Reproducible Research                                   | 20       | .                |
 | UNIT III | -->         | Analysis of Gene Expression (Arrays)                              | 21,22,23 | .                |
-| UNIT III | -->         | Analysis of Gene Expression (Arrays)                              | -        | .                |
 | UNIT III | -->         | Multiple Hypothesis Testing ("Intuition and FDR")                 | 24       | Yes              |
 | UNIT III | -->         | Debugging Code (Approach to Fixing and Testing Code)              | 25       | TBD              |
 | UNIT III | -->         | RNA-Seq - I                                                       | 26       | .                |
