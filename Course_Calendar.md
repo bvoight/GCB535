@@ -1,6 +1,6 @@
 | UNIT     | Date (2022), Start -> End| Topic                                                             | Modules  | Recorded Lecture |
 |----------|-------------|-------------------------------------------------------------------|----------|------------------|
-| UNIT I   | 12-Jan      | Lecture Intro/Databases                                           | 00       | Yes              |
+| UNIT I   | 12-Jan      | Lecture Intro/Databases                                           | 00       | [PennBox](https://upenn.box.com/s/1282i9qpwpl91oh4o7xuqzni2u1q8lyi)              |
 | UNIT I   | -->         | Seeking Biological Info Online                                    | 01       | .                |
 | UNIT I   | -->         | UNIX Directories and Files                                        | 02       | .                |
 | UNIT I   | -->         | UNIX Web Resources and Workflows                                  | 03       | .                |
