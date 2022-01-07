@@ -1,6 +1,6 @@
 | UNIT     | Date (2022), Start -> End | Topic                                               | Module   | Additional Content |
 |----------|-------------|-------------------------------------------------------------------|----------|------------------|
-| UNIT I   | 12-Jan      | Lecture Intro/Databases                                           | 00       | [[999-Overview]](https://upenn.box.com/s/foenpvzswsckuhfg6ga5zukij5y16txc) [[MP4]](https://upenn.box.com/s/1282i9qpwpl91oh4o7xuqzni2u1q8lyi) [[PDF]])https://upenn.box.com/s/ge6qhsv8owzpmoftp9bkuxg8mfvnf38i)              |
+| UNIT I   | 12-Jan      | Lecture Intro/Databases                                           | 00       | [[999-Overview]](https://upenn.box.com/s/foenpvzswsckuhfg6ga5zukij5y16txc) [[MP4]](https://upenn.box.com/s/1282i9qpwpl91oh4o7xuqzni2u1q8lyi) [[PDF]](https://upenn.box.com/s/ge6qhsv8owzpmoftp9bkuxg8mfvnf38i)              |
 | UNIT I   | -->         | Seeking Biological Info Online                                    | 01       | .                |
 | UNIT I   | -->         | UNIX Directories and Files                                        | 02       | [[UNIX-CheatSheet]](https://upenn.box.com/s/wgr9xzqg7tlfdpc1iogen47erm7ivd8t)                |
 | UNIT I   | -->         | UNIX Web Resources and Workflows                                  | 03       | .                |
