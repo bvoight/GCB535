@@ -58,7 +58,7 @@ activities. Course material is aimed to address biological questions using
 computational approaches and the analysis of data.
 
 A basic primer in programming and operating in a UNIX environment will be
-presented, and students will also be introduced to Python, R, and tools for
+presented, and students will also be introduced to R and tools for
 reproducible research. This course emphasizes direct, hands-on experience with
 applications to current biological research problems. The course is **NOT
 INTENDED** for computer science students who want to learn about biologically
