@@ -38,8 +38,8 @@ That will be planned subsequently during the first meeting of the independent st
 
 The first meeting on the class is planned (tentatively) for:
 
-* Wednesday, Jan 12th, 2022
-* 11a - 12p, ET
+    Wednesday, Jan 12th, 2022
+    11a - 12p, ET
 
 We plan to have a slack channel from which communication between students and with Ophir and Ben is available.
 
