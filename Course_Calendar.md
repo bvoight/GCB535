@@ -1,6 +1,6 @@
 | UNIT     | Date (2022), Start -> End | Topic                                               | Module   | Additional Content |
 |----------|-------------|-------------------------------------------------------------------|----------|------------------|
-| UNIT I   | 12-Jan      | Lecture Intro/Databases                                           | 00       | [[MP4]](https://upenn.box.com/s/1282i9qpwpl91oh4o7xuqzni2u1q8lyi)              |
+| UNIT I   | 12-Jan      | Lecture Intro/Databases                                           | 00       | [[999-Overview]](https://upenn.box.com/s/foenpvzswsckuhfg6ga5zukij5y16txc) [[MP4]](https://upenn.box.com/s/1282i9qpwpl91oh4o7xuqzni2u1q8lyi) [[PDF]])https://upenn.box.com/s/ge6qhsv8owzpmoftp9bkuxg8mfvnf38i)              |
 | UNIT I   | -->         | Seeking Biological Info Online                                    | 01       | .                |
 | UNIT I   | -->         | UNIX Directories and Files                                        | 02       | [[UNIX-CheatSheet]](https://upenn.box.com/s/wgr9xzqg7tlfdpc1iogen47erm7ivd8t)                |
 | UNIT I   | -->         | UNIX Web Resources and Workflows                                  | 03       | .                |
@@ -16,7 +16,7 @@
 | UNIT II  | -->         | Intro to R - I                                                    | 14       | .                |
 | UNIT II  | -->         | Intro to R - II                                                   | 15       | .                |
 | UNIT II  | -->         | Intro to R - III - The Tidyverse                                  | 16       | .                |
-| UNIT II  | 21-Feb      | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 17       | .                |
+| UNIT II  | 21-Feb      | Visualization in R: ggplot2 - I (Demystifying syntax for ggplot2) | 17       | [[ggplot-cheatsheet]](https://upenn.box.com/s/brmnuz1aopwx4l4psmvtlisxerj41g1r)                |
 |-|-|-|-|-|
 | UNIT III | 23-Feb      | Visualization in R: ggplot2 - II (Plot My Data)                   | 18       | .                |
 | UNIT III | -->         | Data Parsing/Cleaning - III (Fix My Data with Tidyverse)          | 19       | [[MP4]](https://upenn.box.com/s/02qsp4alm1rf1tb6z34pucml90xpycg3) [[PDF]](https://upenn.box.com/s/bhgstgq1x39q1m0fal1bzuyiirbd81oj)              |
@@ -26,10 +26,10 @@
 | UNIT III | -->         | Debugging Code (Approach to Fixing and Testing Code)              | 25       | [[PDF]](https://upenn.box.com/s/mguphf429pbtl06mlfija6da6zzzhfpe)              |
 | UNIT III | -->         | RNA-Seq - I                                                       | 26       | .                |
 | UNIT III | -->         | RNA-Seq - II                                                      | 27       | .                |
-| UNIT III | -->         | Pipeline Implementation - I (Framework)                           | 28       | [[MP4]](https://upenn.box.com/s/jgy3m8bhjgpgsbo82t1c1obx57trlr4u) [[PDF]](https://upenn.box.com/s/ktjiyh01n9cte6qdosep7q869sdjydd6)             |
+| UNIT III | -->         | Pipeline Implementation - I (Framework)                           | 28       | [[MP4]](https://upenn.box.com/s/jgy3m8bhjgpgsbo82t1c1obx57trlr4u) [[PDF]](https://upenn.box.com/s/ktjiyh01n9cte6qdosep7q869sdjydd6) [[RKey]](https://upenn.box.com/s/l6ch8qicb99mquhnx74um8cckr2f926l)            |
 | UNIT III | 25-Mar      | Bioinformatics in Pharmacology                                    | 29       | .                |
 |-|-|-|-|-|
-| UNIT IV  | 28-Mar      | Pipeline Implementation - II (Fix My Pipeline)                    | 30       | [[PDF]](https://upenn.box.com/s/jd52ndvjt6f0j05gucyix8jrksdcms7h)                |
+| UNIT IV  | 28-Mar      | Pipeline Implementation - II (Fix My Pipeline)                    | 30       | [[PDF]](https://upenn.box.com/s/jd52ndvjt6f0j05gucyix8jrksdcms7h) [[RKey]](https://upenn.box.com/s/grt32oqkqjlkei05bzq9b5no18kv09sm)               |
 | UNIT IV  | -->         | Machine Learning - I                                              | 31       | .                |
 | UNIT IV  | -->         | Machine Learning - II                                             | 32       | .                |
 | UNIT IV  | -->         | Machine Learning - III                                            | 33       | .                |
