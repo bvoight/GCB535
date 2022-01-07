@@ -1,11 +1,11 @@
-# GCB/CIS/MTR 999 (Spring 2022): Introduction to Bioinformatics
+# GCB/CIS/MTR 535 (2021): Introduction to Bioinformatics
 
 ## Course Staff
 
 ### Course Directors
 
-Please use e-mail to contact the course instructors for administrative questions.
-For technical questions about materials, please contact via Slack.
+Please use e-mail to contact the course instructors.
+We do not reliably check the Canvas messaging functionality.
 
 #### Benjamin F. Voight, PhD
     Department of Systems Pharmacology and Translational Therapeutics
@@ -22,33 +22,54 @@ For technical questions about materials, please contact via Slack.
     5th floor CTRB, room 5050
     shalemo@upenn.edu
 
+### Teaching assistants
+
+[Amy Campbell](mailto:acampbe@pennmedicine.upenn.edu): acampbe@pennmedicine.upenn.edu
+
+[Emily O’Driscoll](mailto:emilyod@pennmedicine.upenn.edu): emilyod@pennmedicine.upenn.edu
 
 ### Keywords
 
 * Ben Voight: human genetics, statistics, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-## Location, time, and contact
+* Amy Campbell: microbiome, comparative genomics, pathogen biology
+* Emily O'Driscoll: CRISPR Screens, Neurodegeneration, Proteolytic Cleavage
 
-This independent study will self-directed for Spring 2022.
+## Location and time
 
-We will schedule a regular "check-in" time, where professors will be available to troublshoot or answer question in real time.
+* The course will be administered virtually for Spring 2021
+* A Virtual Link will be provided to enrolled students on Canvas.
+* MWF 10-11a
 
-That will be planned subsequently during the first meeting of the independent study.
+## Office hours
 
-The first meeting on the class is planned (tentatively) for:
+Office hours are time that we (the instructors and TAs) set aside for you to 
+drop by to talk about the course and ask any questions that you may have.
 
-* Wednesday, Jan 12th, 20222
+This year, we are hosting office hours virtually, which will correspond to a
+designated time where a TA or instructor will be available to chat with you
+at the given time. Please feel free to attend at your convenience.
 
-We plan to have a slack channel from which communication between students and with Ophir and Ben is available.
+Office hours with Ben and Ophir are generally open door. However, students may
+schedule meetings during this time with the course directors, and scheduled
+students will receive precedence. To schedule a meeting, send a quick e-mail to
+the course directors. There are some days where there are preexisting conflicts
+with regularly scheduled office hours. We've created a 
+[table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
+for your convenience.
+
+* BFV: Wednesday 11a-12p
+* OS: Monday 2-3 PM 
+* TAs: Thursday 4:30-5:30pm
 
 ## Course web site
 
-We will use [CoCalc](https://cocalc.com/) for in class exercises and homework.
+We will use [CoCalc](https://cocalc.com/) for in class exercises
+and homework. Completed assignments will be collected through this system.
+[Canvas](https://upenn.instructure.com/) is used to return grades to students.
 
 ## Course description
-
-This independent study (GCB999) mirrors the offering of GCB/CIS/MTR535, Introduction to Bioinformatics.
 
 This course provides broad overview of bioinformatics and computational biology
 as applied to biomedical research. A primary objective of the course is to
@@ -77,7 +98,6 @@ BIOL526 (Experimental Principles in Cell and Molecular Biology), BIOL527
 Genetics), BIOL540 (Genetic Systems), or equivalent, is a prerequisite.
 
 ## Note on Reproducibility and Responsible Research
-
 Scientific rigor and reproducibility (SRR) is essential for progress, and especially so in 
 Bioinformatics. This course aims to address SRR by teaching students programming
 and computational pipeline building skills, so that students can generate results that are
@@ -92,7 +112,10 @@ issues in data as they are encountered.
 
 ## Equipment prerequisite
 
-All students will need a laptop for activities.
+All students are required to bring a laptop to class for in class activities.
+TAs will provide help with the material, but students should be computer-capable
+with their own laptop, and should be willing/capable to download and install
+free software from the Internet.
 
 ## Schedule
 
@@ -101,17 +124,34 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 
 ## Grading
 
-Given the fluid nature of this independent offering, we ask students to complete
-work on an ~monthly basis, but we will provide at least 1 months worth of materials
-in advance such that student could completely some/all of the work far ahead of time.
+### Composition of grades
 
-As a result, there will not be a "late" assignment policy. Grades will be based on the 
-number of modules that are completed, which includes the 'active exercise' and 'homework' 
-problems provided. 
+Grades are composed of:
 
-We will drop scores from the 3 lowest scoring assignments when determining the final grade.
+* homework assignments (50%)
+* prelab assignments (10%)
+* participation (5%)
+* final (35%)
 
-All modules that count for the final grade must be completed by April 27th to be considered. 
+For the homework grade, we will drop scores from the 3 lowest scoring
+assignments when determining the final grade.
+
+### Late grading policy:
+
+Our late grading policy is driven by fairness. This policy allows us to
+return assignments quickly while providing flexibility where it is required.
+
+* Prelab assignments are collected at the start of class. We are unable to
+accept late turn-ins. This material is required in order to fully participate
+in the in class exercises.
+
+* Homework for the previous week will be due at the start of each week on Monday
+at the start of class (e.g. homework assigned Monday, Wednesday, and/or Friday
+is due at the start of class on the next Monday at 10:00a). 
+
+* Homework will be accepted up to Wednesday of that week, but grades will be penalized 
+(minus 30% off). If you would like to have an assignment graded under this late policy, 
+you must e-mail one of the course directors before the start of the class period in question.
 
 ## Plagiarism policy
 
