@@ -34,9 +34,9 @@
 | UNIT IV  | -->         | Machine Learning - II                                             | 32       | .                |
 | UNIT IV  | -->         | Machine Learning - III                                            | 33       | .                |
 | UNIT IV  | -->         | Analysis of Genetic Variation                                     | 34,35    | [[MP4]](http://mediasite.med.upenn.edu/mediasite/Play/89e1290ecfb5479bb854a5b74c5052141d?catalog=55462b6a-67fa-4b15-9c5f-d942906915f9) [[PDF]](https://upenn.box.com/s/z6kvojon7aeduu8fayonm59iu0ytfov3)                |
-| UNIT IV  | -->         | Equity and Inclusion in Bioinformatics                            | 36       | [[MP4]](https://upenn.box.com/s/quq8an9d5330zta99ibzwrak37iynvg2) [[PDF]](https://upenn.box.com/s/0kyap6he0n6anep0ln7zf4rr0u0ksfhy) [[Readings]](https://upenn.box.com/s/uziygbc3w0npttq9j3gldgi09mqroszo)               |
+| UNIT IV  | -->         | Equity and Inclusion in Bioinformatics                            | .       | [[MP4]](https://upenn.box.com/s/quq8an9d5330zta99ibzwrak37iynvg2) [[PDF]](https://upenn.box.com/s/0kyap6he0n6anep0ln7zf4rr0u0ksfhy) [[Readings]](https://upenn.box.com/s/uziygbc3w0npttq9j3gldgi09mqroszo)               |
 | UNIT IV  | -->         | Single cell RNA-Seq Analysis - I                                  | 37       | .                |
 | UNIT IV  | -->         | Single cell RNA-Seq Analysis II                                   | 38       | .                |
 | UNIT IV  | -->         | Data Parsing/Cleaning - IV (Batch Effects)                        | 39       | [[MP4]](https://upenn.box.com/s/7h08hy5i874tyep3v1o3gfhpzix2c4kp)              |
-| UNIT IV  | -->         | CRISPR Screening - I                                              | 40       | [[MP4]](https://upenn.box.com/s/ltyagoksl1ea1ebxu0omekljezgssu67)              |
-| UNIT IV  | 27-Apr      | CRISPR Screening - II                                             | 41       | .                |
+| UNIT IV  | -->         | CRISPR Screening - I                                              | .       | [[MP4]](https://upenn.box.com/s/ltyagoksl1ea1ebxu0omekljezgssu67)              |
+| UNIT IV  | 27-Apr      | CRISPR Screening - II                                             | 40       | .                |
