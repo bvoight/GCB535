@@ -1,4 +1,4 @@
-# GCB/CIS/MTR 535 (2021): Introduction to Bioinformatics
+# GCB/CIS/MSTR 535 (2022): Introduction to Bioinformatics
 
 ## Course Staff
 
@@ -24,23 +24,24 @@ We do not reliably check the Canvas messaging functionality.
 
 ### Teaching assistants
 
-[Amy Campbell](mailto:acampbe@pennmedicine.upenn.edu): acampbe@pennmedicine.upenn.edu
+[Jake Leiby](mailto:jleiby@pennmedicine.upenn.edu): jleiby@pennmedicine.upenn.edu
 
-[Emily O’Driscoll](mailto:emilyod@pennmedicine.upenn.edu): emilyod@pennmedicine.upenn.edu
+[Carter Merenstein](mailto:cmeren@pennmedicine.upenn.edu ): cmeren@pennmedicine.upenn.edu 
 
 ### Keywords
 
-* Ben Voight: human genetics, statistics, cardiometabolic disease
+* Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-* Amy Campbell: microbiome, comparative genomics, pathogen biology
-* Emily O'Driscoll: CRISPR Screens, Neurodegeneration, Proteolytic Cleavage
+* Jake Leiby: microbiome, XXX
+* Carter Merenstein: microbiome, XXX
 
 ## Location and time
 
-* The course will be administered virtually for Spring 2021
-* A Virtual Link will be provided to enrolled students on Canvas.
-* MWF 10-11a
+* The course will be administered on campus for Spring 2022
+* 
+* SCTR 9-146
+* MWF 1:45-2:45p 
 
 ## Office hours
 
@@ -59,9 +60,9 @@ with regularly scheduled office hours. We've created a
 [table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
 for your convenience.
 
-* BFV: Wednesday 11a-12p
-* OS: Monday 2-3 PM 
-* TAs: Thursday 4:30-5:30pm
+* BFV: Friday 3-4p
+* OS: XXX
+* TAs: XXX
 
 ## Course web site
 
@@ -78,18 +79,17 @@ activities. Course material is aimed to address biological questions using
 computational approaches and the analysis of data.
 
 A basic primer in programming and operating in a UNIX environment will be
-presented, and students will also be introduced to Python, R, and tools for
+presented, and students will also be introduced to R and tools for
 reproducible research. This course emphasizes direct, hands-on experience with
 applications to current biological research problems. The course is **NOT
 INTENDED** for computer science students who want to learn about biologically
 motivated algorithmic problems; GCB/CIS/BIOL536 and GCB537 is more appropriate.
 
 Areas include DNA sequence alignment, genetic variation and analysis, motif
-discovery, study design for high-throughput sequencing, RNA and gene expression,
-single gene and whole-genome analysis, machine learning, and topics in systems
-biology. The relevant principles underlying methods used for analysis in these
-areas will be introduced and discussed at a level appropriate for biologists
-without a background in computer science.
+discovery, study design for high-throughput sequencing, RNA gene expression,
+single gene and whole-genome analysis, machine learning. The relevant principles 
+underlying methods used for analysis in these areas will be introduced and discussed 
+at a level appropriate for biologists without a background in computer science.
 
 The course will assume a solid knowledge of modern biology. An advanced
 undergraduate course such as BIOL421 or a graduate course in biology such as
@@ -129,11 +129,12 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 Grades are composed of:
 
 * homework assignments (50%)
-* prelab assignments (10%)
+* prelab assignments (5%)
 * participation (5%)
-* final (35%)
+* Exam One (20%)
+* Exam Two (20%)
 
-For the homework grade, we will drop scores from the 3 lowest scoring
+For the homework grade, we will drop scores from the 6 lowest scoring
 assignments when determining the final grade.
 
 ### Late grading policy:
