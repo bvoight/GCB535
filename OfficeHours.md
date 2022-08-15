@@ -5,7 +5,7 @@
 | 2-Sep  | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
 | -      | -   | -                | -           | Jake/Carter |
-| 9-Sep  | F   | 3-4p             | 10-126 SCTR | Ben         |
+| 9-Sep  | F   | By Appointment   | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
 | -      | -   | -                | -           | Jake/Carter |
 | 16-Sep | F   | 3-4p             | 10-126 SCTR | Ben         |
