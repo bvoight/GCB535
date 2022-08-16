@@ -1,11 +1,11 @@
-# GCB/CIS/MSTR 535 (2022): Introduction to Bioinformatics
+# GCB/CIS/MTR 999 (Spring 2022): Introduction to Bioinformatics
 
 ## Course Staff
 
 ### Course Directors
 
-Please use e-mail to contact the course instructors.
-We do not reliably check the Canvas messaging functionality.
+Please use e-mail to contact the course instructors for administrative questions.
+For technical questions about materials, please contact via Slack.
 
 #### Benjamin F. Voight, PhD
     Department of Systems Pharmacology and Translational Therapeutics
@@ -22,55 +22,34 @@ We do not reliably check the Canvas messaging functionality.
     5th floor CTRB, room 5050
     shalemo@upenn.edu
 
-### Teaching assistants
-
-[Jake Leiby](mailto:jleiby@pennmedicine.upenn.edu): jleiby@pennmedicine.upenn.edu
-
-[Carter Merenstein](mailto:cmeren@pennmedicine.upenn.edu ): cmeren@pennmedicine.upenn.edu 
 
 ### Keywords
 
-* Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
+* Ben Voight: human genetics, statistics, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-* Jake Leiby: microbiome, XXX
-* Carter Merenstein: microbiome, XXX
+## Location, time, and contact
 
-## Location and time
+This independent study will self-directed for Spring 2022.
 
-* The course will be administered on campus for Spring 2022
-* 
-* SCTR 9-146
-* MWF 1:45-2:45p 
+We will schedule a regular "check-in" time, where professors will be available to troublshoot or answer question in real time.
 
-## Office hours
+That will be planned subsequently during the first meeting of the independent study.
 
-Office hours are time that we (the instructors and TAs) set aside for you to 
-drop by to talk about the course and ask any questions that you may have.
+The first meeting on the class is planned (tentatively) for:
 
-This year, we are hosting office hours virtually, which will correspond to a
-designated time where a TA or instructor will be available to chat with you
-at the given time. Please feel free to attend at your convenience.
+    Wednesday, Jan 12th, 2022
+    11a - 12p, ET
 
-Office hours with Ben and Ophir are generally open door. However, students may
-schedule meetings during this time with the course directors, and scheduled
-students will receive precedence. To schedule a meeting, send a quick e-mail to
-the course directors. There are some days where there are preexisting conflicts
-with regularly scheduled office hours. We've created a 
-[table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
-for your convenience.
-
-* BFV: Friday 3-4p
-* OS: XXX
-* TAs: XXX
+We plan to have a slack channel from which communication between students and with Ophir and Ben is available.
 
 ## Course web site
 
-We will use [CoCalc](https://cocalc.com/) for in class exercises
-and homework. Completed assignments will be collected through this system.
-[Canvas](https://upenn.instructure.com/) is used to return grades to students.
+We will use [CoCalc](https://cocalc.com/) for in class exercises and homework.
 
 ## Course description
+
+This independent study (GCB999) mirrors the offering of GCB/CIS/MTR535, Introduction to Bioinformatics.
 
 This course provides broad overview of bioinformatics and computational biology
 as applied to biomedical research. A primary objective of the course is to
@@ -86,10 +65,11 @@ INTENDED** for computer science students who want to learn about biologically
 motivated algorithmic problems; GCB/CIS/BIOL536 and GCB537 is more appropriate.
 
 Areas include DNA sequence alignment, genetic variation and analysis, motif
-discovery, study design for high-throughput sequencing, RNA gene expression,
-single gene and whole-genome analysis, machine learning. The relevant principles 
-underlying methods used for analysis in these areas will be introduced and discussed 
-at a level appropriate for biologists without a background in computer science.
+discovery, study design for high-throughput sequencing, RNA and gene expression,
+single gene and whole-genome analysis, machine learning, and topics in systems
+biology. The relevant principles underlying methods used for analysis in these
+areas will be introduced and discussed at a level appropriate for biologists
+without a background in computer science.
 
 The course will assume a solid knowledge of modern biology. An advanced
 undergraduate course such as BIOL421 or a graduate course in biology such as
@@ -98,6 +78,7 @@ BIOL526 (Experimental Principles in Cell and Molecular Biology), BIOL527
 Genetics), BIOL540 (Genetic Systems), or equivalent, is a prerequisite.
 
 ## Note on Reproducibility and Responsible Research
+
 Scientific rigor and reproducibility (SRR) is essential for progress, and especially so in 
 Bioinformatics. This course aims to address SRR by teaching students programming
 and computational pipeline building skills, so that students can generate results that are
@@ -112,10 +93,7 @@ issues in data as they are encountered.
 
 ## Equipment prerequisite
 
-All students are required to bring a laptop to class for in class activities.
-TAs will provide help with the material, but students should be computer-capable
-with their own laptop, and should be willing/capable to download and install
-free software from the Internet.
+All students will need a laptop for activities.
 
 ## Schedule
 
@@ -124,35 +102,17 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 
 ## Grading
 
-### Composition of grades
+Given the fluid nature of this independent offering, we ask students to complete
+work on an ~monthly basis, but we will provide at least 1 months worth of materials
+in advance such that student could completely some/all of the work far ahead of time.
 
-Grades are composed of:
+As a result, there will not be a "late" assignment policy. Grades will be based on the 
+number of modules that are completed, which includes the 'active exercise' and 'homework' 
+problems provided. 
 
-* homework assignments (50%)
-* prelab assignments (5%)
-* participation (5%)
-* Exam One (20%)
-* Exam Two (20%)
+We will drop scores from the 3 lowest scoring assignments when determining the final grade.
 
-For the homework grade, we will drop scores from the 6 lowest scoring
-assignments when determining the final grade.
-
-### Late grading policy:
-
-Our late grading policy is driven by fairness. This policy allows us to
-return assignments quickly while providing flexibility where it is required.
-
-* Prelab assignments are collected at the start of class. We are unable to
-accept late turn-ins. This material is required in order to fully participate
-in the in class exercises.
-
-* Homework for the previous week will be due at the start of each week on Monday
-at the start of class (e.g. homework assigned Monday, Wednesday, and/or Friday
-is due at the start of class on the next Monday at 10:00a). 
-
-* Homework will be accepted up to Wednesday of that week, but grades will be penalized 
-(minus 30% off). If you would like to have an assignment graded under this late policy, 
-you must e-mail one of the course directors before the start of the class period in question.
+All modules that count for the final grade must be completed by April 27th to be considered. 
 
 ## Plagiarism policy
 
