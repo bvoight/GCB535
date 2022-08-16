@@ -33,7 +33,7 @@ We do not reliably check the Canvas messaging functionality.
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-* Jake Leiby: microbiome, XXX
+* Jake Leiby: biomedical image analysis, data integration, deep learning
 * Carter Merenstein: microbiome, XXX
 
 ## Location and time
