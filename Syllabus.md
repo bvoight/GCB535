@@ -26,7 +26,7 @@ We do not reliably check the Canvas messaging functionality.
 
 [Jake Leiby](mailto:jleiby@pennmedicine.upenn.edu): jleiby@pennmedicine.upenn.edu
 
-[Carter Merenstein](mailto:cmeren@pennmedicine.upenn.edu ): cmeren@pennmedicine.upenn.edu 
+[Carter Merenstein](mailto:cmeren@pennmedicine.upenn.edu): cmeren@pennmedicine.upenn.edu 
 
 ### Keywords
 
