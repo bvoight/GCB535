@@ -4,46 +4,46 @@
 |--------|-----|------------------|-------------|-------------|
 | 2-Sep  | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
-| 9-Sep  | F   | By Appointment   | 10-126 SCTR | Ben         |
+| 5-Sep  | M   | Labor Day        | Labor Day   | Jake/Carter |
+| 9-Sep  | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 12-Sep | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 16-Sep | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 19-Sep | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 23-Sep | F   | By Appointment   | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 26-Sep | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 30-Sep | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 3-Oct  | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 7-Oct  | F   | - (Fall Break)   | -           | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 10-Oct | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 14-Oct | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 17-Oct | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 21-Oct | F   | By Appointment   | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 24-Oct | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 28-Oct | F   | By Appointment   | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 31-Oct | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 4-Nov  | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 7-Nov  | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 11-Nov | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 14-Nov | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 18-Nov | F   | By Appointment   | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 21-Nov | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 25-Nov | F   | - (Thanksgiving) | -           | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 28-Nov | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 2-Dec  | F   | 3-4p             | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 5-Nov  | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
 | 9-Dec  | F   | By Appointment   | 10-126 SCTR | Ben         |
 | -      | -   | -                | -           | Ophir       |
-| -      | -   | -                | -           | Jake/Carter |
+| 12-Dec | M   | 2:45-3:45        | SCTR 9-146  | Jake/Carter |
