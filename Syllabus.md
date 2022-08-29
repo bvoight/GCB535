@@ -34,7 +34,7 @@ We do not reliably check the Canvas messaging functionality.
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
 * Jake Leiby: biomedical image analysis, data integration, deep learning
-* Carter Merenstein: microbiome, XXX
+* Carter Merenstein: microbiome, COVID-19, respiratory system
 
 ## Location and time
 
@@ -62,7 +62,7 @@ for your convenience.
 
 * BFV: Friday 3-4p
 * OS: XXX
-* TAs: XXX
+* TAs: Monday 3-4p, same location as class
 
 ## Course web site
 
