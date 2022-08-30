@@ -28,6 +28,11 @@ We do not reliably check the Canvas messaging functionality.
 
 [Carter Merenstein](mailto:cmeren@pennmedicine.upenn.edu): cmeren@pennmedicine.upenn.edu 
 
+### Guest Lecturers
+
+#### Hossein Fazelinia, Research Scientist, CHOP Proteomics Core
+#### Hao Wu, Assistant Professor of Genetics
+
 ### Keywords
 
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
