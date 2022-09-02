@@ -1,4 +1,6 @@
-| Date             | Day | Topic                                                             | Modules | HW Collected |
+** Note: Prelabs for the given module will be collected on the date of the module listed. 
+
+| Date             | Day | Topic                                                             | Modules** | HW Collected |
 |------------------|-----|-------------------------------------------------------------------|--------:|-------------:|
 | 31-Aug           | W   | Cocalc Introduction; Lecture: Databases                           |      00 |            - |
 | 2-Sep            | F   | Seeking Biological Info Online                                    |      01 |            - |
