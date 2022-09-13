@@ -22,7 +22,7 @@
 | 10-Oct           | M   | Exam 1                                                            |      15 |            - |
 | 12-Oct           | W   | UNIX Web Resources and Workflows                                  |      16 |        13,14 |
 | 14-Oct           | F   | ChIP-Seq Primer - I                                               |      17 |   15 (@12pm) |
-| 17-Oct           | M   | Data Parsing/Cleaning: Principles for a new analysis              |      18 |     15,16,17 |
+| 17-Oct           | M   | Data Parsing/Cleaning: Principles for a new analysis              |      18 |        16,17 |
 | 19-Oct           | W   | ChIP-Seq Primer - II                                              |      19 |            - |
 | 21-Oct           | F   | ENCODE Primer - I                                                 |      20 |            - |
 | 24-Oct           | M   | Data Parsing/Cleaning: Fixing Data                                |      21 |     18,19,20 |
