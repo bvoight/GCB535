@@ -1,4 +1,5 @@
-** Note: Prelabs for the given module will be collected on the date of the module listed. 
+** Note: Prelabs for the given module will be collected on the date of the module listed.
+
 (L): denote some lecture content offered for that day
 
 | Date             | Day | Topic                                                             | Modules** | HW Collected |
