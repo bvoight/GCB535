@@ -153,7 +153,7 @@ in the in class exercises.
 
 * Homework for the previous week will be due at the start of each week on Monday
 at the start of class (e.g. homework assigned Monday, Wednesday, and/or Friday
-is due at the start of class on the next Monday at 10:00a). 
+is due at the start of class on the next Monday at 1:45pm; with exceptions noted in the course calendar). 
 
 * Homework will be accepted up to Wednesday of that week, but grades will be penalized 
 (minus 30% off). If you would like to have an assignment graded under this late policy, 
