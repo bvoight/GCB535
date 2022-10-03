@@ -65,8 +65,7 @@ with regularly scheduled office hours. We've created a
 [table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
 for your convenience.
 
-* BFV: Friday 3-4p
-* OS: XXX
+* BFV: Friday 3-4p, 10-126 SCTR or by zoom
 * TAs: Monday 3-4p, same location as class
 
 ## Course web site
