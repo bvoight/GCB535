@@ -36,7 +36,7 @@
 | 7-Nov            | M   | Building Analytical Pipelines (L)                                 |      27 |           25,26 |
 | 9-Nov            | W   | Bioinformatics in Pharmacology                                    |      28 |               - |
 | 11-Nov           | F   | Analysis of Genetic Variation                                     |      29 |               - |
-| 14-Nov           | M   | Machine Learning - I                                              |      30 |        27,28,29 |
+| 14-Nov           | M   | Machine Learning - I (L)                                          |      30 |        27,28,29 |
 | 16-Nov           | W   | Machine Learning - II                                             |      31 |               - |
 | 18-Nov           | F   | Machine Learning - III                                            |      32 |               - |
 | 21-Nov           | M   | Proteomics (L)                                                    |       - |        30,31,32 |
