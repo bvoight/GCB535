@@ -43,10 +43,10 @@
 | 23-Nov           | W   | Analysis of Proteomics Data                                       |      33 |               - |
 | 25-Nov           | F   | NO CLASS (Thanksgiving Holiday)                                   |       - |               - |
 | 28-Nov           | M   | single cell RNA-Seq (L)                                           |       - |               - |
-| 30-Nov           | W   | Single cell RNA-Seq Analysis - I                                  |      34 |              33 |
+| 30-Nov           | W   | Single cell RNA-Seq Analysis - I                                  |      34 |               - |
 | 2-Dec            | F   | Single cell RNA-Seq Analysis II                                   |      35 |               - |
-| 5-Dec            | M   | CRISPR screening (L)                                              |       - |           34,35 |
+| 5-Dec            | M   | CRISPR screening (L)                                              |       - |               - |
 | 7-Dec            | W   | CRISPR Screening - I                                              |      36 |               - |
-| 9-Dec            | F   | CRISPR Screening - II                                             |      37 |               - |
-| 12-Dec           | M   | Data Parsing/Cleaning - IV (Batch Effects) (L)                    |      38 |               - |
-| 15-Dec to 22-Dec | -   | Exam 2                                                            |      39 |        36,37,38 |
+| 9-Dec            | F   | Free work data / Prepare for Exam                                 |      -  |        33,34,35 |
+| 12-Dec           | M   | Data Parsing/Cleaning - IV (Batch Effects) (L)                    |      37 |               - |
+| 15-Dec to 22-Dec | -   | Exam 2                                                            |      38 |           36,37 |
