@@ -49,4 +49,5 @@
 | 7-Dec            | W   | CRISPR Screening - I                                              |      36 |               - |
 | 9-Dec            | F   | Free work data / Prepare for Exam                                 |      -  |        33,34,35 |
 | 12-Dec           | M   | Data Parsing/Cleaning - IV (Batch Effects) (L)                    |      37 |               - |
-| 15-Dec to 22-Dec | -   | Exam 2                                                            |      38 |           36,37 |
+| 15-Dec           | Th  | Exam 2 Deployed                                                   |      38 |           36,37 |
+| 20-Dec           | Tu  | -                                                                 |      -  |              38 |
