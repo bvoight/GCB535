@@ -50,4 +50,4 @@
 | 9-Dec            | F   | Free work data / Prepare for Exam                                 |      -  |        33,34,35 |
 | 12-Dec           | M   | Data Parsing/Cleaning - IV (Batch Effects) (L)                    |      37 |               - |
 | 15-Dec           | Th  | Exam 2 Deployed                                                   |      38 |           36,37 |
-| 20-Dec           | Tu  | -                                                                 |      -  |              38 |
+| 21-Dec           | W   | Exam 2 Collected (5pm Eastern)                                    |      -  |              38 |
