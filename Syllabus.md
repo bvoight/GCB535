@@ -40,10 +40,10 @@ We do not reliably check the Canvas messaging functionality.
 ## Location and time
 The course will be administered on campus for Fall 2023
 
-    [Towne Building](https://goo.gl/maps/uoVt4vjryf8ecv2Q9)  
-    Access details are [here](https://facilities.upenn.edu/sites/default/files/pennaccess/PA0570-Towne.pdf)  
-    Classroom 217  
-    MWF 1:45-2:45p  
+- [Towne Building](https://goo.gl/maps/uoVt4vjryf8ecv2Q9)  
+- Access details are [here](https://facilities.upenn.edu/sites/default/files/pennaccess/PA0570-Towne.pdf)  
+- Classroom 217
+- MWF 1:45-2:45p  
 
 ## Office hours
 
