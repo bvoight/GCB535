@@ -13,7 +13,7 @@ We do not reliably check the Canvas messaging functionality.
     10-126 Smilow Center for Translational Research (SCTR)
     3400 Civic Center Blvd
     215-746-8083
-    bvoight@pennmedicine.upenn.edu
+    bvoight@upenn.edu
 
 #### Ophir Shalem, PhD
     Department of Genetics
@@ -24,28 +24,26 @@ We do not reliably check the Canvas messaging functionality.
 
 ### Teaching assistants
 
-[Jake Leiby](mailto:jleiby@pennmedicine.upenn.edu): jleiby@pennmedicine.upenn.edu
-
-[Carter Merenstein](mailto:cmeren@pennmedicine.upenn.edu): cmeren@pennmedicine.upenn.edu 
+[Mitch Conery](mailto:mconery@pennmedicine.upenn.edu ): mconery@pennmedicine.upenn.edu 
 
 ### Guest Lecturers
 
 #### Hossein Fazelinia, Research Scientist, CHOP Proteomics Core
-#### Hao Wu, Assistant Professor of Genetics
 
 ### Keywords
 
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-* Jake Leiby: biomedical image analysis, data integration, deep learning
-* Carter Merenstein: microbiome, COVID-19, respiratory system
+* Mitch Conery: 
 
 ## Location and time
 
-* The course will be administered on campus for Spring 2022
+* The course will be administered on campus for Fall 2023
 * 
-* SCTR 9-146
+* [Towne Building](https://goo.gl/maps/uoVt4vjryf8ecv2Q9)
+* Access details are [here](https://facilities.upenn.edu/sites/default/files/pennaccess/PA0570-Towne.pdf).
+* Classroom 217
 * MWF 1:45-2:45p 
 
 ## Office hours
@@ -66,7 +64,7 @@ with regularly scheduled office hours. We've created a
 for your convenience.
 
 * BFV: Friday 3-4p, 10-126 SCTR or by zoom
-* TAs: Monday 3-4p, same location as class
+* TAs: XXXX
 
 ## Course web site
 
@@ -85,21 +83,21 @@ computational approaches and the analysis of data.
 A basic primer in programming and operating in a UNIX environment will be
 presented, and students will also be introduced to R and tools for
 reproducible research. This course emphasizes direct, hands-on experience with
-applications to current biological research problems. The course is **NOT
+applications to current biological research analysis problems. The course is **NOT
 INTENDED** for computer science students who want to learn about biologically
-motivated algorithmic problems; GCB/CIS/BIOL536 and GCB537 is more appropriate.
+motivated algorithmic problems; GCB/CIS/BIOL5360 and GCB5370 is more appropriate.
 
-Areas include DNA sequence alignment, genetic variation and analysis, motif
-discovery, study design for high-throughput sequencing, RNA gene expression,
-single gene and whole-genome analysis, machine learning. The relevant principles 
-underlying methods used for analysis in these areas will be introduced and discussed 
-at a level appropriate for biologists without a background in computer science.
+Areas include DNA sequence alignment, study design for high-throughput sequencing, 
+RNA gene expression, single-cell RNA-Seq, single gene and whole-genome analysis, 
+machine learning The relevant principles underlying methods used for analysis in these 
+areas will be introduced and discussed at a level appropriate for biologists without a 
+background  in computer science.
 
 The course will assume a solid knowledge of modern biology. An advanced
-undergraduate course such as BIOL421 or a graduate course in biology such as
-BIOL526 (Experimental Principles in Cell and Molecular Biology), BIOL527
-(Advanced Molecular Biology and Genetics), BIOL528 (Advanced Molecular
-Genetics), BIOL540 (Genetic Systems), or equivalent, is a prerequisite.
+undergraduate course such as BIOL4210 or a graduate course in biology such as
+BIOL5260 (Experimental Principles in Cell and Molecular Biology), BIOL5270
+(Advanced Molecular Biology and Genetics), BIOL5280 (Advanced Molecular
+Genetics), BIOL5400 (Genetic Systems), or equivalent, is a prerequisite.
 
 ## Note on Reproducibility and Responsible Research
 Scientific rigor and reproducibility (SRR) is essential for progress, and especially so in 
@@ -118,8 +116,7 @@ issues in data as they are encountered.
 
 All students are required to bring a laptop to class for in class activities.
 TAs will provide help with the material, but students should be computer-capable
-with their own laptop, and should be willing/capable to download and install
-free software from the Internet.
+with their own laptop.
 
 ## Schedule
 
@@ -133,29 +130,13 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 Grades are composed of:
 
 * homework assignments (50%)
-* prelab assignments (5%)
-* participation (5%)
-* Exam One (20%)
-* Exam Two (20%)
-
-For the homework grade, we will drop scores from the 6 lowest scoring
-assignments when determining the final grade.
+* Exam One (25%)
+* Exam Two (25%)
 
 ### Late grading policy:
 
-Our late grading policy is driven by fairness. This policy allows us to
-return assignments quickly while providing flexibility where it is required.
-
-* Prelab assignments are collected at the start of class. We are unable to
-accept late turn-ins. This material is required in order to fully participate
-in the in class exercises.
-
-* Homework for the previous week will be due at the start of each week on Monday
-at the start of class (e.g. homework assigned Monday, Wednesday, and/or Friday
-is due at the start of class on the next Monday at 1:45pm; with exceptions noted in the course calendar). 
-
-* Homework will be accepted up to Wednesday of that week, but grades will be penalized 
-(minus 30% off). If you would like to have an assignment graded under this late policy, 
+* Homework will be accepted up to one week late, but grades will be penalized 
+(minus 20% off). If you would like to have an assignment graded under this late policy, 
 you must e-mail one of the course directors before the start of the class period in question.
 
 ## Plagiarism policy
@@ -173,3 +154,11 @@ our discretion on grading.
 https://provost.upenn.edu/policies/faculty-handbook/students/iv-d
 
 http://www.upenn.edu/academicintegrity/ai_violations.html
+
+## Regarding ChatGPT and other Generative AI / Large Language Models (LLMs) in the course
+The recent release of powerful generative AI tools has unsettled higher education. Tools such as Chat-GPT, GPT-4, Bard, Dall-E 2, Llama 2, Claude, Pi and Bing are developing rapidly. These chat tools can write and revise text, code and images in response to prompts.
+
+There may be cases where these tools can help you develop your understanding of the material and modules that we provide you for the class. If you are using these tools to help you work through 'in-class' materials, or in the course of helping you in your understanding of specific topics, we would ask that you indicate that by including a written note at the top of the notebook by creating a 'new cell' (and adding a note).
+
+Our rationale for providing (and grading) homework problems and exams is to give a 'checkpoint' that you are, in fact, working through the materials and are understanding them sufficiently that you can independently perform data analysis tasks put to you. As such using these tool to answer homework problems exam questions is not consistent with this goal and as such is not allowed and constitutes plagiarism. Use without permission in these cases will be considered a violation of Penn's Code of Academic Integrity.
+
