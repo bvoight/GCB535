@@ -69,7 +69,7 @@ for your convenience.
 
 We will use [CoCalc](https://cocalc.com/) for in class exercises
 and homework. Completed assignments will be collected through this system.
-[Canvas](https://upenn.instructure.com/) is used to return grades to students.
+[Canvas](https://upenn.instructure.com/) is used to return grades to students and to provide additional materials for the course (recorded lectures, lecture slides, etc).
 
 ## Course description
 
