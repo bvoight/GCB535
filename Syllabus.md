@@ -35,7 +35,7 @@ We do not reliably check the Canvas messaging functionality.
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-* Mitch Conery: 
+* Mitch Conery: computational genomics, gene regulation, and bone disease
 
 ## Location and time
 The course will be administered on campus for Fall 2023
@@ -69,7 +69,8 @@ for your convenience.
 
 We will use [CoCalc](https://cocalc.com/) for in class exercises
 and homework. Completed assignments will be collected through this system.
-[Canvas](https://upenn.instructure.com/) is used to return grades to students and to provide additional materials for the course (recorded lectures, lecture slides, etc).
+[Canvas](https://upenn.instructure.com/) is used to return grades to students and to 
+provide additional materials for the course (recorded lectures, lecture slides, etc).
 
 ## Course description
 
@@ -86,11 +87,13 @@ applications to current biological research analysis problems. The course is **N
 INTENDED** for computer science students who want to learn about biologically
 motivated algorithmic problems; GCB/CIS/BIOL5360 and GCB5370 is more appropriate.
 
-Areas include DNA sequence alignment, study design for high-throughput sequencing, 
+Areas multiple hypothesis testing, data processing and visualization, analysis
+pipeline development, sequence alignment, study design for high-throughput sequencing, 
 RNA gene expression, single-cell RNA-Seq, single gene and whole-genome analysis, 
-machine learning The relevant principles underlying methods used for analysis in these 
+gene regulation and ENCODE, ChIP-Seq analysis, analysis of CRISPR screening data, 
+and machine learning. Relevant principles underlying methods used for analysis in these 
 areas will be introduced and discussed at a level appropriate for biologists without a 
-background  in computer science.
+background in computer science.
 
 The course will assume a solid knowledge of modern biology. An advanced
 undergraduate course such as BIOL4210 or a graduate course in biology such as
@@ -99,6 +102,7 @@ BIOL5260 (Experimental Principles in Cell and Molecular Biology), BIOL5270
 Genetics), BIOL5400 (Genetic Systems), or equivalent, is a prerequisite.
 
 ## Note on Reproducibility and Responsible Research
+
 Scientific rigor and reproducibility (SRR) is essential for progress, and especially so in 
 Bioinformatics. This course aims to address SRR by teaching students programming
 and computational pipeline building skills, so that students can generate results that are
@@ -155,9 +159,20 @@ https://provost.upenn.edu/policies/faculty-handbook/students/iv-d
 http://www.upenn.edu/academicintegrity/ai_violations.html
 
 ## Regarding ChatGPT and other Generative AI / Large Language Models (LLMs) in the course
-The recent release of powerful generative AI tools has unsettled higher education. Tools such as Chat-GPT, GPT-4, Bard, Dall-E 2, Llama 2, Claude, Pi and Bing are developing rapidly. These chat tools can write and revise text, code and images in response to prompts.
 
-There may be cases where these tools can help you develop your understanding of the material and modules that we provide you for the class. If you are using these tools to help you work through 'in-class' materials, or in the course of helping you in your understanding of specific topics, we would ask that you indicate that by including a written note at the top of the notebook by creating a 'new cell' (and adding a note).
+The recent release of powerful generative AI tools has unsettled higher education. Tools such 
+as Chat-GPT, GPT-4, Bard, Dall-E 2, Llama 2, Claude, Pi and Bing are developing rapidly. These 
+chat tools can write and revise text, code and images in response to prompts.
 
-Our rationale for providing (and grading) homework problems and exams is to give a 'checkpoint' that you are, in fact, working through the materials and are understanding them sufficiently that you can independently perform data analysis tasks put to you. As such using these tool to answer homework problems exam questions is not consistent with this goal and as such is not allowed and constitutes plagiarism. Use without permission in these cases will be considered a violation of Penn's Code of Academic Integrity.
+There may be cases where these tools can help you develop your understanding of the material and 
+modules that we provide you for the class. If you are using these tools to help you work through 
+'in-class' materials, or in the course of helping you in your understanding of specific topics, 
+we would ask that you indicate that by including a written note at the top of the notebook by creating 
+a 'new cell' (and adding a note).
 
+Our rationale for providing (and grading) homework problems and exams is to give a 'checkpoint' that 
+you are, in fact, working through the materials and are understanding them sufficiently that you can 
+independently perform data analysis tasks put to you. As such using these tool to answer homework 
+problems exam questions is not consistent with this goal and as such is not allowed and constitutes 
+plagiarism. Use without permission in these cases will be considered a violation of Penn's Code of 
+Academic Integrity.
