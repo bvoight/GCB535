@@ -4,7 +4,7 @@
 
 ### Course Directors
 
-Please use e-mail to contact the course instructors.
+Please use e-mail or the course slack to contact the course instructors.
 We do not reliably check the Canvas messaging functionality.
 
 #### Benjamin F. Voight, PhD
