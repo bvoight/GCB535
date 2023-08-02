@@ -24,11 +24,11 @@ We do not reliably check the Canvas messaging functionality.
 
 ### Teaching assistants
 
-[Mitch Conery](mailto:mconery@pennmedicine.upenn.edu ): mconery@pennmedicine.upenn.edu 
+[Mitch Conery](mailto:mconery@pennmedicine.upenn.edu): mconery@pennmedicine.upenn.edu 
 
 ### Guest Lecturers
 
-#### Hossein Fazelinia, Research Scientist, CHOP Proteomics Core
+If any, TBD.
 
 ### Keywords
 
@@ -63,7 +63,7 @@ with regularly scheduled office hours. We've created a
 for your convenience.
 
 * BFV: Friday 3-4p, 10-126 SCTR or by zoom
-* TAs: XXXX
+* TAs: TBD
 
 ## Course web site
 
@@ -132,9 +132,9 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 
 Grades are composed of:
 
-* homework assignments (50%)
-* Exam One (25%)
-* Exam Two (25%)
+* Homework Assignments (3 in total) - 50%
+* Exam One - 25%
+* Exam Two - 25%
 
 ### Late grading policy:
 
@@ -173,6 +173,6 @@ a 'new cell' (and adding a note).
 Our rationale for providing (and grading) homework problems and exams is to give a 'checkpoint' that 
 you are, in fact, working through the materials and are understanding them sufficiently that you can 
 independently perform data analysis tasks put to you. As such using these tool to answer homework 
-problems exam questions is not consistent with this goal and as such is not allowed and constitutes 
+problems and/or exam questions is not consistent with this goal and as such is not allowed and constitutes 
 plagiarism. Use without permission in these cases will be considered a violation of Penn's Code of 
 Academic Integrity.
