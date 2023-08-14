@@ -25,17 +25,19 @@ We do not reliably check the Canvas messaging functionality.
 ### Teaching assistants
 
 [Mitch Conery](mailto:mconery@pennmedicine.upenn.edu): mconery@pennmedicine.upenn.edu 
-
-### Guest Lecturers
-
-If any, TBD.
+[Max Dudek](mailto:Max.Dudek@pennmedicine.upenn.edu): Max.Dudek@pennmedicine.upenn.edu
+[Feng Hu](mailto:Fengling.Hu@pennmedicine.upenn.edu): Fengling.Hu@pennmedicine.upenn.edu
+[Felipe Parodi](mailto:fparodi@pennmedicine.upenn.edu): fparodi@pennmedicine.upenn.edu
 
 ### Keywords
 
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 
-* Mitch Conery: computational genomics, gene regulation, and bone disease
+* Mitch Conery (GCB): computational genomics, gene regulation, and bone disease
+* Max Dudek (GCB): TBD
+* Feng Hu (GGEB): TBD
+* Felipe Parodi (NGG): TBD 
 
 ## Location and time
 The course will be administered on campus for Fall 2023
@@ -132,7 +134,7 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 
 Grades are composed of:
 
-* Homework Assignments (3 in total) - 50%
+* Homework Assignments (3 in total, equal weight) - 50%
 * Exam One - 25%
 * Exam Two - 25%
 
