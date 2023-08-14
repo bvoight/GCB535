@@ -28,15 +28,16 @@ We do not reliably check the Canvas messaging functionality.
 
 [Max Dudek](mailto:Max.Dudek@pennmedicine.upenn.edu): Max.Dudek@pennmedicine.upenn.edu
 
+[Rachit Kumar](mailto:rachit.kumar@pennmedicine.upenn.edu): rachit.kumar@pennmedicine.upenn.edu
 
 ### Keywords
 
-* Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
+* Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 
 * Mitch Conery (GCB): computational genomics, gene regulation, and bone disease
 * Max Dudek (GCB): TBD
-
+* [Rachit Kumar](https://rachitk.github.io/) (GCB): graph representation learning, machine learning, deep learning, computational genomics, neurodegenerative disease
 
 
 ## Location and time
