@@ -36,7 +36,7 @@ We do not reliably check the Canvas messaging functionality.
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 
 * Mitch Conery (GCB): computational genomics, gene regulation, and bone disease
-* Max Dudek (GCB): TBD
+* Max Dudek (GCB): computational genomics, disease genetics, liver disease
 * [Rachit Kumar](https://rachitk.github.io/) (GCB): graph representation learning, machine learning, deep learning, computational genomics, neurodegenerative disease
 
 
