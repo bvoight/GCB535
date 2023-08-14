@@ -25,9 +25,9 @@ We do not reliably check the Canvas messaging functionality.
 ### Teaching assistants
 
 [Mitch Conery](mailto:mconery@pennmedicine.upenn.edu): mconery@pennmedicine.upenn.edu 
+
 [Max Dudek](mailto:Max.Dudek@pennmedicine.upenn.edu): Max.Dudek@pennmedicine.upenn.edu
-[Feng Hu](mailto:Fengling.Hu@pennmedicine.upenn.edu): Fengling.Hu@pennmedicine.upenn.edu
-[Felipe Parodi](mailto:fparodi@pennmedicine.upenn.edu): fparodi@pennmedicine.upenn.edu
+
 
 ### Keywords
 
@@ -36,8 +36,8 @@ We do not reliably check the Canvas messaging functionality.
 
 * Mitch Conery (GCB): computational genomics, gene regulation, and bone disease
 * Max Dudek (GCB): TBD
-* Feng Hu (GGEB): TBD
-* Felipe Parodi (NGG): TBD 
+
+
 
 ## Location and time
 The course will be administered on campus for Fall 2023
