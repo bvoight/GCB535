@@ -28,6 +28,8 @@ We do not reliably check the Canvas messaging functionality.
 
 [Max Dudek](mailto:Max.Dudek@pennmedicine.upenn.edu): Max.Dudek@pennmedicine.upenn.edu
 
+[Fengling Hu](mailto:fengling.hu@pennmedicine.upenn.edu): fengling.hu@pennmedicine.upenn.edu
+
 [Rachit Kumar](mailto:rachit.kumar@pennmedicine.upenn.edu): rachit.kumar@pennmedicine.upenn.edu
 
 ### Keywords
@@ -37,8 +39,8 @@ We do not reliably check the Canvas messaging functionality.
 
 * Mitch Conery (GCB): computational genomics, gene regulation, and bone disease
 * Max Dudek (GCB): computational genomics, disease genetics, liver disease
+* Fengling Hu (GGEB): biostatistics, neuroimaging, computational neuroscience
 * [Rachit Kumar](https://rachitk.github.io/) (GCB): graph representation learning, machine learning, deep learning, computational genomics, neurodegenerative disease
-
 
 ## Location and time
 The course will be administered on campus for Fall 2023
