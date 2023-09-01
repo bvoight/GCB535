@@ -68,7 +68,7 @@ with regularly scheduled office hours. We've created a
 for your convenience.
 
 * BFV: Friday 3-4p, 10-126 SCTR or by zoom
-* TAs: Tuesday 1:30-2:30p and Friday 12:00 - 1:00. Room Pending (but will be in the Towne Building). 
+* TAs: Tuesday 1:30-2:30p via Zoom (link on Canvas) and Friday 12:00 - 1:00 in 601 Levine Bump Space. 
 
 ## Course web site
 
