@@ -31,7 +31,7 @@
 | 10/30/2023 | M   | 19       | -             | Equity and Inclusion in Bioinformatics (L)                      |
 | 11/1/2023  | W   | 20,21    | -             | ENCODE: I + II                                                  |
 | 11/3/2023  | F   | -        | HW2 Due       | ENCODE: I + II                                                  |
-| 11/6/2023  | M   | 22,23    | -             | Building Analytical Pipelines (L)                               |
+| 11/6/2023  | M   | 22,23    | -             | Building Analytical Pipelines                                   |
 | 11/8/2023  | W   | -        | -             | Bioinformatics in Pharmacology                                  |
 | 11/10/2023 | F   | -        | -             | Automating Pipelines                                            |
 | 11/13/2023 | M   | 24,25,26 | -             | Machine Learning - I                                            |
