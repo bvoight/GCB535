@@ -30,10 +30,10 @@
 | 10/27/2023 | F   | -        | -             | ChIP-Seq: I + II                                                |
 | 10/30/2023 | M   | 19       | -             | Equity and Inclusion in Bioinformatics (L)                      |
 | 11/1/2023  | W   | 20,21    | -             | ENCODE: I + II                                                  |
-| 11/3/2023  | F   | -        | HW2 Due       | ENCODE: I + II                                                  |
+| 11/3/2023  | F   | -        | -             | ENCODE: I + II                                                  |
 | 11/6/2023  | M   | 22,23    | -             | Building Analytical Pipelines                                   |
 | 11/8/2023  | W   | -        | -             | Bioinformatics in Pharmacology                                  |
-| 11/10/2023 | F   | -        | -             | Automating Pipelines                                            |
+| 11/10/2023 | F   | -        | HW2 Due       | Automating Pipelines                                            |
 | 11/13/2023 | M   | 24,25,26 | -             | Machine Learning - I                                            |
 | 11/15/2023 | W   | -        | -             | Machine Learning - II                                           |
 | 11/17/2023 | F   | -        | -             | Machine Learning - III                                          |
@@ -42,8 +42,8 @@
 | 11/24/2023 | F   | -        | -             | NO CLASS [Thanksgiving]                                         |
 | 11/27/2023 | M   | 28,29    | -             | HTS Transcriptomics via single-cell RNA-Seq (L)                 |
 | 11/29/2023 | W   | -        | -             | scRNA-Seq Analysis: I + II                                      |
-| 12/1/2023  | F   | -        | HW3 Due       | scRNA-Seq Analysis: I + II                                      |
-| 12/4/2023  | M   | 30       | -             | CRISPR Screening (L)                                            |
+| 12/1/2023  | F   | -        | -             | scRNA-Seq Analysis: I + II                                      |
+| 12/4/2023  | M   | 30       | HW3 Due       | CRISPR Screening (L)                                            |
 | 12/6/2023  | W   | -        | -             | Analysis of CRISPR Screens                                      |
 | 12/8/2023  | F   | 31       | -             | Data Parsing/Cleaning: Batch Effects (L)                        |
 | 12/11/2023 | M   | 32       | -             | EXAM TWO                                                        |
