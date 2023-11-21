@@ -43,8 +43,8 @@
 | 11/27/2023 | M   | 28,29    | -             | HTS Transcriptomics via single-cell RNA-Seq (L)                 |
 | 11/29/2023 | W   | -        | -             | scRNA-Seq Analysis: I + II                                      |
 | 12/1/2023  | F   | -        | -             | scRNA-Seq Analysis: I + II                                      |
-| 12/4/2023  | M   | 30       | HW3 Due       | CRISPR Screening (L)                                            |
+| 12/4/2023  | M   | 30       | -             | CRISPR Screening (L)                                            |
 | 12/6/2023  | W   | -        | -             | Analysis of CRISPR Screens                                      |
-| 12/8/2023  | F   | 31       | -             | Data Parsing/Cleaning: Batch Effects (L)                        |
+| 12/8/2023  | F   | 31       | HW3 Due       | Data Parsing/Cleaning: Batch Effects (L)                        |
 | 12/11/2023 | M   | 32       | -             | EXAM TWO                                                        |
 | 12/15/2023 | F   | -        | Ex2 Due (12p) | -                                                               |
