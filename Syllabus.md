@@ -68,7 +68,7 @@ with regularly scheduled office hours. We've created a
 [table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
 for your convenience.
 
-* BFV: On zoom by appointment
+* BFV: On zoom or in office (10-126) by appointment
 * TAs: TBD
 
 ## Course web site
