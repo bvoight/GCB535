@@ -24,26 +24,27 @@ We do not reliably check the Canvas messaging functionality.
 
 ### Teaching assistants
 
-[Mitch Conery](mailto:mconery@pennmedicine.upenn.edu): mconery@pennmedicine.upenn.edu 
-
 [Max Dudek](mailto:Max.Dudek@pennmedicine.upenn.edu): Max.Dudek@pennmedicine.upenn.edu
 
-[Fengling Hu](mailto:fengling.hu@pennmedicine.upenn.edu): fengling.hu@pennmedicine.upenn.edu
+[William Gao](mailto:William.gao@pennmedicine.upenn.edu): William.gao@pennmedicine.upenn.edu
 
-[Rachit Kumar](mailto:rachit.kumar@pennmedicine.upenn.edu): rachit.kumar@pennmedicine.upenn.edu
+[Zhen Miao](mailto:zhenmiao@pennmedicine.upenn.edu): zhenmiao@pennmedicine.upenn.edu
+
+[Kelli Williams](mailto:kelli.williams1@pennmedicine.upenn.edu): kelli.williams1@pennmedicine.upenn.edu
 
 ### Keywords
 
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 
-* Mitch Conery (GCB): computational genomics, gene regulation, and bone disease
 * Max Dudek (GCB): computational genomics, disease genetics, liver disease
-* Fengling Hu (GGEB): biostatistics, neuroimaging, computational neuroscience
-* [Rachit Kumar](https://rachitk.github.io/) (GCB): graph representation learning, machine learning, deep learning, computational genomics, neurodegenerative disease
+* William Gao (GCB): single cell epigenomics + transcriptomics, cardiovascular system
+* Zhen Miao (GCB): single cell multi-omics, spatial transcriptomics
+* Kelli Williams (GGEB): social epidemiology, disparities, environmental epidemiology, chronic disease
+
 
 ## Location and time
-The course will be administered on campus for Fall 2023
+The course will be administered on campus for Fall 2024
 
 [Towne Building](https://goo.gl/maps/uoVt4vjryf8ecv2Q9); Access details are [here](https://facilities.upenn.edu/sites/default/files/pennaccess/PA0570-Towne.pdf).
 
@@ -67,8 +68,8 @@ with regularly scheduled office hours. We've created a
 [table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
 for your convenience.
 
-* BFV: Friday 3-4p, 10-126 SCTR or by zoom
-* TAs: Tuesday 1:30-2:30p via Zoom (link on Canvas) and Friday 12:00 - 1:00 in 601 Levine Bump Space. 
+* BFV: On zoom by appointment
+* TAs: TBD
 
 ## Course web site
 
@@ -137,9 +138,7 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 
 Grades are composed of:
 
-* Homework Assignments (3 in total, equal weight) - 50%
-* Exam One - 25%
-* Exam Two - 25%
+* Homework Assignments (3 in total, equal weight) - 100%
 
 ### Late grading policy:
 
