@@ -1,4 +1,4 @@
-# GCB/CIS/MSTR 535 (Fall 2023): Introduction to Bioinformatics
+# BIOM/CIS/MTR 535 (Fall 2024): Introduction to Bioinformatics
 
 ## Course Staff
 
