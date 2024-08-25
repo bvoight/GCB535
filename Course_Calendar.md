@@ -1,4 +1,5 @@
 (L): Denotes lecture content scheduled for some/all of the class period
+
 *: No Module 11 (intentionally skipped)
 
 | Date       | Day | Module # | Due Dates | Topic                                                                    |
