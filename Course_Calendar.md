@@ -19,7 +19,7 @@
 | 9/25/2024  | W   | -        | -         | RNA-Seq Analysis: I + II                                                 |
 | 9/27/2024  | F   | -        | HW 1 Due  | RNA-Seq Analysis: I + II                                                 |
 | 9/30/2024  | M   | 10*      | -         | Enrichment Analysis - Gene Annotation                                    |
-| 10/2/2024  | W   | 12, 13   | -         | Tools for Reproducible Research (L)                                      |
+| 10/2/2024  | W   | 12, 13   | -         | Reproducible Research: Debugging Code (L)                                |
 | 10/4/2024  | F   | -        | -         | NO CLASS [Fall Break]                                                    |
 | 10/7/2024  | M   | -        | -         | Debugging Code                                                           |
 | 10/9/2024  | W   | 14,15    | -         | Intro to UNIX; UNIX: I + II (L)                                          |
