@@ -63,13 +63,11 @@ at the given time. Please feel free to attend at your convenience.
 Office hours with Professors are generally open door. However, students may
 schedule meetings during this time with the course directors, and scheduled
 students will receive precedence. To schedule a meeting, send an e-mail or slack message to
-the course directors. There are some days where there are preexisting conflicts
-with regularly scheduled office hours. We've created a 
-[table with details](https://github.com/bvoight/GCB535/blob/master/OfficeHours.md)
-for your convenience.
+the course directors. 
 
 * BFV: On zoom or in office (10-126) by appointment
-* TAs: TBD
+* TAs: 
+    * Max Dudek: Friday 2:45-3:45p (After class in Towne 217, same room)
 
 ## Course web site
 
