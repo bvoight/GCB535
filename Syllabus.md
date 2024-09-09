@@ -68,6 +68,7 @@ the course directors.
 * BFV: On zoom or in office (10-126) by appointment
 * TAs: 
     * William Gao: Monday 2:45-3:45p (After class in Towne 217, same room)
+    * Kelli Williams: Wednesday 11:45a-1:30p (virtually)
     * Zhen Miao: Wednesday 2:45-3:45p (After class in Towne 217, same room)
     * Max Dudek: Friday 2:45-3:45p (After class in Towne 217, same room)
     
