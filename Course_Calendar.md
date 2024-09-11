@@ -23,16 +23,16 @@
 | 10/4/2024  | F   | -        | -         | NO CLASS [Fall Break]                                                    |
 | 10/7/2024  | M   | -        | -         | Debugging Code                                                           |
 | 10/9/2024  | W   | 14,15    | -         | Introduction to UNIX (L)                                                 |
-| 10/11/2024 | F   | 16       | -         | UNIX: I + II                                                             |
-| 10/14/2024 | M   | -        | -         | Data Parsing/Cleaning: Setup for new analysis + Fixing Data (L)          |
-| 10/16/2024 | W   | -        | -         | UNIX: I + II                                                             |
+| 10/11/2024 | F   | -        | -         | UNIX: I + II                                                             |
+| 10/14/2024 | M   | 16       | -         | Data Parsing/Cleaning: Setup for new analysis + Fixing Data (L)          |
+| 10/16/2024 | W   | -        | -         | UNIX: I + II ; Data Parsing/Cleaning                                     |
 | 10/18/2024 | F   | 17,18    | -         | ChIP-Seq: I + II                                                         |
 | 10/21/2024 | M   | -        | -         | HTS Functional Genomics: ChIP-Seq (L)                                    |
 | 10/23/2024 | W   | -        | -         | ChIP-Seq: I + II                                                         |
 | 10/25/2024 | F   | 19       | -         | Equity and Inclusion in Bioinformatics (L)                               |
 | 10/28/2024 | M   | 20,21    | -         | ENCODE: I + II                                                           |
 | 10/30/2024 | W   | -        | -         | ENCODE: I + II                                                           |
-| 11/1/2024  | F   | 22,23    | -         | Building Analytical Pipelines                                            |
+| 11/1/2024  | F   | 22,23    | -         | Building Analytical Pipelines (L)                                        |
 | 11/4/2024  | M   | -        | -         | Bioinformatics in Pharmacology                                           |
 | 11/6/2024  | W   | -        | HW2 Due   | Automating Pipelines                                                     |
 | 11/8/2024  | F   | 24,25,26 | -         | Machine Learning - I                                                     |
