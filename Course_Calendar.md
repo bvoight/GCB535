@@ -22,9 +22,9 @@
 | 10/2/2024  | W   | 12, 13   | -         | Reproducible Research: Debugging Code (L)                                |
 | 10/4/2024  | F   | -        | -         | NO CLASS [Fall Break]                                                    |
 | 10/7/2024  | M   | -        | -         | Debugging Code                                                           |
-| 10/9/2024  | W   | 14,15    | -         | Intro to UNIX; UNIX: I + II (L)                                          |
-| 10/11/2024 | F   | 16       | -         | Data Parsing/Cleaning: Setup for new analysis + Fixing Data (L)          |
-| 10/14/2024 | M   | -        | -         | UNIX: I + II                                                             |
+| 10/9/2024  | W   | 14,15    | -         | Introduction to UNIX (L)                                                 |
+| 10/11/2024 | F   | 16       | -         | UNIX: I + II                                                             |
+| 10/14/2024 | M   | -        | -         | Data Parsing/Cleaning: Setup for new analysis + Fixing Data (L)          |
 | 10/16/2024 | W   | -        | -         | UNIX: I + II                                                             |
 | 10/18/2024 | F   | 17,18    | -         | ChIP-Seq: I + II                                                         |
 | 10/21/2024 | M   | -        | -         | HTS Functional Genomics: ChIP-Seq (L)                                    |
