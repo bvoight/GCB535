@@ -18,8 +18,8 @@
 | 9/23/2024  | M   | 9        | -         | Multiple Hypothesis Testing - FDR (L)                                    |
 | 9/25/2024  | W   | -        | -         | RNA-Seq Analysis: I + II                                                 |
 | 9/27/2024  | F   | -        | -         | RNA-Seq Analysis: I + II / Multiple Hypo. Testing                        |
-| 9/30/2024  | M   | 10*      | -         | Enrichment Analysis - Gene Annotation                                    |
-| 10/2/2024  | W   | 12, 13   | HW 1 Due  | Reproducible Research: Debugging Code (L)                                |
+| 9/30/2024  | M   | 10*      | HW 1 Due  | Enrichment Analysis - Gene Annotation                                    |
+| 10/2/2024  | W   | 12, 13   | -         | Reproducible Research: Debugging Code (L)                                |
 | 10/4/2024  | F   | -        | -         | NO CLASS [Fall Break]                                                    |
 | 10/7/2024  | M   | -        | -         | Debugging Code                                                           |
 | 10/9/2024  | W   | 14,15    | -         | Introduction to UNIX (L)                                                 |
