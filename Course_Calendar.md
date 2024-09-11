@@ -12,8 +12,8 @@
 | 9/9/2024   | M   | -        | -         | R: II (Tidyverse)                                                        |
 | 9/11/2024  | W   | 4,5,6    | -         | Demystifying syntax for ggplot2 (L)                                      |
 | 9/13/2024  | F   | -        | -         | R: III + IV (ggplot2)                                                    |
-| 9/16/2024  | M   | -        | -         | R: V (Tidyverse)                                                         |
-| 9/18/2024  | W   | 7,8      | -         | HTS Transcriptomics via RNA-Seq (L)                                      |
+| 9/16/2024  | M   | -        | -         | HTS Transcriptomics via RNA-Seq (L)                                      |
+| 9/18/2024  | W   | 7,8      | -         | R: V (Tidyverse)                                                         |
 | 9/20/2024  | F   | -        | -         | RNA-Seq Analysis: I + II                                                 |
 | 9/23/2024  | M   | 9        | -         | Multiple Hypothesis Testing - FDR (L)                                    |
 | 9/25/2024  | W   | -        | -         | RNA-Seq Analysis: I + II                                                 |
