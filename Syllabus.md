@@ -176,9 +176,9 @@ modules that we provide you for the class. If you are using these tools to help 
 we would ask that you indicate that by including a written note at the top of the notebook by creating 
 a 'new cell' (and adding a note).
 
-Our rationale for providing (and grading) homework problems and exams is to give a 'checkpoint' that 
+Our rationale for providing (and grading) homework problems is to give a 'checkpoint' that 
 you are, in fact, working through the materials and are understanding them sufficiently that you can 
 independently perform data analysis tasks put to you. As such using these tool to answer homework 
-problems and/or exam questions is not consistent with this goal and as such is not allowed and constitutes 
+problems is not consistent with this goal and as such is not allowed and constitutes 
 plagiarism. Use without permission in these cases will be considered a violation of Penn's Code of 
 Academic Integrity.
