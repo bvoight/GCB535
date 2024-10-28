@@ -43,7 +43,7 @@
 | 11/20/2024 | W   | 28,29    | -         | Transcriptomics via single-cell RNA-Seq (L)                              |
 | 11/22/2024 | F   | -        | -         | scRNA-Seq Analysis: I + II                                               |
 | 11/25/2024 | M   | -        | -         | scRNA-Seq Analysis: I + II                                               |
-| 11/27/2024 | W   | 30       | -         | Chromatin Accessibility from bulk, single nucleus, and multiome data (L) |
+| 11/27/2024 | W   | 30       | -         | Chromatin Accessibility from bulk, single nucleus, and multiome data     |
 | 11/29/2024 | F   | -        | -         | NO CLASS [Thanksgiving]                                                  |
 | 12/2/2024  | M   | 31       | -         | CRISPR Screening (L)                                                     |
 | 12/4/2024  | W   | -        | -         | Analysis of CRISPR Screens                                               |
