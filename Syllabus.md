@@ -26,11 +26,11 @@ We do not reliably check the Canvas messaging functionality.
 
 [Max Dudek](mailto:Max.Dudek@pennmedicine.upenn.edu): Max.Dudek@pennmedicine.upenn.edu
 
-[William Gao](mailto:William.gao@pennmedicine.upenn.edu): William.gao@pennmedicine.upenn.edu
+[Ijeoma Meremikwu](mailto:Ijeoma.Meremikwu@pennmedicine.upenn.edu): Ijeoma.Meremikwu@pennmedicine.upenn.edu
 
-[Zhen Miao](mailto:zhenmiao@pennmedicine.upenn.edu): zhenmiao@pennmedicine.upenn.edu
+[Yuhao Tan](mailto:Yuhao.Tan@pennmedicine.upenn.edu): Yuhao.Tan@pennmedicine.upenn.edu
 
-[Kelli Williams](mailto:kelli.williams1@pennmedicine.upenn.edu): kelli.williams1@pennmedicine.upenn.edu
+[Ravi Mandla](mailto:Ravi.Mandla@pennmedicine.upenn.edu): Ravi.Mandla@pennmedicine.upenn.edu 
 
 ### Keywords
 
@@ -38,17 +38,17 @@ We do not reliably check the Canvas messaging functionality.
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 
 * Max Dudek (GCB): computational genomics, disease genetics, liver disease
-* William Gao (GCB): single cell epigenomics + transcriptomics, cardiovascular system
-* Zhen Miao (GCB): single cell multi-omics, spatial transcriptomics
-* Kelli Williams (GGEB): social epidemiology, disparities, environmental epidemiology, chronic disease
+* Ijeoma Meremikwu (GCB): 
+* Yuhao Tan (GCB): 
+* Ravi Mandla (GCB): 
 
 
 ## Location and time
-The course will be administered on campus for Fall 2024
+The course will be administered on campus for Fall 2025
 
 [Towne Building](https://goo.gl/maps/uoVt4vjryf8ecv2Q9); Access details are [here](https://facilities.upenn.edu/sites/default/files/pennaccess/PA0570-Towne.pdf).
 
-Classroom 217  
+Classroom 217
 MWF 1:45-2:45p  
 
 ## Office hours
@@ -67,12 +67,11 @@ the course directors.
 
 * BFV: On zoom or in office (10-126) by appointment
 * TAs: 
-    * William Gao: Monday 2:45-3:45p (After class in Towne 217, same room)
-    * Kelli Williams: Wednesday 11:45a-1:30p (virtually)
-    * Zhen Miao: Wednesday 2:45-3:45p (After class in Towne 217, same room)
     * Max Dudek: Friday 2:45-3:45p (After class in Towne 217, same room)
+    * Ijeoma Meremikwu:
+    * Yuhao Tan:
+    * Ravi Mandla:
     
-
 ## Course web site
 
 We will use [CoCalc](https://cocalc.com/) for in class exercises
@@ -96,8 +95,8 @@ INTENDED** for computer science students who want to learn about biologically
 motivated algorithmic problems; GCB/CIS/BIOL5360 and GCB5370 is more appropriate.
 
 Areas multiple hypothesis testing, data processing and visualization, analysis
-pipeline development, sequence alignment, study design for high-throughput sequencing, 
-RNA gene expression, single-cell RNA-Seq, single gene and whole-genome analysis, 
+pipeline development, study design for high-throughput sequencing, 
+RNA gene expression, single-cell RNA-Seq, ATAC-Seq, single gene and whole-genome analysis, 
 gene regulation and ENCODE, ChIP-Seq analysis, analysis of CRISPR screening data, 
 and machine learning. Relevant principles underlying methods used for analysis in these 
 areas will be introduced and discussed at a level appropriate for biologists without a 
