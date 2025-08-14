@@ -1,4 +1,4 @@
-# BIOM/CIS/MTR 535 (Fall 2024): Introduction to Bioinformatics
+# BIOM/CIS/MTR 5350 (Fall 2025): Introduction to Bioinformatics
 
 ## Course Staff
 
