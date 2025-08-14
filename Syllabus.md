@@ -38,8 +38,8 @@ We do not reliably check the Canvas messaging functionality.
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 
 * Max Dudek (GCB): computational genomics, disease genetics, liver disease
-* Ijeoma Meremikwu (GCB): 
-* Yuhao Tan (GCB): 
+* Ijeoma Meremikwu (GCB): Spatial transcriptomics, meningioma, immunology, cancer biology
+* Yuhao Tan (GCB): cancer immunology, machine learning, mass spectrometry
 * Ravi Mandla (GCB): 
 
 
