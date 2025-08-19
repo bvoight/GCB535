@@ -30,7 +30,7 @@ We do not reliably check the Canvas messaging functionality.
 
 [Yuhao Tan](mailto:Yuhao.Tan@pennmedicine.upenn.edu): Yuhao.Tan@pennmedicine.upenn.edu
 
-[Ravi Mandla](mailto:Ravi.Mandla@pennmedicine.upenn.edu): Ravi.Mandla@pennmedicine.upenn.edu 
+[Ravi Mandla](mailto:ravi.mandla@pennmedicine.upenn.edu): ravi.mandla@pennmedicine.upenn.edu
 
 ### Keywords
 
@@ -40,7 +40,7 @@ We do not reliably check the Canvas messaging functionality.
 * Max Dudek (GCB): computational genomics, disease genetics, liver disease
 * Ijeoma Meremikwu (GCB): Spatial transcriptomics, meningioma, immunology, cancer biology
 * Yuhao Tan (GCB): cancer immunology, machine learning, mass spectrometry
-* Ravi Mandla (GCB): 
+* Ravi Mandla (GCB): statistical genetics, precision medicine
 
 
 ## Location and time
