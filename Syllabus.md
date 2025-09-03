@@ -66,11 +66,7 @@ students will receive precedence. To schedule a meeting, send an e-mail or slack
 the course directors. 
 
 * BFV: On zoom or in office (10-126) by appointment
-* TAs: 
-    * Max Dudek: Friday 2:45-3:45p (After class in Towne 217, same room)
-    * Ijeoma Meremikwu:
-    * Yuhao Tan:
-    * Ravi Mandla:
+* TAs: Wednesday 2:45-3:45p (After class in Towne 217, same room)
     
 ## Course web site
 
