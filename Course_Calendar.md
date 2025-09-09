@@ -43,7 +43,7 @@
 | 11/24/2025 | M   | -        | -         | Python - IV                                                           |
 | 11/26/2025 | W   | -        | -         | Python - V                                                            |
 | 11/28/2025 | F   | -        | -         | NO CLASS [Thanksgiving]                                               |
-| 12/1/2025  | M   | 33,34,35 | -         | Machine Learning: I                                                   |
-| 12/3/2025  | W   | -        | -         | Machine Learning - II                                                 |
-| 12/5/2025  | F   | -        | -         | Machine Learning - III                                                |
-| 12/8/2025  | M   | 36       | HW3 Due   | Programming with Generative AI                                        |
+| 12/1/2025  | M   | 33-37    | -         | Machine Learning: I + II                                              |
+| 12/3/2025  | W   | -        | -         | Machine Learning - III + IV                                           |
+| 12/5/2025  | F   | -        | -         | Machine Learning - V                                                  |
+| 12/8/2025  | M   | 38       | HW3 Due   | Programming with Generative AI                                        |
