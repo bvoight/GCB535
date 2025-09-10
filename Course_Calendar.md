@@ -28,11 +28,11 @@
 | 10/20/2025 | M   | 20,21    | -         | Building Analytical Pipelines (L)                                     |
 | 10/22/2025 | W   | -        | -         | Bioinformatics in Pharmacology                                        |
 | 10/24/2025 | F   | -        | -         | Automating Pipelines                                                  |
-| 10/27/2025 | M   | 22       | -         | Proteomics (L)                                                        |
-| 10/29/2025 | W   | -        | -         | Analysis of Proteomics Data                                           |
-| 10/31/2025 | F   | 23,24    | -         | Transcriptomics via single-cell RNA-Seq (L)                           |
-| 11/3/2025  | M   | -        | HW2 Due   | scRNA-Seq Analysis - I + II                                           |
-| 11/5/2025  | W   | -        | -         | scRNA-Seq Analysis - I + II                                           |
+| 10/27/2025 | M   | 22,23    | -         | Transcriptomics via single-cell RNA-Seq (L)                           |
+| 10/29/2025 | W   | -        | -         | scRNA-Seq Analysis - I + II                                           |
+| 10/31/2025 | F   | 24       | -         | scRNA-Seq Analysis - I + II                                           |
+| 11/3/2025  | M   | -        | HW2 Due   | Proteomics (L)                                                        |
+| 11/5/2025  | W   | -        | -         | Analysis of Proteomics Data                                           |
 | 11/7/2025  | F   | 25       | -         | ATAC-Seq Analysis; Profiling Chromatin Accessibility via ATAC-Seq (L) |
 | 11/10/2025 | M   | 26       | -         | CRISPR Screening (L)                                                  |
 | 11/12/2025 | W   | -        | -         | Analysis of CRISPR Screens                                            |
