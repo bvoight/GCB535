@@ -11,7 +11,7 @@
 | 9/10/2025  | W   | -        | -         | R: III + IV (ggplot2); V (Tidyverse)                                  |
 | 9/12/2025  | F   | 7,8      | -         | HTS Transcriptomics via RNA-Seq (L)                                   |
 | 9/15/2025  | M   | -        | -         | RNA-Seq Analysis: I + II                                              |
-| 9/17/2025  | W   | 9        | -         | Intro to DSEQ2 and Multiple Hypothesis Testing - FDR (L)              |
+| 9/17/2025  | W   | 9        | -         | Intro to DESeq2 and Multiple Hypothesis Testing - FDR (L)             |
 | 9/19/2025  | F   | 10       | -         | Enrichment Analysis - Gene Annotation                                 |
 | 9/22/2025  | M   | 11       | -         | Reproducible Research: Debugging Code (L)                             |
 | 9/24/2025  | W   | 12       | -         | Debugging Code                                                        |
