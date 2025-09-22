@@ -19,10 +19,10 @@
 | 9/29/2025  | M   | -        | HW 1 Due  | UNIX: I + II                                                          |
 | 10/1/2025  | W   | -        | -         | UNIX: I + II                                                          |
 | 10/3/2025  | F   | 15       | -         | Data Parsing/Cleaning: Setup for new analysis + Fixing Data (L)       |
-| 10/6/2025  | M   | 16,17    | -         | ChIP-Seq: I + II                                                      |
+| 10/6/2025  | M   | 16,17    | -         | HTS Functional Genomics: ChIP-Seq (L)                                 |
 | 10/8/2025  | W   | -        | -         | ChIP-Seq: I + II                                                      |
 | 10/10/2025 | F   | -        | -         | NO CLASS [Fall Break]                                                 |
-| 10/13/2025 | M   | 18,19    | -         | HTS Functional Genomics: ChIP-Seq (L)                                 |
+| 10/13/2025 | M   | 18,19    | -         | ChIP-Seq: I + II                                                      |
 | 10/15/2025 | W   | -        | -         | ENCODE - I + II                                                       |
 | 10/17/2025 | F   | -        | -         | ENCODE - I + II                                                       |
 | 10/20/2025 | M   | 20,21    | -         | Building Analytical Pipelines (L)                                     |
