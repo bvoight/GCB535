@@ -33,7 +33,7 @@
 | 10/31/2025 | F   | 24       | -         | scRNA-Seq Analysis - I + II                                           |
 | 11/3/2025  | M   | -        | HW2 Due   | Proteomics (L)                                                        |
 | 11/5/2025  | W   | -        | -         | Analysis of Proteomics Data                                           |
-| 11/7/2025  | F   | 25       | -         | ATAC-Seq Analysis; Profiling Chromatin Accessibility via ATAC-Seq (L) |
+| 11/7/2025  | F   | 25       | -         | ATAC-Seq Analysis                                                     |
 | 11/10/2025 | M   | 26       | -         | CRISPR Screening (L)                                                  |
 | 11/12/2025 | W   | -        | -         | Analysis of CRISPR Screens                                            |
 | 11/14/2025 | F   | 27-31    |           | Python - I                                                            |
