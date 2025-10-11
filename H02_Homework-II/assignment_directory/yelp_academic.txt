@@ -1,0 +1,1243 @@
+name	address	postal_code	stars	review_count	Categories
+Morton's The Steakhouse     	1411 Walnut St	19102	3.5	149	American
+Jasmine Rice - Rittenhouse    	306 S 16th St	19102	3.5	307	SE Asian
+R2L       	50 S 16th St, Fl 37	19102	3.5	787	American
+500 Degrees      	1504 Sansom St	19102	3.5	443	American
+Sansom Kabob House     	1526 Sansom St	19102	4.0	128	Middle Eastern
+Marathon       	121 S 16th St	19102	3.5	593	American
+Cinder Copper & Lace    	1500 Locust St	19102	3.5	157	Italian
+Good Dog Bar     	224 S 15th St	19102	4.0	1279	American
+Mi Lah Vegetarian     	218 S 16th St	19102	3.5	213	American
+Aqimero       	10 Avenue Of The Arts	19102	3.5	143	American
+Butcher and Singer     	1500 Walnut St	19102	4.5	1290	American
+Harp & Crown     	1525 Sansom St	19102	4.0	912	American
+Mission Taqueria      	1516 Sansom St, Fl 2	19102	4.0	617	Mexican
+Misconduct Tavern      	1511 Locust St	19102	3.5	396	American
+&pizza - Walnut     	430 Walnut St	19102	4.5	364	European
+La Viola Ovest     	252 S 16th St	19102	3.5	209	Italian
+Nodding Head Brewery & Restaurant   	1516 Sansom St, 2nd Floor	19102	3.5	339	American
+Amuse       	1421 Arch St	19102	3.5	154	European
+La Viola      	253 S 16th St, Apt 1	19102	3.5	524	Italian
+Jose Pistola's      	263 S 15th St	19102	3.5	488	Mexican
+Elixr Coffee Roasters     	207 S Sydenham St	19102	4.5	810	Bakery
+Russet       	1521 Spruce St	19102	3.5	269	Italian
+Amma's South Indian Cuisine    	1518 Chestnut St	19102	4.0	301	Indian
+NYPD Pizza      	140 S 11th St	19102	3.5	198	European
+Locust Rendezvous      	1415 Locust St	19102	4.0	230	American
+The Palm Philadelphia     	200 S Broad St	19102	3.5	205	Italian
+XIX Nineteen      	200 S Broad St, Fl 19	19102	3.5	611	American
+Goldie       	1526 Sansom St	19102	4.5	514	Middle Eastern
+Giovani's Bar & Grill    	1533 Chestnut St	19102	4.0	215	Italian
+The Rooster      	1526 Sansom St	19102	4.5	266	American
+Joe's Pizza      	122 S 16th St	19102	3.5	183	European
+Waffles & Wedges     	1511 Pine St	19102	4.0	126	American
+Su Xing House     	1508 Sansom St	19102	4.0	417	Chinese
+Capriccio Cafe and Bar    	110 N 16th St	19102	3.5	121	American
+Oyster House      	1516 Sansom St	19102	4.0	1407	American
+The Happy Rooster     	118 S 16th St	19102	3.5	251	American
+Schlesinger's       	1521 Locust St	19102	3.5	258	American
+Pure Fare      	224 South Broad Street, Floor 8	19102	3.5	225	American
+Real Food Eatery     	207 S 16th St	19102	4.5	279	American
+Alice Pizza      	235 S 15th St	19102	4.5	243	Italian
+Del Frisco's Double Eagle Steakhouse   	1428-1432 Chestnut St	19102	4.0	1129	American
+Dan Dan      	126 S 16th St	19102	4.0	860	Chinese
+Philly Pretzel Factory     	1532 Sansom St	19102	4.0	117	Bakery
+Bliss       	220 S Broad St	19102	3.5	121	American
+Estia       	1405 Locust St	19102	4.0	761	European
+Kamals Middle Eastern Specialties    	51 N 12th St	19102	3.5	187	Middle Eastern
+Bop       	220 S Broad St	19102	3.5	104	Korean
+Fine Palate      	231 S 15th St	19102	3.5	113	American
+Gabi       	339 N Broad St	19102	4.5	110	European
+SPIN - Philadelphia     	211 S 15th St	19102	4.0	113	American
+Le Pain Quotidien     	1425 Walnut St	19102	3.5	312	European
+Shiroi Hana      	222 S 15th St	19102	4.0	217	Japanese
+Monk's Cafe      	264 S 16th St	19102	4.0	2184	American
+Steak 48      	260 S Broad St	19102	4.0	137	American
+Snap Custom Pizza - Center City  	1504 Sansom St	19102	4.0	271	European
+Max Brenner - Philadelphia    	1500 Walnut St	19102	3.5	1358	American
+Ocean Prime      	124 S 15th St	19102	4.0	513	American
+Bonté Wafflerie & Café    	130 S 17th St	19102	3.5	115	American
+1518 Bar & Grill    	1518 Sansom St	19102	4.0	221	American
+Le Bec Fin     	1523 Walnut St	19102	4.0	227	European
+Giuseppe & Sons     	1523 Sansom St	19102	4.0	248	Italian
+10 Arts Bistro     	The Ritz-Carlton Philadelphia, Ten Avenue of the Arts	19102	3.5	170	American
+The Love      	130 S 18th St	19103	4.0	618	American
+Bistro St. Tropez     	2400 Market St, Ste 427	19103	3.5	163	European
+24	2401 Walnut St	19103	3.5	111	Italian
+Square 1682      	121 S 17th St	19103	3.5	385	American
+La Creperie Cafe     	1722 Sansom St	19103	3.5	146	American
+The Black Sheep Pub & Restaurant  	247 S 17th St	19103	3.5	339	American
+Trattoria Carina      	2201 Spruce St	19103	4.5	213	Italian
+Swiss Haus Cafe & Pastry Bar  	1740 Sansom St	19103	4.0	261	Jewish
+HipCityVeg       	127 S 18th St	19103	4.0	1082	American
+Spice Finch      	220 S 17th St	19103	4.5	325	American
+Aldine       	1901 Chestnut St	19103	4.0	156	American
+Village Whiskey      	118 S 20th St	19103	4.0	1553	American
+Mac Mart      	104 South 18th St	19103	4.0	321	American
+Rittenhouse Grill      	1701 Locust St	19103	3.5	290	American
+Crazy Sushi      	1837 Chestnut St	19103	4.0	550	Japanese
+Pho Street      	2104 Market St	19103	4.0	150	SE Asian
+Porcini       	2048 Sansom St	19103	3.5	317	Italian
+El Merkury      	2104 Chestnut St	19103	4.5	162	American
+Devon Seafood Grill     	225 S 18th St	19103	3.5	1159	American
+Rosy's Taco Bar     	2220 Walnut St	19103	4.0	282	Mexican
+Parc       	227 S 18th St	19103	4.0	2761	American
+Pizzeria Vetri      	1615 Chancellor St	19103	4.0	313	Italian
+Just Salad      	1729 Chestnut St	19103	3.5	133	American
+V Street      	126 S 19th St	19103	4.5	739	American
+Good Stuff Eatery     	108 S 18th St	19103	3.5	118	American
+Townsend       	2121 Walnut St	19103	4.5	246	European
+Revolution Taco      	2015 Walnut St	19103	4.0	276	Mexican
+Branzino Italian Ristorante     	261 S 17th St	19103	3.5	331	Italian
+Mandarin Palace      	1835 Chestnut St	19103	3.5	185	Chinese
+Tir na nOg Irish Pub   	1600 Arch Pkwy	19103	3.5	245	American
+El Rey      	2013 Chestnut St	19103	3.5	968	Mexican
+Stock Rittenhouse      	1935 Chestnut St	19103	3.5	100	American
+Mama's Vegetarian      	18 S 20th St	19103	4.5	592	Middle Eastern
+Gran Caffe L'Aquila     	1716 Chestnut St	19103	4.5	1138	Italian
+Lacroix Restaurant at The Rittenhouse   	210 W Rittenhouse Sq	19103	4.5	434	American
+The Foodery at Rittenhouse    	1710 Sansom St	19103	4.0	265	American
+Via Locusta      	1723 Locust St	19103	4.5	144	Italian
+Casta Diva      	227 S 20th St	19103	4.5	148	Italian
+Di Bruno Bros.     	1730 Chestnut St	19103	4.0	550	Italian
+P S & Co    	1706 Locust St	19103	4.0	437	American
+Tequilas Restaurant      	1602 Locust St	19103	4.0	753	Mexican
+Matt & Marie's     	100 N 18th St, Ste 120	19103	4.0	201	Italian
+Chix & Bowls     	28 S 20th St	19103	4.0	142	American
+Luke's Lobster Rittenhouse     	130 S 17th St	19103	4.5	1161	American
+bāo•logy       	1829 John F Kennedy Blvd	19103	4.0	183	Chinese
+Indian Cuisine      	1939 Arch St	19103	3.5	106	Indian
+Nom Nom Ramen     	20 S 18th St	19103	4.0	531	Japanese
+Marathon On the Square    	1839 Spruce St	19103	3.5	265	American
+Melograno       	2012 Sansom St	19103	3.5	451	Italian
+Tria Cafe Rittenhouse     	123 S 18th St	19103	4.5	880	Italian
+Salento       	2216 Walnut St	19103	3.5	113	Italian
+Rotisseur       	102 S 21st St	19103	3.5	243	American
+Nook Bakery & Coffee Bar   	15 S 20th St	19103	4.5	304	Italian
+Twenty Manning      	261 S 20th St	19103	3.5	421	American
+Barclay Prime      	237 S 18th St	19103	4.5	789	American
+Matyson       	37 S 19th St	19103	4.0	402	American
+City Tap House     	100 N18th St	19103	4.0	497	American
+Mémé       	2201 Spruce St	19103	4.0	119	American
+Pietro's Coal Oven Pizzeria    	1714 Walnut St	19103	3.5	751	Italian
+Tinto       	114 S 20th St	19103	4.0	877	European
+Metropolitan Bakery      	262 S 19th St	19103	4.0	242	Bakery
+Cavanaugh's Rittenhouse      	1823 Sansom St	19103	3.5	226	American
+JG SkyHigh      	1 N 19th St, Fl 60	19103	4.0	129	American
+Vic Sushi Bar     	2035 Sansom St	19103	4.0	884	Japanese
+Dim Sum House     	1930 Chestnut St	19103	4.0	505	Chinese
+Aya's Cafe      	2129 Arch St	19103	4.0	198	Middle Eastern
+Smith & Wollensky     	Rittenhouse Hotel, 210 W Rittenhouse Sq	19103	3.5	105	American
+Sotto       	151 S 24th St	19103	4.0	175	Italian
+Le Chéri      	251 S 18th St	19103	4.0	128	European
+Veda - Modern Indian Bistro   	1920 Chestnut St	19103	4.0	465	Indian
+Alma de Cuba     	1623 Walnut St	19103	4.0	1321	American
+Rione       	102 S 21st St	19103	4.5	208	Italian
+Wrap Shack      	120 S 18th St	19103	3.5	300	American
+Ambrosia Ristorante BYOB     	231 S 24th St	19103	4.5	141	Italian
+Thanal Indian Tavern     	1939 Arch St	19103	4.5	240	Indian
+Farmer's Keep      	10 S 20th St	19103	4.5	205	American
+Zama       	128 S 19th St	19103	3.5	566	Japanese
+a.kitchen       	135 S 18th St	19103	3.5	441	American
+Machi Sushi Bar     	209 S 20th St	19103	3.5	186	Japanese
+Erawan Thai Cuisine     	123 S 23rd St	19103	3.5	411	SE Asian
+Food & Friends     	1933 Spruce St	19103	4.0	167	American
+Crow and the Pitcher    	267 S 19th St	19103	3.5	162	American
+Fuji Mountain      	2030 Chestnut St	19103	4.0	475	Japanese
+Dolce Carini      	1929 Chestnut St	19103	4.0	132	Italian
+Almaz Cafe      	140 S 20th St	19103	4.0	381	American
+Urban Farmer Philadelphia     	1850 Benjamin Franklin Pkwy	19103	4.0	597	American
+Shoo Fry      	132 S 17th St	19103	4.0	172	American
+Cherry Street Tavern     	129 N 22nd St	19103	4.0	152	American
+Agno Grill      	2104 Chestnut St	19103	4.0	225	European
+The Continental Mid-town     	1801 Chestnut St	19103	3.5	1682	American
+Rachael's Nosheri      	120 S 19th St	19103	3.5	135	American
+Dizengoff       	1625 Sansom St	19103	4.5	725	Middle Eastern
+SUGA       	1720 Sansom St	19103	3.5	166	Chinese
+Underdogs       	132 S 17th St	19103	3.5	252	American
+Bar Bombón      	133 S 18th St	19103	4.0	734	American
+Pete's Famous Pizza     	116 N 21st St	19103	3.5	228	European
+Condesa       	1830 Ludlow St	19103	4.0	117	Mexican
+Moustaki Authentic Gyros     	161 N 21st St	19103	4.0	147	American
+Square on Square     	274 S 20th St	19103	3.5	246	Italian
+Devil's Alley Bar & Grille   	1907 Chestnut St	19103	3.5	825	American
+Giwa Korean Kitchen     	1722 Sansom St	19103	3.5	412	Korean
+Tampopo       	104 S 21st St, Ste A	19103	4.0	273	Japanese
+Audrey Claire      	276 S 20th St	19103	4.0	722	American
+Plenty Café      	1602 Spruce St	19103	3.5	247	American
+James Restaurant & Bar    	1835 Arch St	19103	3.5	198	American
+CAVA       	1713 Chestnut St	19103	4.0	106	American
+Helium Comedy Club     	2031 Sansom St	19103	3.5	352	American
+sweetgreen       	1821 Chestnut St	19103	4.0	213	American
+Butcher Bar      	2034 Chestnut St	19103	4.0	682	American
+The Bakeshop on 20th    	269 S 20th St	19103	4.5	346	American
+Davios       	111 S 17th St	19103	4.0	614	Italian
+Mama Palma's Gourmet Pizza    	2229 Spruce St	19103	3.5	231	Italian
+Le Castagne      	1920 Chestnut St	19103	3.5	119	Italian
+Noble: An American Cookery    	2025 Sansom St	19103	4.0	147	American
+Rogue's Gallery      	11 S 21st St	19103	4.0	165	American
+Philadelphia Chutney Company     	1628 Sansom St	19103	4.0	467	Indian
+Animo Juice      	1701 Arch St	19103	4.0	272	Mexican
+Day By Day     	2101 Sansom St	19103	4.0	642	American
+Miel Patisserie      	204 S 17th St	19103	3.5	432	Bakery
+QU JAPAN BISTRO & BAR   	1635 Market St, Ste 103	19103	4.5	118	Japanese
+Smile Cafe      	105 S 22nd St	19103	4.0	303	SE Asian
+Ruth's Chris Steak House    	1800 Market St	19103	3.5	184	American
+PrimoHoagies       	2043 Chestnut St	19103	4.0	154	Italian
+Bao Nine      	38 S 19th St	19103	4.5	138	Chinese
+C19 Cichetteria Venezia     	267 S 19th St	19103	3.5	116	Italian
+Res Ipsa Cafe     	2218 Walnut St	19103	4.0	205	Italian
+Tortorice's Italian Specialty Sandwiches    	233 S 20th St	19103	4.5	101	Italian
+Cleavers       	108 S 18th St	19103	4.0	1304	Cheesesteaks
+Rouge       	205 S 18th St	19103	3.5	495	American
+Harper's Garden      	31 S 18th St	19103	4.0	516	American
+Gusto Pizzeria      	240 S 22nd St	19103	4.0	171	Italian
+Thai Singha House Express    	106 S 20th St	19103	4.0	211	SE Asian
+Drinker's Pub      	1903 Chestnut St	19103	3.5	297	American
+Alfa American Tavern     	1709 Walnut St	19103	3.5	148	American
+Mix Brick Oven Pizza    	2101 Chestnut St	19103	3.5	218	European
+Famous 4th Street Delicatessen    	38 S 19th St	19103	4.0	166	American
+Spread Bagelry      	262 S 20th St	19103	3.5	579	Jewish
+D'Angelo's Ristorante Italiano     	256 S 20th St	19103	3.5	163	Italian
+Bluestone Lane      	1701 Locust St	19103	4.0	302	American
+SkyGarten       	1717 Arch St, Fl 51, Three Logan Square	19103	3.5	109	American
+K'Far Cafe      	110 S 19th St	19103	4.5	356	American
+JJ Thai Cuisine     	2028 Chestnut St	19103	4.5	376	European
+Jean-Georges Philadelphia      	1 N 19th St, Fl 59	19103	4.0	117	American
+Scarpetta       	210 W Rittenhouse Square	19103	4.0	213	Italian
+Friday Saturday Sunday     	261 S 21st St	19103	4.0	246	American
+Vernick Fish      	1876 Arch St	19103	4.5	129	European
+Chima Steakhouse      	1901 John F Kennedy Blvd	19103	3.5	697	American
+Slice       	1740 Sansom St	19103	3.5	214	European
+a.bar       	1737 Walnut St	19103	4.0	116	American
+Federal Donuts      	1632 Sansom St	19103	4.0	1464	American
+LeBus Bakery      	129 S 18th St	19103	4.0	134	Jewish
+Seafood Unlimited      	270 S 20th St	19103	3.5	143	American
+Tria Taproom      	2005 Walnut St	19103	4.5	357	American
+MIZU Sushi Bar     	133 S 20th St	19103	3.5	112	Japanese
+Tsuki Sushi      	2135 Walnut St	19103	3.5	149	Japanese
+Friday Saturday Sunday     	261 S 21st St	19103	4.5	287	American
+Tandoor Authentic Indian Restaurant    	106 S 40th St	19104	3.5	148	Indian
+Han Dynasty      	3711 Market St	19104	4.0	783	Chinese
+Capogiro Gelato      	3925 Walnut St	19104	4.0	252	European
+Hai Street Kitchen & Co   	125 S 40th St	19104	3.5	100	Japanese
+HipCityVeg - University City    	214 S 40th St	19104	4.0	314	American
+The Fat Ham     	3131 Walnut St	19104	4.0	286	European
+Cucina Zapata      	S 31st & Ludlow St	19104	4.5	248	Mexican
+Bridgewater's Pub      	30th Street Station	19104	3.5	162	American
+Wishbone       	4034 Walnut St	19104	3.5	191	American
+Wahoo's Fish Taco     	3180 Chestnut St	19104	3.5	133	Mexican
+New Delhi Indian Restaurant    	4004 Chestnut St	19104	4.0	514	Indian
+Local 44      	4333 Spruce St	19104	3.5	494	American
+Sabrina's Café      	227 N 34th St	19104	4.0	833	American
+U-Town       	110 S 40th St	19104	3.5	127	Japanese
+Koch's Deli      	4309 Locust St	19104	4.0	260	Jewish
+The Farmacy      	4443 Spruce St	19104	3.5	226	American
+Tampopo       	269 S 44th St	19104	3.5	185	Japanese
+Chengdu Famous Food     	3635 Lancaster Ave	19104	4.0	214	Chinese
+Hummus Grill      	3931 Walnut St	19104	4.0	372	Middle Eastern
+Louie Louie      	3611 Walnut St	19104	4.0	272	American
+Abyssinia       	229 S 45th St	19104	3.5	307	African
+United By Blue     	3421 Walnut St	19104	4.0	102	American
+Cozara       	3200 Chestnut StChestnut Square, Ste A, 33rd & Chestnut	19104	3.5	181	Japanese
+The Green Line Cafe    	4239 Baltimore Ave	19104	3.5	197	American
+Colonial Pizza      	400 S 43rd St	19104	4.0	106	European
+Renata's Kitchen      	3940 Baltimore Ave	19104	4.0	203	American
+Aloosh Hookah Bar Restaurant    	3600 Lancaster Ave	19104	4.0	104	Middle Eastern
+Sitar India      	60 S 38th St	19104	4.0	387	Indian
+JG Domestic      	2929 Arch St	19104	3.5	171	American
+Baby Blues BBQ Philly    	3432 Sansom St	19104	3.5	466	BBQ
+Manakeesh Cafe Bakery & Grill   	4420 Walnut St	19104	4.0	646	American
+Clarkville       	4301 Baltimore Ave	19104	3.5	227	European
+Distrito       	3945 Chestnut St	19104	3.5	1077	Mexican
+Pattaya       	4040 Locust St	19104	3.5	327	European
+Dim Sum House     	3939 Chestnut St, Fl 2	19104	4.0	451	Chinese
+CO-OP Restaurant & Lounge    	20 S 33rd St	19104	3.5	128	American
+Knockbox Cafe      	405 S 45th St	19104	4.0	115	Jewish
+Marigold Kitchen      	501 S 45th St	19104	4.0	272	American
+Kabobeesh       	4201 Chestnut St	19104	3.5	322	Indian
+Don Barriga Mexican Grill    	4443 Spruce St, Fl 1st	19104	4.5	109	Mexican
+Desi Chaat House     	501 S 42nd St	19104	4.0	241	Indian
+Metropolitan Bakery      	4013 Walnut St	19104	3.5	137	American
+Ethio Cafe & Carry Out   	225 S 45th St	19104	4.0	112	African
+City Tap House     	3925 Walnut St, Fl 2, Radian Balcony	19104	3.5	742	American
+LaTao HotPot      	3717 Chestnut St	19104	4.0	138	Chinese
+Meskerem Ethiopian Restaurant     	225 S 45th St	19104	4.5	105	African
+Terakawa Ramen      	125 S 40th St	19104	4.0	147	Japanese
+Walnut Street Cafe     	2929 Walnut St	19104	3.5	253	American
+World Cafe Live     	3025 Walnut St	19104	4.0	350	American
+Tipsy Bistro      	3131 Walnut St	19104	4.5	169	American
+Zavino       	3200 Chestnut St	19104	4.0	314	Italian
+Abner's Cheesesteaks      	3813 Chestnut St	19104	3.5	223	American
+Ochatto       	3608 Chestnut St	19104	3.5	217	Japanese
+Pho & Cafe Saigon    	4248 Spruce St	19104	3.5	183	SE Asian
+Wah-Gi-Wah       	4447 Chestnut St	19104	3.5	135	Indian
+Kaffa Crossing      	4421 Chestnut St	19104	4.0	207	American
+Thai Singha House     	3906B Chestnut St	19104	3.5	120	SE Asian
+Winterfell Dessert      	32 S 40th St	19104	4.5	136	Chinese
+New Deck Tavern     	3408 Sansom St	19104	3.5	419	American
+Bobby's Burger Palace     	University of Pennsylvania, 3925 Walnut St	19104	3.5	788	American
+Jezabel's       	206-208 S 45th St	19104	3.5	129	American
+Ramen Bar      	3400 Lancaster Ave	19104	3.5	343	Japanese
+Lovers & Madmen     	28 S 40th St	19104	3.5	132	American
+Shake Shack      	3200 Chestnut St	19104	3.5	218	American
+Zesto Pizza & Grill    	125 S 40th St	19104	4.0	127	American
+Reed's Coffee & Tea House   	3802 Lancaster Ave	19104	4.5	106	American
+Koreana       	3801 Chestnut St	19104	3.5	363	Italian
+Honest Tom's Plant Based Taco Shop  	261 S 44th St	19104	4.0	597	Mexican
+Kilimandjaro Restaurant      	4317 Chestnut St	19104	4.0	252	African
+Chili Szechuan      	4205 Chestnut St	19104	4.0	147	Chinese
+Chattime       	3608 Chestnut St	19104	4.0	107	Japanese
+Beijing Restaurant      	3714 Spruce St	19104	3.5	188	Chinese
+Pod       	3636 Sansom St	19104	3.5	797	Japanese
+Tuna Bar      	205 Race St	19106	4.0	245	Japanese
+Capofitto       	233 Chestnut St	19106	4.5	205	Italian
+Tomo Sushi & Ramen    	228 Arch St	19106	4.5	193	Japanese
+Mac's Tavern      	226 Market St	19106	3.5	446	American
+Cafe Square One     	50 S 3rd St	19106	4.5	245	American
+LaScala's       	615 Chestnut St	19106	3.5	367	Italian
+Nauti Mermaid Crab House    	110 Chestnut St	19106	4.0	108	American
+Red Owl Tavern     	433 Chestnut St	19106	3.5	618	American
+Ariana       	134 Chestnut St	19106	4.0	115	Middle Eastern
+Khyber Pass Pub     	56 S 2nd St	19106	4.0	845	American
+Marmont Steakhouse & Bar    	222 Market St	19106	3.5	316	American
+Tartes Pastry Shop     	212 Arch St	19106	4.0	181	Bakery
+Revolution House      	200 Market St	19106	3.5	554	Italian
+Amada       	217 Chestnut St	19106	4.0	2109	American
+Buk Chon Korean Cuisine    	132 Chestnut St	19106	4.5	221	Korean
+Chifa       	707 Chestnut St	19106	4.0	444	American
+P. J. Clarke's     	601 Walnut St	19106	4.0	130	American
+Bistro 7      	7 N 3rd St	19106	3.5	108	European
+Las Bugambilias      	15 S 3rd St	19106	4.0	381	Mexican
+Sto's Bar & Restaurant    	236 Market St	19106	3.5	119	American
+SOHO Pizza      	218 Market St	19106	3.5	176	European
+La Peg      	140 N Columbus Blvd	19106	3.5	252	American
+Sonny's Famous Steaks     	228 Market St	19106	4.0	1697	American
+Zahav       	237 St James Pl	19106	4.5	3065	Middle Eastern
+M Restaurant      	231 S 8th St	19106	3.5	165	Italian
+National Mechanics      	22 S 3rd St	19106	4.0	875	American
+Radicchio Cafe      	402 Wood St	19106	4.0	309	Italian
+Ristorante La Buca     	711 Locust St	19106	3.5	113	Italian
+Kabul Afghan Cuisine     	106 Chestnut St	19106	3.5	185	American
+Gianfranco Pizza Rustica     	6 N 3rd St	19106	4.0	247	Italian
+Positano Coast by Aldo Lamberti   	212 Walnut St, Fl 2	19106	3.5	689	Italian
+The Continental Restaurant and Martini Bar  	138 Market St	19106	4.0	638	American
+Koto Sushi      	719 Sansom St	19106	4.5	280	Japanese
+Triumph Brewing Company     	117 Chestnut St	19106	3.5	318	American
+Moshulu       	401 S Columbus Blvd	19106	3.5	874	American
+Big Ass Slices     	218 Market St	19106	3.5	240	American
+The Victoria Freehouse     	10 S Front St	19106	4.0	220	American
+Panini's Trattoria      	317 Market St	19106	3.5	100	Italian
+Frieda       	320 Walnut St	19106	4.5	193	American
+Wedge + Fig     	160 N 3rd St	19106	4.0	408	American
+Glory Beer Bar & Kitchen   	126 Chestnut St	19106	4.5	203	American
+2nd Story Brewing     	117 Chestnut St	19106	4.0	561	American
+City Tavern Restaurant     	138 S 2nd St	19106	4.0	841	Italian
+Royal Boucherie      	52 S 2nd St	19106	4.0	228	American
+Aqua Malaysian Thai Cuisine    	705 Chestnut St	19106	3.5	162	SE Asian
+Cafe Walnut      	703 Walnut St	19106	4.5	128	Jewish
+Cooperage Wine & Whiskey Bar   	123 S 7th St	19106	4.0	240	American
+Race Street Cafe     	208 Race St	19106	4.0	315	American
+Roe       	138 Chestnut St	19106	3.5	109	Japanese
+Knead Bagels      	725 Walnut St	19106	4.5	367	Jewish
+Common Wealth Old City    	319 Market St	19106	3.5	221	American
+Luna Café      	317 Market St	19106	4.0	444	American
+Sassafras Bar      	48 S 2nd St	19106	4.5	352	American
+Oh Brother Philly     	206 Market St	19106	4.5	511	Cheesesteaks
+Fat Salmon      	719 Walnut St	19106	4.5	1089	Japanese
+Independence Visitor Center     	599 Market St	19106	4.5	141	SE Asian
+Union Trust      	717 Chestnut St	19106	4.0	138	American
+La Famiglia Ristorante     	8 S Front St	19106	4.0	140	Italian
+Prime Stache      	110 Chestnut St	19106	4.0	212	American
+El Fuego      	723 Walnut St	19106	3.5	258	Mexican
+Talula's Daily      	208 W Washington Square	19106	4.5	368	American
+Happily Ever After     	230 Market St	19106	4.0	358	American
+Morimoto       	723 Chestnut St	19106	4.5	1914	Japanese
+Silence Dogood's Tavern     	216 Market St	19106	4.5	111	American
+Bierstube German Tavern     	206 Market St	19106	3.5	179	American
+Forsythia       	233 Chestnut St	19106	4.5	123	American
+Fork       	306 Market St	19106	4.0	640	American
+Lucha Cartel      	207 Chestnut St	19106	3.5	556	Mexican
+Talula's Garden      	210 W Washington Sq	19106	4.5	1927	American
+United By Blue     	205 Race St	19106	4.5	135	American
+Eggcellent Cafe      	113 Chestnut St	19106	4.0	140	American
+Paddy's Old City Pub    	228 Race St	19106	3.5	117	American
+Karma Restaurant & Bar    	114 Chestnut St	19106	4.0	453	Indian
+Panorama       	14 N Front St	19106	4.0	324	Italian
+Buffalo Billiards      	118 Chestnut St	19106	3.5	241	American
+The Plough & the Stars   	123 Chestnut St	19106	3.5	454	American
+JJ Bootleggers      	35 S 2nd St	19106	3.5	251	BBQ
+Chloe       	232 Arch St	19106	4.0	144	American
+The Gaslight      	120 Market St	19106	3.5	270	American
+Zento Contemporary Japanese Cuisine    	132 Chestnut St	19106	4.0	519	Japanese
+Spasso Italian Grill     	34 S Front St	19106	4.0	541	Italian
+The Little Lion     	243 Chestnut St	19106	4.0	494	American
+Buddakan       	325 Chestnut St	19106	4.0	1561	Chinese
+European Republic      	213 Chestnut St	19106	4.0	239	American
+The Olde Bar     	125 Walnut St	19106	4.0	302	American
+Han Dynasty      	123 Chestnut St	19106	4.0	1474	Chinese
+Nick's Bar and Grille    	16 S 2nd St	19106	4.0	181	American
+Torch-Wood Cafe      	303 N 3rd St	19106	4.5	103	American
+El Azteca Uno     	714 Chestnut St	19106	3.5	242	Mexican
+Cuba Libre Restaurant & Rum Bar - Philadelphia	10 S 2nd St	19106	3.5	1195	American
+Mumbai Bistro      	930 Locust St	19107	4.0	217	Indian
+The Farm and Fisherman    	1120 Pine St	19107	4.0	234	American
+J'aime French Bakery     	212 S 12th St	19107	4.5	310	Bakery
+Empress Garden      	108 N 10th St	19107	4.0	263	Chinese
+Kanella       	1001 Spruce St	19107	4.5	579	American
+Makiman Sushi      	1326 Spruce St	19107	3.5	209	Japanese
+Bareburger - Midtown Village    	1109 Walnut St	19107	4.0	622	American
+Erawan Thai Cuisine     	925 Arch St	19107	3.5	180	SE Asian
+Cheu Noodle Bar     	255 S 10th St	19107	4.0	818	Japanese
+Bai Wei      	1038 Race St	19107	4.0	231	Chinese
+Termini Bros Bakery     	12th St & Filbert St	19107	4.0	263	Bakery
+Parada Maimon      	345 N 12th St	19107	4.5	202	American
+Penang       	117 N 10th St	19107	3.5	1112	Chinese
+Lee How Fook     	219 N 11th St	19107	4.0	231	Chinese
+Top Tomato Bar & Pizza   	116 S 11th St	19107	3.5	232	Italian
+Vetri Cucina      	1312 Spruce St	19107	4.5	489	Italian
+Tria Cafe Wash West    	1137 Spruce St	19107	4.5	770	American
+Bocconcini       	1334 Pine St	19107	4.5	163	Italian
+Loews Philadelphia Hotel     	1200 Market St	19107	3.5	505	American
+Bubblefish       	909 Arch St	19107	4.0	544	Japanese
+BRÜ Craft & Wurst    	1318 Chestnut St	19107	3.5	526	European
+Bank & Bourbon     	1200 Market St	19107	3.5	390	American
+El Purepecha      	315 N 12th St	19107	4.5	239	Mexican
+Vietnam Restaurant      	221 N 11th St	19107	4.0	421	SE Asian
+Dmitri's       	2227 Pine St	19107	3.5	151	European
+Happy Lamb Hot Pot    	1017 Arch St, Fl 1	19107	4.0	169	Chinese
+Sahara Grill      	1334 Walnut St	19107	4.0	322	Middle Eastern
+Carmen's Famous Italian Hoagies    	12th St & Arch St	19107	3.5	589	Cheesesteaks
+Kabuki Sushi      	45 N 13th St	19107	4.0	400	Japanese
+Bleu Sushi      	262 S 10th St	19107	4.5	938	Japanese
+Sammy Chon's KTown BBQ    	911 Race St	19107	3.5	148	Korean
+Oishii Poké      	938 Arch St	19107	4.0	228	Japanese
+IndeBlue Modern Indian Food & Spirits  	205 South 13th St	19107	4.5	1097	Indian
+The Trestle Inn     	339 N 11th St	19107	4.0	203	American
+Charlie Was a Sinner    	131 S 13th St	19107	4.0	1039	American
+Terakawa Ramen      	204 N 9th St	19107	4.5	1693	Japanese
+Pennsylvania 6      	114 S 12th St	19107	4.0	296	American
+Libertine Restauraunt      	261 S 13th St	19107	4.0	117	American
+Fish       	1234 Locust St	19107	4.0	153	American
+Ray's Café & Teahouse    	141 N 9th St	19107	4.5	181	Chinese
+By George! Pizza Pasta & Cheesesteaks  	51 N 12th St	19107	4.0	284	Italian
+Shang Hai 1     	123 N 10th St	19107	4.0	332	Chinese
+Moriarty's Restaurant and Irish Pub   	1116 Walnut St	19107	3.5	629	American
+Seorabol Center City     	1326 Spruce St	19107	4.0	219	Korean
+Marabella Meatball Co.     	1211 Walnut St	19107	3.5	132	Italian
+Fogo de Chao     	1337 Chestnut St	19107	4.0	1426	American
+Meltkraft At Reading Terminal Market   	51 N 12th St	19107	4.0	283	American
+Szechuan Four Rivers     	936 Race St	19107	3.5	218	Chinese
+Kanella Grill      	1001 Spruce St	19107	4.0	242	American
+Lolita       	106 S 13th St	19107	4.0	423	Mexican
+Nomad Roman Pizza     	1305 Locust St	19107	4.0	286	Italian
+A La Mousse     	145 N 11th St	19107	4.5	691	Bakery
+Little Nonna's      	1234 Locust St	19107	4.0	1147	Italian
+Maggiano's Little Italy     	1201 Filbert St	19107	3.5	676	Italian
+Veggie Lovers      	225 N 11th St	19107	3.5	137	Chinese
+Little Thai Market     	51 N 12th St	19107	4.0	189	SE Asian
+Pho Cali Vietnamese Restaurant    	1000 Arch St	19107	3.5	319	SE Asian
+New Harmony Vegetarian Restaurant    	135 N 9th St	19107	4.0	327	Chinese
+Zavino       	112 S 13th St	19107	4.0	843	Italian
+Pearl's Oyster Bar     	51 N 12th St	19107	4.0	298	American
+KC's Pastries      	109 N 10th St	19107	4.0	181	Chinese
+Hershel's East Side Deli    	51 N 12th St	19107	4.5	718	American
+Siu Kee Duck House    	111 N 10th St	19107	4.0	100	Chinese
+Winkel       	1119 Locust St	19107	4.5	246	American
+Le Pain Quotidien     	801 Walnut St	19107	3.5	239	American
+Heung Fa Chun Sweet House   	112 N 10th St	19107	4.5	237	Chinese
+Strangelove's       	216 S 11th St	19107	4.0	443	American
+Oloroso       	1121 Walnut St	19107	4.0	183	European
+Lolita       	106 S 13th St	19107	4.0	668	Mexican
+Mayflower Bakery & Cafe    	1008 Race St	19107	4.5	125	Bakery
+M Kee      	1002 Race St	19107	4.0	232	Chinese
+Petruce Et Al     	1121 Walnut St	19107	4.0	101	American
+Bonchon Philadelphia      	1020 Cherry St	19107	3.5	613	Korean
+Dim Sum Garden     	1020 Race St	19107	4.0	2672	Chinese
+Iron Hill Brewery & Restaurant   	1150 Market St	19107	4.0	324	American
+sweetgreen       	924 Walnut St	19107	3.5	173	American
+Pinefish       	1138 Pine St	19107	3.5	318	American
+Rice & Mix     	128 S 12th St	19107	3.5	188	Korean
+Maison 208      	208 S 13th St	19107	3.5	184	American
+Varga Bar      	941 Spruce St	19107	3.5	597	American
+Hatch & Coop     	122 S 12th St	19107	4.0	108	American
+Banana Leaf      	1009 Arch St	19107	3.5	706	SE Asian
+Shiao Lan Kung     	930 Race St	19107	3.5	254	Chinese
+Yellowtail       	1218 Pine St	19107	3.5	120	Japanese
+Prince Tea House     	203 N 9th St	19107	4.5	176	American
+Yamitsuki Ramen      	1028 Arch St	19107	3.5	478	Japanese
+Spice C      	131 N 10th St	19107	4.0	453	Chinese
+Barbuzzo       	110 S 13th St	19107	4.5	2893	Italian
+Tasty Place      	143 N 11th St	19107	4.0	139	Chinese
+Paprica Modern Mediterranean Grill    	811 Sansom St	19107	4.5	154	European
+Paris Baguette      	923 Arch St	19107	4.0	132	Bakery
+Bill's Breakfast & Lunch    	1312 Sansom St	19107	4.0	132	American
+Giorgio On Pine     	1328 Pine St	19107	4.0	954	Italian
+The Original Turkey     	45 N 12th St	19107	4.5	213	American
+Melting Pot      	1219 Filbert St	19107	3.5	156	American
+High Street Philadelphia     	101 S 9th St	19107	4.0	807	American
+Simply Shabu      	1023 Cherry St	19107	4.0	117	Chinese
+Garces Trading Company     	1111 Locust St	19107	4.0	896	Italian
+Bindi       	105 S 13th St	19107	3.5	128	Indian
+Knock       	225 S 12th St	19107	3.5	159	American
+Nine Ting      	926 Race St	19107	4.0	1213	Chinese
+Cibo Ristorante Italiano     	1227 Walnut St	19107	3.5	100	Italian
+Finn McCool's Ale House    	118 S 12th St	19107	3.5	163	American
+Nom Wah Philadelphia     	218 N 13th St	19107	4.0	414	Chinese
+Bar-Ly Chinatown      	101 N 11th St	19107	4.0	380	American
+The Farmers' Cabinet     	1113 Walnut St	19107	3.5	444	American
+Di Bruno Bros.     	834 Chestnut St	19107	4.0	105	American
+Ting Wong Restaurant     	138 N 10th St	19107	4.0	461	Chinese
+Imperial Inn      	142 N 10th St	19107	3.5	230	Chinese
+Kung Fu Tea     	1006 Arch St	19107	3.5	314	Chinese
+Vietnam Palace      	222 N 11th St	19107	4.0	161	SE Asian
+MilkBoy       	1100 Chestnut St	19107	3.5	383	American
+Wong Wong Chinese Restaurant    	941 Race St	19107	3.5	143	Chinese
+Tom's Dim Sum     	59 N 11th St	19107	3.5	587	Chinese
+Tiffany's Bakery      	1001 Market St	19107	3.5	110	Bakery
+Dutch Eating Place     	1136 Arch St	19107	4.5	796	American
+Tsaocaa & BBQ Chicken    	938 Race St	19107	3.5	160	Korean
+Spicy Memory      	1105 Walnut St	19107	4.0	128	Chinese
+Jamonera       	105 S 13th St	19107	4.0	563	American
+Tredici Enoteca      	114 S 13th St	19107	4.5	352	Italian
+Time       	1315 Sansom St	19107	4.0	565	American
+Maoz Vegetarian      	1115 Walnut St	19107	4.0	225	Middle Eastern
+Franky Bradley's      	1320 Chancellor St	19107	4.0	215	American
+Zio's Brick Oven Pizzeria    	111 S 13th St	19107	3.5	193	Italian
+Destination Dogs      	1111 Walnut St	19107	4.5	329	American
+DaMò Pasta Lab     	105 S 12th St	19107	4.5	177	Italian
+Opa       	1311 Sansom St	19107	3.5	446	European
+The Grill Smuckers     	51 N 12th St	19107	4.5	118	American
+Dae Bak      	1016 Race St, Fl 2	19107	4.0	214	Korean
+Chatayee Thai      	1227 Walnut St	19107	4.5	222	SE Asian
+Brick and Mortar     	315 N 12th St	19107	4.0	132	American
+Ho Sai Gai Restaurant    	1000 Race St	19107	4.0	202	Chinese
+Mong Kok Station     	153 N 10th St	19107	3.5	125	Chinese
+Effie's Restaurant      	1127 Pine St	19107	3.5	315	European
+Yummy Yummy      	52 N 10th St	19107	4.0	147	Chinese
+Sampan       	124 S 13th St	19107	4.0	2000	American
+Megumi Japanese Ramen & Sushi Bar  	915 Race St	19107	4.0	210	Japanese
+Vintage Wine Bar     	129 S 13th St	19107	4.0	406	European
+The Famous 4th Street Cookie Company  	51 N 12th St	19107	4.0	356	Bakery
+Pizzeria Cappelli      	209 S 13th St	19107	3.5	123	Italian
+Sang Kee Peking Duck House   	238 N 9th St	19107	4.0	926	Chinese
+Bud & Marilyn's     	1234 Locust St	19107	4.0	1303	American
+Profi's Crêperie      	51 N 12th St	19107	4.0	155	European
+T-Swirl Crêpe      	150 N 10th St	19107	4.0	401	Japanese
+Tai Lake Restaurant     	134 N 10th St	19107	3.5	279	Chinese
+Crunchik'n       	212 S 11th St	19107	4.5	173	Korean
+Fuel Center City     	1225 Walnut St	19107	3.5	432	American
+Nan Zhou Hand Drawn Noodle House  	1022 Race St	19107	4.0	2188	Chinese
+Perch Pub      	1345 Locust St	19107	3.5	295	American
+Molly Malloy's      	1136 Arch St	19107	4.0	339	American
+Double Knot      	120 S 13th St	19107	4.5	1140	Japanese
+Pandora's Lunchbox      	1221 Walnut St	19107	4.0	103	Italian
+Yakitori Boy      	211 N 11th St	19107	3.5	748	Japanese
+Wood Street Pizza     	325 N 12th St	19107	4.0	139	European
+TT Skewer      	225 N 11th St	19107	4.5	118	Chinese
+E Mei Restaurant     	915 Arch St	19107	4.0	407	Chinese
+Kai Japanese Cuisine     	12 S 10th St	19107	4.5	141	Japanese
+Pho Xe Lua Viet Thai Restaurant  	907 Race St	19107	4.0	708	SE Asian
+Aki Nom Nom Sushi & Ramen  	1210 Walnut St	19107	3.5	573	Japanese
+Sandler's On 9th     	834 Chestnut St	19107	4.0	246	American
+Hippot Shabu Shabu     	1002 Arch St	19107	3.5	302	Chinese
+Canton 11      	1025 Arch St	19107	3.5	100	Chinese
+Tavern On Camac     	243 S Camac St	19107	4.0	153	American
+McGillin's Olde Ale House    	1310 Drury St	19107	4.0	979	American
+Palace at the Ben    	834 Chestnut St	19107	4.0	143	Indian
+1225Raw Sushi and Sake Lounge   	1225 Sansom St	19107	3.5	545	Japanese
+Dim Sum Garden     	59 N 11th St	19107	4.0	377	Chinese
+The Halal Guys     	1016 Race St	19107	3.5	198	Middle Eastern
+Barra Rossa Ristorante     	929 Walnut St	19107	3.5	366	Italian
+Luhv Vegan Deli     	51 N 12th St	19107	4.5	107	American
+Square Peg      	929  Walnut St	19107	3.5	135	American
+Xiandu Thai      	1119 Walnut St	19107	4.0	631	SE Asian
+Grocery       	105 S 13th St	19107	3.5	104	American
+Greenstreet Coffee Co.     	1101 Spruce St	19107	4.5	190	American
+Hummusology       	1112 Locust St	19107	4.5	179	Middle Eastern
+Mercato BYOB      	1216 Spruce St	19107	4.0	709	Italian
+The Capital Grille     	1338-46 Chestnut St	19107	4.0	634	Italian
+Zinc       	246 S 11th St	19107	4.0	111	European
+Chubby Cattle      	146 N 10th St	19107	4.5	1128	Japanese
+Beiler's Bakery      	51 N 12th St	19107	4.5	1368	American
+Valanni       	1229 Spruce St	19107	4.0	875	American
+El Vez      	121 S 13th St	19107	4.0	3187	Mexican
+Jeans Cafe      	1334 Walnut St	19107	4.0	180	American
+Hidden Gem Cafe     	122 N 10th St	19107	4.5	108	Chinese
+Sang Kee Peking Duck    	51 N 12th St	19107	3.5	135	Chinese
+Sakura Mandarin      	1038 Race St	19107	3.5	318	Japanese
+Naked Chocolate Cafe     	1317 Walnut St	19107	4.0	212	Bakery
+The Corner      	102 S 13th St	19107	3.5	189	American
+Smokin Bettys      	116 S 11th St	19107	3.5	796	American
+Alpen Rose      	116 S 13th St	19107	4.5	153	American
+Rosa's Fresh Pizza     	25 S 11th St	19107	4.5	195	European
+Mixto       	1141 Pine St	19107	4.0	1246	Italian
+Spice 28      	1228 Chestnut St	19107	4.0	822	American
+Pho 20      	234-236 N 10th St	19107	4.0	215	SE Asian
+QT Vietnamese Sandwich     	48 N 10th St	19107	4.5	538	SE Asian
+Vedge       	1221 Locust St	19107	4.5	1447	American
+Kinme       	1117 Locust St	19107	4.5	110	Japanese
+Xun Yu Si Kao    	140 N 10th St	19107	4.0	114	Chinese
+Fergie's Pub      	1214 Sansom St	19107	3.5	286	SE Asian
+Chase's Hop Shop     	7235 Rising Sun Ave	19111	4.5	116	American
+Hop Angel Brauhaus     	7980 Oxford Ave	19111	3.5	148	European
+Mr Sushi      	7324 Oxford Ave	19111	4.0	184	American
+Lo Spiedo      	4503 S Broad St	19112	3.5	148	American
+Dagwood's Pub      	4625 Linden Ave	19114	4.0	123	American
+Zaika       	2481 Grant Ave	19114	4.0	181	Indian
+Three Monkeys Cafe     	9645 James St	19114	3.5	419	American
+Maggie's Waterfront Cafe     	9242 N Delaware Ave	19114	3.5	221	American
+Hook & Reel Cajun Seafood & Bar 	9763 Roosevelt Blvd	19114	3.5	100	American
+Tokai Sushi Hibachi Steakhouses    	1699 Grant Ave	19115	4.0	209	Japanese
+Macaroni's Restaurant      	9315 Old Bustleton Ave	19115	4.0	211	Italian
+Judah Mediterranean Grill     	9311 Krewstown Rd	19115	4.0	102	Middle Eastern
+Ahi Sushi      	9999 Bustleton Ave	19115	4.0	122	Japanese
+Vince's Pizzeria      	2550 Grant Ave, Ste 350	19115	3.5	164	European
+Benny the Bum's     	9991 Bustleton Ave	19115	3.5	162	American
+Uzbekistan Restaurant      	12012 Bustleton Ave	19116	4.0	282	Middle Eastern
+Steve's Prince of Steaks    	2711 Comly Rd	19116	3.5	176	American
+Aldo's Pizzarama      	10201 Bustleton Ave	19116	4.0	102	European
+Ninja Sushi Hibachi     	14100 Bustleton Ave	19116	4.0	224	Japanese
+Mission BBQ      	11000 Roosevelt Blvd	19116	4.0	242	American
+Cafe Michelangelo      	11901 Bustleton Ave	19116	3.5	127	Italian
+Pho Palace      	15501 Bustleton Ave	19116	3.5	238	SE Asian
+The Night Kitchen     	7725 Germantown Ave	19118	4.5	189	American
+Tavern On the Hill    	8636 Germantown Ave	19118	4.0	140	American
+Iron Hill Brewery & Restaurant   	8400 Germantown Ave	19118	3.5	384	American
+Mica Restaurant      	8609 Germantown Ave	19118	4.5	156	American
+Biryani Bowl Indian Cuisine    	219 E Willow Grove Ave	19118	4.0	109	Indian
+Chestnut Grill and Sidewalk Cafe   	8229 Germantown Ave	19118	3.5	173	American
+Paris Bistro and Jazz Cafe   	8235 Germantown Ave	19118	3.5	274	European
+Chestnut Hill Brewing Company    	8221 Germantown Ave	19118	4.5	108	European
+CinCin Restaurant      	7838 Germantown Ave	19118	3.5	199	Chinese
+Thai Kuu      	35 Bethlehem Pike, Ste 109A	19118	3.5	173	SE Asian
+Bredenbeck's Bakery & Ice Cream Parlor  	8126 Germantown Ave	19118	4.0	296	Bakery
+Green Soul      	8229 Germantown Ave	19118	4.0	121	American
+Osaka Japanese Restaurant     	8605 Germantown Ave	19118	4.0	178	Japanese
+Cake       	8501 Germantown Ave	19118	4.0	250	American
+McNally's Tavern      	8634 Germantown Ave	19118	4.5	240	American
+Campbell's Place      	8337 Germantown Ave	19118	3.5	168	American
+Hokka Hokka Japanese Restaurant    	7830 Germantown Ave	19118	3.5	144	Japanese
+Grain Exchange      	7152 Germantown Ave	19119	3.5	239	American
+Mi Puebla Restaurant     	7157 Germantown Ave	19119	3.5	108	Mexican
+Earth Bread + Brewery    	7136 Germantown Ave	19119	4.0	380	American
+Mt. Airy Deli     	7200 Devon St	19119	4.0	125	American
+Cantina Avenida      	7402 Germantown Ave	19119	3.5	101	American
+Pizzeria Nonna      	7200 Germantown Ave	19119	3.5	166	Italian
+Jansen       	7402 Germantown Ave	19119	4.5	139	American
+Trattoria Moma      	7131 Germantown Ave	19119	4.5	136	Italian
+High Point Cafe     	602 Carpenter Ln	19119	4.0	117	American
+Bacio       	311 W Mt Pleasant Ave	19119	4.0	183	Italian
+Evo Brickoven Pizza     	277 W Mt Pleasant Ave	19119	4.0	172	Italian
+Malelani Cafe      	6734 Germantown Ave	19119	4.5	145	American
+McMenamin's Tavern      	7170 Germantown Ave	19119	4.0	224	American
+Kim's Restaurant      	5955 N 5th St	19120	4.0	181	Korean
+Seorabol Korean Restaurant     	5734 Old 2nd St	19120	4.0	531	Japanese
+Pho Ha Saigon     	575 Adams Ave	19120	3.5	259	SE Asian
+Pita Chip      	1600 N Broad St, Unit 7	19121	4.5	151	American
+iMunch Cafe      	1233 N 31st St	19121	4.5	155	American
+Koja Grille      	1600 N Broad St	19121	3.5	131	Japanese
+Laser Wolf      	1301 N Howard St	19122	4.5	162	Middle Eastern
+Que Chula Es Puebla    	1356 N 2nd St	19122	4.0	256	Mexican
+Front Street Cafe     	1253 N Front St	19122	4.0	716	American
+The El Bar     	1356 N Front St	19122	4.0	160	American
+Poe's Sandwich Joint     	1710 N 5th St	19122	4.0	122	American
+Evil Genius Beer     	1727 N Front St	19122	4.0	283	American
+Pizzeria Beddia      	1313 North Lee St	19122	4.0	599	Italian
+Taco Riendo      	1301 N 5th St	19122	4.0	309	Mexican
+Hiroki       	1335 N Front St	19122	4.0	106	Japanese
+DAWA Sushi & Ramen Bar   	1204 N Front St	19122	4.5	104	Japanese
+Tandoor Authentic Indian Restaurant    	1832 N Front St	19122	4.0	160	Indian
+Helm       	1303 N Fifth St	19122	4.5	227	American
+Wm Mulherin's Sons     	1355 N Front St	19122	4.5	610	Italian
+Las Cazuelas Restaurant BYOB    	426 W Girard Ave	19123	4.0	338	American
+SET NoLibs      	1030 N 2nd St, Unit 101	19123	4.0	108	Mexican
+Prohibition Taproom      	501 N 13th St	19123	4.0	618	American
+El Camino Real     	1040 N 2nd St	19123	3.5	1014	Mexican
+Urban Village Brewing Co    	1001 N 2nd St	19123	4.0	221	American
+Bourbon & Branch     	705 N 2nd St	19123	4.0	392	American
+The Foodery      	837 N 2nd St	19123	4.0	156	American
+Honey's Sit-N-Eat      	800 N 4th St	19123	4.0	1396	American
+Poke Bowl      	958 N 2nd St	19123	4.0	194	American
+Jimmy G's Steaks     	695 N Broad St	19123	4.0	300	Cheesesteaks
+Soy Cafe      	630 N 2nd St	19123	4.5	299	American
+Yards Brewing Company     	500 Spring Garden St	19123	4.0	755	American
+Cantina Dos Segundos     	931 N 2nd St	19123	4.0	904	Mexican
+The Institute      	549 N 12th St	19123	3.5	167	American
+Tiffin       	710 W Girard Ave	19123	3.5	304	Indian
+Seiko Japanese Restaurant     	604 N 2nd St	19123	4.0	142	Japanese
+Reggae Reggae Vibes     	517 W Girard Ave	19123	4.0	130	Cheesesteaks
+Street Side      	165 W Girard Ave	19123	4.5	137	SE Asian
+Jerry's Bar      	129 W Laurel St	19123	3.5	424	American
+Win Win      	931 Spring Garden St	19123	4.5	102	American
+North Bowl      	909 N 2nd St	19123	4.0	484	American
+Modo Mio      	161 W Girard Ave	19123	4.0	492	Italian
+Circles Contemporary Thai     	812 N 2nd St	19123	3.5	394	SE Asian
+A Full Plate     	1009 N Bodine St	19123	3.5	135	American
+Blackbird Pizzeria      	614 N 2nd St	19123	4.0	248	Jewish
+Dmitri's       	944 N 2nd St	19123	3.5	237	European
+Ken Love's BYOB     	701 N 3rd St	19123	4.5	172	American
+Juno       	1033 Spring Garden St	19123	4.0	186	American
+Café Estelle      	444 N 4th St	19123	4.0	205	American
+Rustica       	903 N 2nd St	19123	4.0	312	Italian
+Sazon Restaurant & Cafe    	941 Spring Garden St	19123	4.0	370	American
+Mood Indian Restaurant     	444 N 4th St, Ground Fl	19123	4.0	100	Indian
+Bardot Cafe      	447 Poplar St	19123	4.5	154	American
+Jose's Tacos      	469 N 10th St	19123	4.0	150	Mexican
+Dolce & Caffè     	708 N 2nd St	19123	4.5	111	Italian
+Love & Honey Fried Chicken   	1100 N Front St	19123	4.5	409	American
+Trios Fresh Italian     	342 W Girard Ave	19123	3.5	217	Italian
+Kostas Bar Restaurant     	15 W Girard Ave	19123	4.0	112	European
+Talia's Grille      	122 W Girard Ave	19123	4.5	233	Jewish
+The Blind Pig     	702 N 2nd St	19123	4.0	216	American
+Punch Line Philly     	33 E Laurel St	19123	3.5	273	American
+Standard Tap      	901 N 2nd St	19123	4.0	785	American
+Del Rossi's Cheesesteak     	538 N 4th St	19123	3.5	338	Cheesesteaks
+Mood Indian Restaurant     	423 W Girard Ave	19123	3.5	111	Indian
+Heritage       	914 N 2nd St	19123	4.0	297	American
+Llama Tooth      	1033 Spring Garden St	19123	3.5	243	American
+Same Same      	614 N 2nd St	19123	4.0	109	SE Asian
+Barcade       	1114 Frankford Ave	19123	3.5	506	SE Asian
+Pretty Girls Cook     	1016 N Marshall St	19123	4.0	146	American
+North Third      	801 N 3rd St	19123	4.0	677	American
+Goose Island Brewhouse     	1002 Canal St	19123	3.5	149	American
+Baan Thai      	1030 N American St	19123	4.0	235	SE Asian
+Apricot Stone      	1040 N American St, Ste 601	19123	4.5	310	Middle Eastern
+Pura Vida      	527 Fairmount Ave	19123	4.0	144	American
+Hikari Sushi      	1040 N American St, Ste 701	19123	5.0	155	Japanese
+Bufad       	1240 Spring Garden St	19123	4.0	266	Italian
+One Shot Coffee     	217 W George St	19123	4.0	498	American
+Cafe Chismosa      	900 N 4th St	19123	4.5	139	American
+Ken Shin Asian Diner    	301 Spring Garden St	19123	3.5	152	Japanese
+Roy-Pitz Barrel House     	990 Spring Garden St	19123	4.0	151	European
+Cafe La Maude     	816 N 4th St	19123	4.5	1485	American
+Añejo Philadelphia      	1001 N 2nd St	19123	4.0	132	Mexican
+The Abbaye      	637 N 3rd St	19123	4.0	306	American
+Spuntino Wood Fired Pizza    	701 N 2nd St	19123	4.5	209	European
+Pho 75      	823 Adams Ave	19124	4.0	146	SE Asian
+Cafe Saigon      	827 Adams Ave	19124	4.0	128	Chinese
+Cake Life Bake Shop    	1306 Frankford Ave	19125	4.5	241	Bakery
+Suraya       	1528 Frankford Ave	19125	4.5	1121	American
+Lloyd Whiskey Bar     	529 E Girard Ave	19125	4.0	210	American
+Eatalia       	2723 E Cumberland St	19125	4.0	166	Italian
+Murph's Bar      	202 E Girard Ave	19125	4.0	315	Italian
+Cheu Fishtown      	1416 Frankford Ave	19125	4.0	250	Japanese
+Ekta Indian Cuisine     	1142 Crease St	19125	4.0	436	Indian
+Johnny Brenda's      	1201 Frankford Ave	19125	4.0	556	American
+La Colombe Coffee     	1335 Frankford Ave	19125	4.5	509	American
+East Girard Gastropub     	200 E Girard Ave	19125	4.0	126	American
+Mad Rex      	1000 Frankford Ave, Ste 1	19125	3.5	337	American
+Circles + Squares     	2513 Tulip St	19125	5.0	103	European
+Kensington Quarters      	1310 Frankford Ave	19125	4.0	318	American
+Interstate Drafthouse      	1235 E Palmer St	19125	4.0	250	American
+Loco Pez      	2401 E Norris St	19125	4.0	650	Mexican
+The Pickled Heron     	2218 Frankford Ave	19125	4.0	120	European
+Andy's Chicken      	2001 Memphis St	19125	4.5	233	Korean
+Kraftwork       	541 E Girard Ave	19125	4.0	559	American
+Thang Long Pho Restaurant    	2534-36 Kensington Ave	19125	4.5	157	SE Asian
+Coffee House Too     	2514 E York St	19125	4.5	246	American
+Pizza Brain      	2313 Frankford Ave	19125	4.0	575	SE Asian
+Fette Sau      	1208 Frankford Ave	19125	4.0	631	BBQ
+La Locanda Del Ghiottone    	2723 E Cumberland St	19125	4.0	278	Italian
+OG Pizza      	2500 Frankford Ave	19125	4.0	133	American
+Soup Kitchen Cafe     	2146 E Susquehanna Ave	19125	4.0	314	American
+Joe's Steaks + Soda Shop   	1 W Girard Ave	19125	4.0	392	American
+Steap and Grind     	1619 Frankford Ave	19125	4.0	138	American
+Green Rock Tavern     	2546 E Lehigh Ave	19125	4.5	109	American
+Cook and Shaker     	2301 E Albert St	19125	4.5	171	American
+Hajimaru Fishtown      	200 E Girard Ave	19125	4.5	140	Japanese
+Stock's Bakery      	2614 E Lehigh Ave	19125	4.5	171	Bakery
+Bottle Bar East     	1308 Frankford Ave	19125	4.0	271	American
+Cafe Pho Ga Thanh Thanh   	2539 Kensington Ave	19125	4.0	229	SE Asian
+Memphis Taproom      	2331 E Cumberland St	19125	4.0	675	American
+Root       	1206 Frankford Ave	19125	4.5	160	Italian
+Medusa Pizzeria      	2327 Gaul St	19125	4.0	122	Italian
+Cedar Point Bar and Kitchen   	2370 E Norris St	19125	4.0	313	American
+Sancho Pistola's      	19 W Girard Ave	19125	4.0	347	Mexican
+Franco's Pizza      	2573 Tulip St	19125	4.0	141	European
+Little Baby's Ice Cream    	2311 Frankford Ave	19125	4.0	288	American
+Martha       	2113 E York St	19125	4.0	155	American
+Stock       	308 E Girard Ave	19125	4.0	304	American
+Paesano's Philly Style     	1429 Marlborough St	19125	4.5	652	American
+Frankford Hall      	1210 Frankford Ave	19125	4.0	981	European
+Girard Bruncherie      	300 E Girard Ave	19125	4.5	224	American
+Sketch Burger      	413 E Girard Ave	19125	4.0	534	American
+Milkcrate Cafe      	400 E Girard Ave	19125	4.5	228	American
+Jong Ka Jib     	6600 N 5th St	19126	4.5	351	Korean
+Gogi BBQ      	6783 N 5th St	19126	4.0	104	Korean
+Café Soho      	468 W Cheltenham Ave	19126	4.0	800	Japanese
+Franzone's Pizzeria & Restaurant    	114 Levering St	19127	3.5	110	European
+Smiley's Cafe      	4251 Main St	19127	4.5	423	European
+Machismo Burrito Bar     	4330 Main St	19127	3.5	104	Mexican
+Marchiano's Bakery      	4653 Umbria St	19127	4.5	118	Bakery
+Winnie's Manayunk      	4266 Main St	19127	3.5	599	American
+Han Dynasty      	4356 Main St	19127	3.5	417	Chinese
+Old Eagle Tavern     	177 Markle St	19127	4.0	103	American
+New Leaf 2 Chinese & Japanese Cuisine 	4260 Main St	19127	4.5	137	Japanese
+Union Taco      	4229 Main St	19127	3.5	179	Mexican
+Greg's Kitchen      	4460 Main St	19127	4.0	337	American
+SOMO Manayunk      	4311 Main St	19127	3.5	288	American
+Jake's & Cooper's Wine Bar & Wine Shop	4365 Main St	19127	3.5	306	American
+The Goat's Beard     	4201 Main St	19127	4.0	477	American
+The Couch Tomato Cafe    	102 Rector St	19127	4.0	604	Italian
+Manayunk Tavern      	4247 Main St	19127	4.0	176	American
+Chabaa Thai Bistro     	4343 Main St	19127	4.0	338	SE Asian
+Zesty's       	4382 Main St	19127	3.5	171	European
+Yanako       	4345 Main St	19127	4.0	276	Japanese
+Lucky's Last Chance     	4421 Main St	19127	4.5	579	American
+Bourbon Blue      	2 Rector St	19127	3.5	334	American
+Laxmi Indian Grille - Manayunk   	4425 Main St	19127	4.0	203	Indian
+Taqueria Feliz      	4410 Main St	19127	4.0	460	Mexican
+@Ramen       	4357 Main St	19127	4.0	190	Japanese
+Mi 'N Tea     	4229 Main St	19127	4.5	118	SE Asian
+Volo Coffeehouse      	4360 Main St	19127	4.5	251	American
+Agiato       	4359 Main St	19127	4.0	127	Italian
+Main Street Pho     	4307 Main St	19127	4.0	133	SE Asian
+Manayunk Brewery      	4120 Main St	19127	3.5	692	American
+Mel's Kitchen      	5001 Umbria St	19128	4.5	206	American
+Valley Green Inn     	7 Valley Green Rd	19128	3.5	191	American
+The Adobe Cafe     	4550 Mitchell St	19128	3.5	317	Mexican
+Lucky Star Asian Cuisine    	8919 Ridge Ave Store	19128	4.0	127	Chinese
+Dalessandro’s Steaks & Hoagies    	600 Wendover St	19128	4.0	2686	Cheesesteaks
+Yiro Yiro      	6024 Ridge Ave	19128	4.5	163	European
+Deke's Bar-B-Que      	443 Shurs Ln	19128	4.5	257	BBQ
+Andorra Ping Pong     	8500 Henry Ave	19128	4.0	121	Chinese
+Zesto Pizza & Grill    	6024 Ridge Ave, Ste 104	19128	4.0	222	European
+Lennie's Hoagies      	6141 Ridge Ave	19128	4.0	135	American
+The Foodery Roxborough     	6148 Ridge Ave	19128	4.0	141	American
+Deke's Bar-B-Que      	4901 Ridge Ave	19128	3.5	182	BBQ
+Ugly Moose      	443 Shurs Ln	19128	4.0	128	American
+Basilico Wood Fired Pizza    	8500 Henry Ave	19128	3.5	210	Italian
+Chubbys Steaks      	5826 Henry Ave	19128	4.0	394	Cheesesteaks
+Phu Fha Thai Restaurant    	6190 Ridge Ave	19128	3.5	122	SE Asian
+The Spicy Belly     	3847 Terrace St	19128	4.0	251	American
+Taylor's Cafe      	6144 Ridge Ave	19128	4.0	165	American
+Custard & Cakes Creamery    	5461 Ridge Ave	19128	4.5	224	American
+Barry's Steaks      	471 Leverington Ave	19128	4.5	118	Cheesesteaks
+Slices Pizza      	4249 Ridge Ave	19129	4.0	122	European
+In Riva      	4116 Ridge Ave	19129	4.0	729	Italian
+Franklin's       	3521 Bowman St	19129	3.5	129	American
+Trolley Car Cafe     	3269 S Ferry Rd	19129	3.5	261	American
+Falls Taproom      	3749 Midvale Ave	19129	3.5	246	American
+Frank's Pizza      	3600 Fisk Ave	19129	4.0	109	Italian
+Founded Coffee & Pizza    	3300 Henry Ave	19129	4.0	104	European
+LeBus East Falls     	4201 Ridge Ave	19129	3.5	199	American
+Billy Murphy's Irish Saloon    	3333 Conrad St	19129	4.5	159	American
+Shan Chuan      	4211 Ridge Ave	19129	4.0	143	Japanese
+Vineyards Cafe      	847 N 16th St	19130	4.5	192	American
+Lazos Pizza & Grill    	2533 Poplar St	19130	4.0	176	Italian
+Zorba's Taverna      	2230 Fairmount Ave	19130	4.5	510	European
+Buena Onda      	1901 Callowhill St	19130	4.0	552	Mexican
+iPho Vietnamese Restaurant     	1921 Fairmount Ave	19130	3.5	151	SE Asian
+Pizzeria Vetri      	1939 Callowhill St	19130	4.0	651	Italian
+Rybrew       	2816 W Girard Ave	19130	4.5	210	American
+Route 6      	600 N. Broad Street	19130	4.0	214	American
+Zuzu's Kitchen      	1500 Ridge Ave	19130	4.0	118	European
+Fare       	2028 Fairmount Ave	19130	3.5	456	American
+Isabel       	2601 Pennsylvania Ave, Ste 5	19130	3.5	107	Mexican
+Osteria       	640 N Broad St	19130	4.0	877	Italian
+ERA       	2743 Poplar St	19130	4.0	182	African
+Rembrandt's Restaurant & Pub    	741 N 23rd St	19130	3.5	229	Italian
+The Belgian Café     	601 N 21st St	19130	3.5	474	American
+A Mano      	2244 Fairmount Ave	19130	4.5	217	Italian
+St. Stephen's Green     	1701 Green St	19130	3.5	226	American
+Dim Sum & Noodle    	2000 Hamilton St, Ste 104	19130	4.0	257	Chinese
+Tela's Market & Kitchen    	1833 Fairmount Ave	19130	4.0	265	American
+Philadelphia Museum of Art    	2600 Benjamin Franklin Pkwy	19130	4.5	767	American
+Lemon Hill      	747 N 25th St	19130	4.0	122	American
+Trio       	2601 Pennsylvania Ave	19130	3.5	184	SE Asian
+Dasiwa       	735 N 26th St	19130	4.5	230	Japanese
+Doma       	1822 Callowhill St	19130	4.0	457	Japanese
+La Calaca Feliz     	2321 Fairmount Ave	19130	4.0	681	Mexican
+2637brew       	2637 W Girard Ave	19130	4.0	121	American
+McCrossen's Tavern      	529 N 20th St	19130	4.0	293	American
+Umai Umai      	533 N 22nd St	19130	4.5	488	Japanese
+I Tea      	1537 Spring Garden St	19130	4.0	163	Japanese
+Kelliann's Bar & Grill    	1549 Spring Garden St	19130	4.0	111	American
+Gyu-Kaku Japanese BBQ     	1901 Callowhill St	19130	3.5	569	Japanese
+Angelino's Restaurant, Fairmount- Philadelphia    	849 N 25th St	19130	4.0	205	Italian
+Fairmount Pizza and Grill    	2000 Fairmount Ave	19130	3.5	222	Italian
+The Bishop's Collar     	2349 Fairmount Ave	19130	3.5	248	American
+Sakura Japanese Cuisine     	1521 Spring Garden St	19130	3.5	142	Japanese
+Bridgid's       	726 N 24th St	19130	4.0	244	Italian
+Rose Tattoo Cafe     	1847 Callowhill St	19130	4.0	285	American
+Kansai Japanese Cuisine     	1822 Spring Garden St	19130	4.0	189	Japanese
+Bar Hygge      	1720 Fairmount Ave	19130	4.5	387	American
+Kite & Key     	1836 Callowhill St	19130	3.5	439	American
+Cafe L'Aube      	1631 Wallace St	19130	4.0	120	European
+Brown Street Coffee & Bánhery   	2545 Brown St	19130	4.0	145	American
+Figs       	2501 Meredith St	19130	4.0	300	African
+Jack's Firehouse      	2130 Fairmount Ave	19130	3.5	569	American
+Thirsty Dice      	1642 Fairmount Ave	19130	4.0	114	SE Asian
+Alla Spina      	1410 Mt Vernon St	19130	3.5	395	Italian
+Unit Su Vege     	2000 Hamilton St, Ste 106	19130	4.5	129	Chinese
+Engimono Sushi      	1811 Fairmount Ave	19130	4.0	134	Japanese
+Maza Taza      	1519 Spring Garden St	19130	4.5	108	European
+OCF Coffee House     	2100 Fairmount Ave	19130	4.0	390	Jewish
+Le Pain Quotidien     	1937 Callowhill St	19130	3.5	149	European
+Blue Cat Restaurant     	1921 Fairmount Ave	19130	4.0	210	American
+LaScala's Pronto      	1501 Spring Garden St	19130	3.5	171	Italian
+Rybread       	1711 Fairmount Ave	19130	4.0	433	American
+South       	600 N Broad St	19130	4.0	501	SE Asian
+King of Tandoor     	1824 Callowhill St	19130	3.5	230	Indian
+Christie's Deli      	1822 Spring Garden St, Unit B	19130	5.0	152	American
+North Star Bar     	2639 Poplar St	19130	3.5	134	American
+Stockyard Sandwich      	1541 Spring Garden St	19130	4.5	284	American
+Luigi’s Pizza Fresca     	2401 Fairmount Ave	19130	4.0	249	Italian
+Mugshots Coffeehouse      	1925 Fairmount Ave	19130	4.0	203	SE Asian
+Sardi's Pollo A La Brasa   	4510 City Ave	19131	4.0	332	American
+DJ Kitchen      	4040 City Ave	19131	4.5	117	Chinese
+Saudia Shuler's Country Cookin'    	2836 N 22nd St	19132	3.5	178	American
+Tacconelli's Pizzeria      	2604 E Somerset St	19134	4.0	372	European
+Byrne's Tavern      	3301 Richmond St	19134	4.0	113	American
+Gaul & Co. Malthouse    	3133 Gaul St	19134	4.5	127	American
+Nemi Restaurant      	2636 E Ann St	19134	4.5	114	Mexican
+Joe's Steaks + Soda Shop   	6030 Torresdale Ave	19135	4.5	380	Cheesesteaks
+Tony's Famous Tomato Pie    	6300 Frankford Ave	19135	4.0	113	American
+Chickie's & Pete's     	4010 Robbins Ave	19135	3.5	115	American
+Sweet Lucy's Smokehouse     	7500 State Rd	19136	4.5	721	BBQ
+Aya Asian Fusion     	7313-15 Frankford Ave	19136	3.5	127	Japanese
+The Breakfast Boutique     	6830 Ogontz Ave	19138	4.0	138	American
+Jamaican D's      	1265 E Chelten Ave	19138	4.0	157	American
+Relish       	7152 Ogontz Ave	19138	3.5	368	SE Asian
+Daleng Restaurant      	4653 Walnut St	19139	4.5	141	SE Asian
+Lulu Cafe      	4508 Walnut St	19139	4.5	150	Chinese
+Saad's Halal Restaurant     	4500 Walnut St	19139	4.5	702	Indian
+Sister Muhammad's Kitchen     	4441 Germantown Ave	19140	4.0	126	American
+Tierra Colombiana Restaurant     	4535 N 5th St	19140	4.0	402	American
+Max's Steaks      	3653 Germantown Ave	19140	4.0	679	Cheesesteaks
+Rhythm and Brunch     	6517 Elmwood Ave	19142	4.0	116	American
+Mood Cafe      	4618 Baltimore Ave	19143	4.5	458	Indian
+Vientiane Café      	4728 Baltimore Ave	19143	4.0	304	SE Asian
+Fu-Wah Mini Market     	810 S 47th St	19143	4.5	247	American
+Dottie's Donuts      	4529 Springfield Ave	19143	4.5	206	American
+Booker's Restaurant and Bar    	5021 Baltimore Ave	19143	3.5	276	American
+The Satellite Cafe     	701 S 50th St	19143	3.5	158	Jewish
+Aksum Cafe      	4630 Baltimore Ave	19143	4.0	393	American
+Gojjo Bar & Restaurant    	4540 Baltimore Ave	19143	3.5	111	African
+Chili Szechuan      	4626 Baltimore Ave	19143	3.5	124	Chinese
+Dahlak       	4708 Baltimore Ave	19143	3.5	164	African
+Lee's Deli      	4700 Baltimore Ave	19143	4.5	175	American
+Vietnam Cafe      	816 S 47th St	19143	4.0	357	SE Asian
+Dock Street Brewery     	701 S 50th St	19143	4.0	549	American
+Hibiscus Cafe      	4907 Catharine St	19143	4.5	150	American
+48th Street Grille     	310 S 48th St	19143	4.5	275	American
+Desi Village      	4527 Baltimore Ave	19143	3.5	113	Indian
+Guacamole Mex-Grill      	4612 Woodland Ave	19143	4.0	118	Mexican
+Rose Petals Cafe     	322 W Chelten Ave	19144	4.0	252	American
+Hibachi 2 Go     	1414 Synder Ave	19145	3.5	105	Japanese
+Sky Cafe      	1540 W Ritner St	19145	4.5	135	SE Asian
+Chickie's & Pete's     	1526 Packer Ave	19145	3.5	590	American
+Scannicchio's       	2500 S Broad & Porter	19145	4.0	187	Italian
+Café y Chocolate     	1532 Snyder Ave	19145	4.5	369	Mexican
+South Philadelphia Tap Room    	1509 Mifflin St, Newbold	19145	4.0	530	American
+Cafe Nhan      	1606 W Passyunk Ave	19145	4.5	166	SE Asian
+Popi's Italian Restaurant     	3120 S 20th St	19145	3.5	153	Italian
+Circles Contemporary Asian     	1516 Tasker St	19145	3.5	377	SE Asian
+Philip's Steaks      	2234 W Passyunk Ave	19145	3.5	307	Cheesesteaks
+Hardena/Waroeng Surabaya Restaurant     	1754 S Hicks St	19145	4.5	383	SE Asian
+Vegan Commissary      	1429 Wolf St	19145	4.5	144	American
+La Rosa Pizzeria     	2106 S Broad St	19145	4.0	152	European
+Tap Room On 19th    	2400 S 19th St	19145	4.0	183	American
+Miss Rachel's Pantry     	1938 S Chadwick St	19145	5.0	119	SE Asian
+D'jakarta Cafe      	1540 W Ritner St	19145	4.5	107	American
+L'Angolo Ristorante      	1415 W Porter St	19145	4.5	386	Italian
+Second District Brewing     	1939 S Bancroft St	19145	4.0	103	American
+Pastificio       	1528 Packer Ave	19145	4.5	107	American
+Nick's Old Original Roast Beef   	2149 S 20th St	19145	4.5	258	American
+Stina Pizzeria      	1705 Snyder Ave	19145	4.5	112	European
+Southgate       	1801 Lombard St	19146	4.0	323	American
+Pub & Kitchen     	1946 Lombard St	19146	3.5	615	American
+Kermit's Bake Shoppe     	2204 Washington Ave	19146	4.0	183	European
+Bistro La Baia     	1700 Lombard St	19146	3.5	225	Italian
+Ants Pants Café     	2212 S St	19146	4.0	531	American
+La Va Cafe     	2100 S St	19146	3.5	201	American
+Sbraga       	440 S Broad St	19146	4.0	375	American
+Yeeroh       	1412 South St	19146	4.0	159	European
+Roberto Cafe      	2108 South St	19146	3.5	106	Italian
+Fitzwater Street Philly Bagels    	2001 Fitzwater St	19146	3.5	167	Jewish
+Sweet Freedom Bakery     	1424 South St	19146	3.5	316	Bakery
+Kei Sushi Restaurant     	1711 South St	19146	4.5	157	Japanese
+Café Lutecia      	2301 Lombard St	19146	4.0	199	European
+PHS Pop Up Garden    	1438 South St	19146	4.5	186	Mexican
+The Cambridge      	1508 South St	19146	3.5	358	American
+Lazaro's Pizzeria & Grill    	1743 South St	19146	4.0	368	Italian
+Govinda's Vegetarian      	1408 South St	19146	3.5	476	Cheesesteaks
+Nam Son Bakery     	1600 Carpenter St	19146	4.5	104	SE Asian
+Farmicia       	15 S 3rd St	19146	4.0	1094	Italian
+So Crepe      	1506 South St	19146	4.5	267	European
+Founding Fathers Sports Bar & Grill  	1612 South St	19146	3.5	173	American
+Cafe Ynez      	2025 Washington Ave	19146	4.5	276	Mexican
+The Sidecar Bar & Grille   	2201 Christian St	19146	4.0	680	American
+My Thai Restaurant     	2200 South St	19146	3.5	110	SE Asian
+L'anima       	1001 S 17th St	19146	4.0	128	Italian
+The QUICK FIXX     	1511 South St	19146	4.0	324	Italian
+Rex at the Royal    	1524 S St	19146	4.5	471	American
+Sawatdee Thai Restaurant     	534 S 15th St	19146	3.5	206	SE Asian
+Pumpkin       	1713 South St	19146	4.0	432	American
+Tio Flores      	1600 South St	19146	3.5	243	Mexican
+Little Spoon Cafe     	1500 South St	19146	4.0	358	American
+Thai Square Restaurant     	2521 Christian St	19146	4.0	162	SE Asian
+Nori Sushi      	1636 South St	19146	4.0	115	Japanese
+Indian Restaurant      	1634 South St	19146	3.5	328	Indian
+Entree BYOB      	1608 South St	19146	4.5	408	Italian
+Lou Bird's      	500 S 20th St	19146	4.0	161	American
+Randazzo's Pizzeria      	1826 S St	19146	4.0	153	Italian
+Nam Son      	1601 Washington Ave	19146	4.0	114	SE Asian
+Los Camaradas      	918 S 22nd St	19146	4.0	190	Mexican
+Rival Bros Coffee     	2400 Lombard St	19146	4.5	143	American
+Bistro SouthEast      	1824 S St	19146	4.5	251	Korean
+Jet Wine Bar     	1525 South St	19146	4.0	166	American
+Miles Table      	1620 South St	19146	4.5	514	American
+Meritage       	500 S 20th St	19146	4.0	162	American
+Rosarios Pizzeria      	1501 Wharton St	19146	4.0	211	Mexican
+American Sardine Bar     	1800 Federal St	19146	4.0	359	American
+On Point Bistro     	1200 Point Breeze Ave	19146	4.5	240	American
+Chick's Philly      	1807 Washington Ave	19146	4.0	216	American
+Resurrection Ale House     	2425 Grays Ferry Ave	19146	4.0	257	American
+The Tasty Toast     	1320 Point Breeze Ave	19146	4.0	143	American
+BAP       	1224 South St	19147	4.5	205	Korean
+Red Hook Coffee & Tea   	765 S 4th St	19147	4.5	183	Jewish
+The Twisted Tail     	509 S 2nd St	19147	4.0	604	American
+Whetstone Tavern      	700 S 5th St	19147	4.0	166	American
+Golden Triangle      	610 S 5th St	19147	4.5	159	SE Asian
+Dmitri's       	795 S 3rd St	19147	4.0	273	European
+Pho Hoa Noodle Soup    	1111 S 11th St	19147	3.5	116	SE Asian
+Xochitl       	408 S 2nd St	19147	3.5	453	American
+Bitar's       	947 Federal St	19147	4.0	154	Middle Eastern
+Tacodelphia       	427 S Broad St	19147	4.0	240	Mexican
+Ralphs Italian Restaurant     	760 S 9th St	19147	3.5	653	Italian
+Marrakesh       	517 S Leithgow St	19147	4.5	659	European
+Hot Diggity!      	630 South St	19147	4.5	191	American
+Essene Market & Café    	719 S 4th St	19147	3.5	149	Bakery
+Sansom Kabob House     	1300 South St	19147	4.0	106	Indian
+Federal Donuts      	1219 S 2nd St	19147	4.0	530	American
+Le Viet Restaurant     	1019 S 11th St	19147	4.0	322	SE Asian
+Shanks Original      	901 S Columbus Blvd	19147	3.5	132	American
+Blue Corn      	940 S 9th St	19147	4.5	350	Mexican
+Sky Cafe      	1122-38 Washington Ave, Ste B	19147	4.5	224	SE Asian
+Bistrot La Minette     	623 S 6th St	19147	4.5	619	European
+Alyan's Restaurant      	603 S 4th St	19147	4.0	289	Middle Eastern
+Kanella South      	757 S Front St	19147	4.5	249	European
+Southwark Restaurant      	701 S 4th St	19147	4.0	224	American
+Brauhaus Schmitz      	718 South St	19147	4.0	764	European
+Anthony's Italian Coffee House and Chocolate House 	903 S 9th St	19147	4.0	191	Italian
+Bistro Romano      	120 Lombard St	19147	4.0	546	Italian
+Emmy Squared - Queen Village   	632 S 5th St	19147	4.0	177	European
+Pizzeria Stella      	420 S 2nd St	19147	4.0	601	Italian
+Cochon       	801 E Passyunk Ave	19147	4.0	209	European
+Supper       	926 S St	19147	3.5	402	American
+Bridget Foy's      	200 South St	19147	3.5	312	American
+International Smokeless BBQ     	600 Washington Ave	19147	3.5	102	Korean
+Gleaner's Cafe      	917 S 9th St	19147	4.5	140	American
+Slice       	1180 S 10th St	19147	3.5	302	Italian
+Ratchada Thai & Laos Cuisine   	1117 S 11th St	19147	4.0	285	SE Asian
+Warmdaddy's       	1400 S Christopher Columbus Blvd	19147	3.5	498	American
+Ela       	627 S 3rd St	19147	4.0	323	American
+Woodrow's Sandwich Shop     	630 South St	19147	4.5	312	Cheesesteaks
+Ishkabibble's       	337 S St	19147	4.0	722	Cheesesteaks
+Kennett       	848 S 2nd St	19147	4.0	144	American
+Fiorella       	817 Christian St	19147	4.5	120	Italian
+Maoz Vegetarian      	248 South St	19147	4.0	159	Middle Eastern
+BAMBU       	600 Washington Ave, Ste 9	19147	4.0	170	SE Asian
+Kisso Sushi      	205 N 4th St	19147	4.0	194	Japanese
+Pho & Cafe Viet Huong   	1110 Washington Ave, Ste 2A	19147	3.5	242	SE Asian
+Mole Poblano Restaurant     	1144 S 9th St	19147	4.5	149	Mexican
+Devil's Den      	1148 S 11th St	19147	3.5	455	American
+Monsú       	901 Christian St	19147	4.0	309	Italian
+Francoluigi's Pizzeria & Italian Restaurant   	1549 S 13th St	19147	4.0	303	Italian
+Kawaii Kitty Cafe     	759 S 4th St	19147	4.5	116	Japanese
+Dante & Luigi's     	762 S 10th St	19147	4.0	415	Italian
+Famous 4th Street Delicatessen    	700 S 4th St	19147	4.0	620	American
+Jim's South St     	400 S St	19147	3.5	2736	Italian
+Tattooed Mom      	530 South St	19147	4.0	692	American
+Porto       	1301 S 11th St	19147	4.5	238	American
+Tashan       	777 S Broad St	19147	4.0	395	Indian
+Pho Saigon      	1100 S Christopher Columbus Blvd, Unit 22	19147	4.0	419	SE Asian
+Nam Phuong      	1100 Washington Ave	19147	4.0	738	SE Asian
+Philadelphia Java Company     	852 S 2nd St	19147	4.0	101	Jewish
+Isgro Pastries      	1009 Christian St	19147	4.5	472	Bakery
+Nomad Pizza Company     	611 S 7th St	19147	4.5	566	Italian
+Percy Street Barbecue     	900 South St	19147	4.0	794	BBQ
+Banh Mi and Bottles    	712-14 S St	19147	4.0	253	SE Asian
+The Victor Cafe     	1303 Dickinson St	19147	4.5	437	Italian
+The Living Room Cafe    	701 S 5th St	19147	4.5	139	American
+Kosmo Pizza & Grille    	1347 S St, Ste 4	19147	4.5	162	American
+Square Pie      	801 E Passyunk Ave	19147	4.5	145	Italian
+Hawthornes Biercafé      	738 S 11th St	19147	4.0	716	American
+Lorenzo's Pizza      	900 Christian St	19147	3.5	107	Cheesesteaks
+Burrata       	1247 S 13th St	19147	4.5	155	Italian
+Quetzally       	1225 Fitzwater St	19147	4.0	241	American
+Cafe Fulya      	727 S 2nd St	19147	4.0	128	American
+Serpico       	604 South St	19147	4.0	419	American
+Tortilleria San Roman     	951 S 9th St	19147	5.0	219	Italian
+Ms Tootsie's RBL     	1312 South St	19147	3.5	612	American
+Bibou       	1009 S 8th St	19147	4.5	364	European
+The Bagel Place     	404 Queen St	19147	4.0	171	Jewish
+August       	1247 S 13th St	19147	4.0	106	Italian
+Growlers       	736 S 8th St	19147	4.0	127	American
+Amis Trattoria      	412 S 13th St	19147	4.0	762	Italian
+El Rancho Viejo     	942 S 5th St	19147	5.0	110	Mexican
+Ba Le Bakery     	606 Washington Ave	19147	3.5	234	SE Asian
+M2O Burgers & Salads    	701 S 5th St	19147	4.0	111	American
+The Dutch      	1527 S 4th St	19147	4.0	334	American
+Mekong River      	1120 - 1124 Front St	19147	4.0	121	American
+Milkboy       	401 South St	19147	3.5	108	SE Asian
+Isot Mediterranean Cuisine     	622 S 6th St	19147	4.5	448	American
+Tamarind       	117 S St	19147	4.0	309	SE Asian
+Di Bruno Bros.     	930 S 9th St	19147	4.5	250	Italian
+Sakana Omakasè Sushi     	616 S 2nd St, Fl 1	19147	4.5	157	Japanese
+Horizons       	611 S 7th St	19147	4.5	179	American
+South Philly Barbacoa     	1140 S 9th St	19147	4.5	593	Mexican
+Termini Bros Bakery     	1523 S 8th St	19147	4.5	380	Bakery
+Lorenzo & Sons Pizza    	305 S St	19147	4.0	657	Italian
+La Fourno Ristorante Trattoria    	636 South St	19147	4.0	273	Italian
+Kalaya       	764 S 9th St	19147	4.5	272	SE Asian
+Triangle Tavern      	1338 S 10th St	19147	4.0	216	American
+Sarcone’s Bakery      	758 S 9th St	19147	4.5	120	Bakery
+Stateside       	1536 E Passyunk Ave	19147	3.5	358	American
+Little Fish      	746 S 6th St	19147	4.5	529	American
+Fitzwater Cafe      	728 S 7th St	19147	4.0	240	Italian
+Taqueria La Veracruzana     	908 Washington Ave	19147	4.0	472	Mexican
+Cavanaughs Headhouse      	421 S 2nd St	19147	3.5	108	American
+South Street Souvlaki     	509 South St	19147	4.0	221	European
+Sarcone's Deli      	734 S 9th St	19147	4.0	206	American
+Pho 75      	1122 Washington Ave	19147	4.5	529	SE Asian
+Royal Tavern      	937 E Passyunk Ave	19147	4.0	669	American
+Santucci's Original Square Pizza    	901 S 10th St	19147	3.5	469	Italian
+Ristorante Aroma      	1245 3rd St	19147	4.5	137	Italian
+Tres Jalapenos      	901 S 8th St	19147	3.5	354	Mexican
+Pho Ha      	600 Washington Ave	19147	4.0	485	Chinese
+Cafe Crema      	1205 S 9th St	19147	4.0	147	Bakery
+El Jarocho      	1138 S 13th St	19147	4.0	445	Mexican
+Cosmi's Deli      	1501 S 8th St	19147	4.0	391	Cheesesteaks
+James       	824 S 8th St	19147	4.0	101	American
+Ishkabibble's       	517 S St	19147	3.5	191	American
+Hungry Pigeon      	743 S 4th St	19147	4.0	449	American
+Tommy DiNic's      	1136 Arch St	19147	4.0	2221	American
+Brigantessa       	1520 E Passyunk Ave	19147	3.5	215	Italian
+Indian Kitchen Lovash     	236 South St	19147	3.5	278	Indian
+The Latest Dish     	613 S 4th St	19147	4.5	108	American
+Gnocchi       	613 E Passyunk Ave	19147	4.0	260	Italian
+Blackbird Pizzeria      	507 S 6th St	19147	4.0	716	European
+Carman's Country Kitchen     	1301 S 11th St	19147	4.0	135	American
+Leziz Turkish Cuisine     	611 E Passyunk Ave	19147	4.0	238	Middle Eastern
+Little Italy Pizza & Trattoria   	342 Queen St	19147	3.5	101	European
+Function Coffee Labs     	1001 S 10th St	19147	4.5	141	American
+Iztaccihuatl       	1122 S 8th St	19147	4.0	132	American
+Little Italy Pizza     	901 South St	19147	3.5	241	Italian
+Villa Di Roma     	936 S 9th St	19147	4.0	421	Italian
+Sumo Sushi      	401 S 13th St	19147	3.5	279	Japanese
+Fond       	1537 S 11th St	19147	4.5	350	American
+Black & Brew     	1523 E Passyunk Ave	19147	4.0	271	Jewish
+La Nonna      	214 S St	19147	4.5	160	Italian
+Pietro's Coal Oven Pizzeria    	121 South St	19147	4.0	216	Italian
+Malbec Argentine Steakhouse     	400-402 S 2nd St	19147	4.0	193	SE Asian
+Vegan Tree      	742 S St	19147	4.0	195	Bakery
+The Wishing Well     	767 S 9th St	19147	3.5	179	American
+Royal Sushi & Izakaya    	780-782 S 2nd St	19147	4.5	275	Japanese
+Perla       	1535 S 11th St	19147	4.5	216	American
+Golden Empress Garden     	618 South St	19147	3.5	181	Chinese
+Sushi Planet      	624 S 3rd St	19147	3.5	192	Japanese
+Cafe Diem      	1031 S 8th St	19147	4.5	264	SE Asian
+Manny Brown's      	512 South St	19147	3.5	124	American
+Catahoula       	775 S Front St	19147	4.0	330	American
+Anastasi Seafood      	1101 S 9th St	19147	4.0	282	American
+Nina's Trattoria      	910 S 9th St	19147	3.5	180	Italian
+Cucina Forte      	768 S 8th St	19147	4.0	140	Italian
+South Street Philly Bagels    	613 S 3rd St	19147	4.0	248	Jewish
+The Good King Tavern    	614 S 7th St	19147	4.0	338	European
+Ginza       	1100 S Front St	19147	4.5	137	Japanese
+B2       	1500 E Passyunk Ave	19147	3.5	187	American
+Puyero Venezuelan Flavor     	524 S 4th St	19147	4.5	170	American
+New Wave Cafe     	784 S 3rd St	19147	3.5	225	American
+Tamalex Restaurant      	1163 S 7th St	19147	4.5	149	Mexican
+El Bocado      	1005 E Passyunk Ave	19147	5.0	104	American
+Creperie Beau Monde & L'Etage   	624 S 6th St	19147	4.0	595	European
+Al Zaytouna      	906 Christian St	19147	4.0	246	Middle Eastern
+Cry Baby Pasta     	627 S 3rd St	19147	3.5	198	Italian
+Prima Pizza Taqueria Mexicana    	1104 S 9th St	19147	4.5	126	Mexican
+Saloon Restaurant      	750 S 7th St	19147	4.5	190	Italian
+Paesano's Philly Style     	1017 S 9th St	19147	4.5	387	Italian
+Bodhi Coffee      	410 S 2nd St	19147	4.0	167	American
+Angelo's Pizzeria      	736 S 9th St	19147	4.5	393	European
+Nora's Kitchen      	248 South St	19147	4.5	163	American
+Lucky's Last Chance     	848 S 2nd St	19147	4.5	130	American
+For Pete's Sake     	900 S Front St	19147	4.0	187	American
+Boot & Saddle     	1131 S Broad St	19147	4.0	102	SE Asian
+Caffe Valentino      	1245 S 3rd St	19147	3.5	106	Italian
+Izumi       	1601 E Passyunk Ave	19148	4.0	219	Japanese
+Oregon Steaks      	2654 S 10th St	19148	3.5	184	Cheesesteaks
+Ippolito's Seafood      	3400 S Lawrence St	19148	4.0	101	American
+Flannel       	1819 E Passyunk Ave	19148	4.5	113	American
+Tre Scalini Ristorante     	1915 E Passyunk Ave	19148	3.5	159	Italian
+SouthHouse       	2535 S 13th St	19148	4.5	158	American
+John's Roast Pork     	14 E Snyder Ave	19148	4.5	1564	American
+Gooey Looie's      	231 McClellan St	19148	4.5	251	Cheesesteaks
+Pizzeria Pesto      	1925 S Broad St	19148	4.0	120	Italian
+Irwin's       	800 Mifflin St	19148	4.0	111	European
+Laurel       	1617 E Passyunk Ave	19148	4.5	326	American
+Creme Brulee Bistro & Cafe   	1800 S 4th St	19148	4.5	165	European
+Lucky 13 Pub     	1820 S 13th St	19148	4.0	126	American
+Bomb Bomb      	1026 Wolf St	19148	4.0	107	Italian
+AmeriThai       	1244 Snyder Ave	19148	4.0	120	SE Asian
+Chhaya Cafe      	1819 E Passyunk Ave	19148	4.0	301	American
+Pistola's Del Sur     	1934 E Passyunk Ave	19148	4.0	119	Mexican
+Paradiso       	1627 E Passyunk Ave	19148	3.5	117	Italian
+Noord       	1046 Tasker St	19148	4.5	396	American
+Bing Bing Dim Sum    	1648 E Passyunk Ave	19148	4.0	557	Chinese
+The Original Tony Lukes    	39 E Oregon Ave	19148	4.0	1910	American
+Artisan Boulanger Patissier     	1218 Mifflin St	19148	4.5	194	European
+Frangelli's Bakery      	847 W Ritner St	19148	4.5	161	Bakery
+Pho Ha Saigon     	320 W Oregon Ave, Ste 1	19148	4.0	126	SE Asian
+Stogie Joe's Tavern     	1801 E Passyunk Ave	19148	3.5	295	Italian
+South Bowl      	19 E Oregon Ave	19148	3.5	249	American
+Noir Restaurant & Bar    	1909 E Passyunk Ave	19148	4.0	154	Italian
+Famous Dave's Bar-B-Que     	1936 S Columbus Blvd	19148	3.5	142	American
+Nick's Charcoal Pit     	1242 Snyder Ave	19148	3.5	138	BBQ
+Le Virtu      	1927 E Passyunk Ave	19148	4.0	389	Italian
+Little Sicily 2     	1608 S Christopher Columbus Blvd	19148	4.5	252	Indian
+Mike's BBQ      	1703 S 11th St	19148	4.5	244	BBQ
+P'unk Burger      	1823 E Passyunk Ave	19148	3.5	278	American
+Bok Bar      	800 Mifflin St	19148	4.0	251	Mexican
+Palladino's       	1934 E Passyunk Ave	19148	3.5	102	Italian
+Will BYOB      	1911 E Passyunk Ave	19148	4.0	229	American
+Mr Martino's Trattoria     	1646 E Passyunk Ave	19148	4.0	153	Italian
+Terryin       	358 Snyder Ave	19148	4.0	159	Japanese
+Barcelona Wine Bar Passyunk    	1709 E Passyunk Ave	19148	4.5	608	European
+Plenty Café      	1710 E Passyunk Ave	19148	3.5	153	American
+Chiarella's Ristorante      	1600 S 11th St	19148	4.0	110	Italian
+Los Gallos Mexican Taqueria    	951 Wolf St	19148	4.5	503	Mexican
+Fuel       	1917 E Passyunk Ave	19148	3.5	262	American
+Miller's Ale House     	2100 S Columbus Blvd	19148	3.5	132	American
+Watkins Drinkery      	1712 S 10th St	19148	4.0	145	American
+Ristorante Pesto      	1915 S Broad St	19148	4.5	578	Italian
+LaScala's Birra      	1700 E Passyunk Ave	19148	4.0	383	Italian
+Soulfedphilly       	6424 Castor Ave	19149	3.5	128	American
+Jordan Johnson's Gourmet Seafood    	7199 Buselton Ave	19149	3.5	128	American
+The Shake Seafood     	2141 Cottman Ave, Unit D	19149	4.0	189	American
+House of Thai Cuisine    	3520 Cottman Ave	19149	4.5	266	SE Asian
+The Taste of Brazil - Philadelphia  	6222 Bustleton Ave	19149	3.5	146	American
+Steve's Prince of Steaks    	7200 Bustleton Ave	19149	4.0	488	American
+Al-Sham Restaurant      	6738 Bustleton Ave	19149	4.0	206	American
+China Gourmet      	2842 St Vincent Street	19149	4.0	132	Chinese
+Marinucci's Deli - Mayfair    	2852 Saint Vincent St	19149	4.5	130	American
+Rib Rack      	2100 Tyson Ave	19149	4.0	133	BBQ
+Pho Le Lai     	2844 St Vincent St	19149	4.0	120	Chinese
+Picanha Brazilian Steakhouse     	6501 Castor Ave	19149	3.5	236	American
+Gilben's Bakery      	7405 Stenton Ave	19150	4.0	103	Bakery
+Star Fusion      	2013 N 63rd St	19151	3.5	122	American
+Jim's Steaks      	431 N 62nd St	19151	4.0	319	Cheesesteaks
+The Blue Duck     	2859 Holme Ave	19152	4.0	495	American
+Las Margaritas      	2538 Welsh Rd	19152	3.5	511	Mexican
+Broncos Brazilian Steakhouse     	7634 Castor Ave	19152	4.5	102	American
+Burger Bar at Gallo's    	8101 Roosevelt Blvd, Ste 3013	19152	3.5	122	American
+Café Carmela      	2859 Holme Ave	19152	4.5	103	Italian
+Gallo's Seafood      	8101 Roosevelt Blvd	19152	3.5	178	American
+Vino Volo      	Philadelphia International Airport, Terminal D/E	19153	3.5	108	American
+Aldo Lamberti Trattoria     	8500 Essington Ave	19153	4.5	107	Italian
+Legal Sea Foods     	8500 Essington Ave	19153	4.0	326	American
+K-POT Korean BBQ & Hot Pot  	789 Franklin Mills Cir	19154	4.5	349	Korean
+Joe Santucci's Square Pizza Bar & Grill 	4050 Woodhaven Rd	19154	3.5	136	Italian
+Independence Prime      	Philadelphia International Airport - 8000 Essington Ave, Terminal B	19155	3.5	108	American
+Bui's       	38th St & Spruce St	19195	4.5	104	SE Asian

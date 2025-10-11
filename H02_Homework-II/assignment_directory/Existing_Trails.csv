@@ -1,0 +1,340 @@
+﻿OBJECTID,TYPE,MATERIAL,WIDTH,LIMITS,TYPE2,NAME,ENTITY_TRA,TYPE_3,PAVED,MILEAGE,Shape__Length
+1,Designated,Asphalt,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.03920378,82.3028336144802
+2,Designated,Asphalt,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.06350004,133.366700377672
+3,Designated,Asphalt,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.08238775,173.161161406805
+4,Designated,Asphalt,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.1206988,253.285506381974
+5,Designated,Asphalt,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.23715562,499.294384708789
+6,Designated,Asphalt,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.01070881,22.5354737263879
+7,Designated,Asphalt,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.65407164,1373.73321996218
+8,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.01646264,34.5616643740582
+9,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.19906215,418.174077746979
+10,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.00694198,14.5865241694991
+11,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.4401574,924.906355013817
+12,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.15901298,333.739167849536
+13,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.0908885,191.214608646527
+14,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.25460531,534.389925112107
+15,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.10504468,220.375980558694
+16,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.18067953,379.434112663086
+17,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.03524503,74.2079327755968
+18,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.32877298,690.512004297739
+19,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.01465641,30.8581209214741
+20,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.14233191,299.656087809053
+21,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.0324633,68.1860483310386
+22,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.03060031,64.3415823248544
+23,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.05802473,122.16469713894
+24,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.12807389,268.653115197898
+25,Designated,Asphalt,0, ,Asphalt Sidepath,58th Street Greenway,Streets,Sidepath, ,0.71965644,1511.53113229638
+26,Designated,Asphalt,0, ,Asphalt Sidepath,Navy Yard Path,PIDC,Sidepath,Y,1.40979897,2953.65076804081
+27,Designated,Asphalt,0, ,Asphalt Trail,Bartram's Trail,Bartram's,Trail, ,0.31860357,668.617719608575
+28,Designated,Asphalt,0, ,Asphalt Trail,Fluehr Park Trail,PPR,Trail,Y,0.86790545,1825.56347697081
+29,Designated,Asphalt,0, ,Asphalt Trail,Northeast Airport Trail,PHL NE Airport,Trail,Y,4.1243031,8680.48965610791
+30,Designated,Asphalt,0, ,Asphalt Trail,Pennypack Trail/Lorimer Trail,Mont Co?,Outside Philly Trail,Y,0.00041489,0.87303280977976
+31,Designated,Asphalt,0, ,Asphalt Trail,Race Street Connector Trail,PPR?,Trail,Y,0.05955872,125.366030891552
+32,Designated,Asphalt,0, ,Asphalt Trail,Schuylkill River Trail,PPR,Trail,Y,0.76699409,1613.81890665134
+33,Designated,Asphalt,0, ,Asphalt Trail,Shawmont to Port Royal SRT,PPR,Trail,Y,0.29792724,626.622124357404
+34,Designated,Asphalt,, ,Asphalt Trail,Sugar House Casino Trail,Sugar House,Trail,Yes,0.3668983,771.001598665622
+35,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.39358013,827.875137475258
+36,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,3.224e-05,0.0676772479564283
+37,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.1539501,323.329104889101
+38,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.00588774,12.3745051529084
+39,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.41691819,875.964870224416
+40,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.28343669,596.49263401654
+41,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.00642789,13.5020277184736
+42,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.01231033,25.909481693952
+43,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.14738494,309.811819988813
+44,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.01006324,21.1479891752072
+45,Designated,Asphalt,0, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.02695621,56.5950931358574
+46,Designated,Asphalt,0, ,Asphalt Trail,W Fairmount Park Trolley Trail,PPR,Trail,Y,0.25155376,527.899694658804
+47,Designated,Asphalt,0, ,Asphalt Trail,Delaware River Trail,DRWC,Trail,Y,0.54596445,1147.55516922112
+48,Designated,Asphalt,0, ,Bridge,Schuylkill River Park Connector Bridge,PPR SRDC,Trail Connection, ,0.14014217,294.392442688126
+49,Designated,Asphalt,0, ,Dirt Trail,Centennial Loop,PPR,Trail,Y,0.05117617,107.746748594986
+50,Designated,Asphalt,0, ,Parking Lot,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail Connection,Y,0.01887792,39.6832122839365
+51,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.01077193,22.6026201913859
+52,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.01239097,25.9995012056046
+53,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.00990661,20.8185034765584
+54,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.01470747,30.8584299281438
+55,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.02042308,42.8766651256016
+56,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.00609031,12.7760949481824
+57,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.00499727,10.5089614711834
+58,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.0050019,10.5300631059134
+59,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.00467106,9.80051621042509
+60,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.01028833,21.6668649077683
+61,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.02412469,50.7674765888495
+62,Designated,Asphalt,0, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.00999876,21.0016375369228
+63,Designated,Asphalt,0, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.01565947,32.948481251172
+64,Designated,Asphalt,0, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.0082374,17.3423697709464
+65,Designated,Asphalt,0, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.01792174,37.6011902776017
+66,Designated,Asphalt,0,,Asphalt Sidepath,Penn Street Trail,DRWC,Sidepath, ,0.31216999,656.204175423811
+67,Designated,Asphalt,0,,Asphalt Sidepath,Port Richmond Trail,DRCC,Sidepath,Y,1.57793993,3313.19910894779
+68,Designated,Asphalt,0,,Asphalt Sidepath,West Bank Greenway- Zoo,PPR Zoo,Sidepath,Y,0.4893995,1030.07516691491
+69,Designated,Asphalt,4, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.15040571,315.664198110704
+70,Designated,Asphalt,4, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.27374997,576.370580224266
+71,Designated,Asphalt,5, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.4348059,915.270632458484
+72,Designated,Asphalt,5, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.08671892,182.708169635251
+73,Designated,Asphalt,5, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.21927915,461.726541969129
+74,Designated,Asphalt,5, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.00440968,9.25949125070774
+75,Designated,Asphalt,5, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.18590465,391.367570148382
+76,Designated,Asphalt,6, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.05881259,123.38597347103
+77,Designated,Asphalt,6, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.02238471,47.1603092805897
+78,Designated,Asphalt,6, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.02576624,54.1592883475733
+79,Designated,Asphalt,6, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.17978235,378.681140566218
+80,Designated,Asphalt,6, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.08584734,180.83459319756
+81,Designated,Asphalt,6, ,Bridge,MLK Drive Trail,PPR,Trail,Y,0.1859997,390.215118829791
+82,Designated,Asphalt,6, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.00575542,12.0734460832001
+83,Designated,Asphalt,8, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.01753073,36.8565331226126
+84,Designated,Asphalt,8, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.05238738,110.143589856313
+85,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.20246427,426.620063144955
+86,Designated,Asphalt,10, ,Asphalt Trail,Poquessing Creek- Lower,PPR,Trail,Y,0.21352349,449.251310187617
+87,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.02263883,47.5568398485454
+88,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.18055205,379.787071635519
+89,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.02541547,53.446927141871
+90,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.02222446,46.7679387026542
+91,Designated,Asphalt,8, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.5176749,1086.47197518755
+92,Designated,Asphalt,8, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.18749145,394.548168503541
+93,Designated,Asphalt,8, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.03029804,63.6380840231701
+94,Designated,Asphalt,8, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.02219442,46.6400406688271
+95,Designated,Asphalt,8, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.90672417,1906.73166477524
+96,Designated,Asphalt,8, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.01809004,38.0744232708962
+97,Designated,Asphalt,8, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.30585174,643.76742581741
+98,Designated,Asphalt,8, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.56531808,1188.12447084438
+99,Designated,Asphalt,8, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.44962271,946.875791666946
+100,Designated,Asphalt,8, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.01000527,21.0778275689973
+101,Designated,Asphalt,8, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.36231914,762.709850912824
+102,Designated,Asphalt,8, ,Asphalt Trail,Tacony Creek Trail,PPR,Trail,Y,0.07336967,154.590063073617
+103,Designated,Asphalt,8, ,Dirt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.63683006,1339.23305511299
+104,Designated,Asphalt,8, ,Dirt Trail,Pennypack Park Trail,PPR,Trail,Y,0.09388756,197.344521217535
+105,Designated,Asphalt,8, ,Driveway,Cobb's Creek Trail,PPR,Trail,Y,0.04845895,101.972083305669
+106,Designated,Asphalt,8, ,Road Crossing,Cobb's Creek Trail,PPR,Trail,Y,0.00980913,20.6042844353031
+107,Designated,Asphalt,8, ,Road Crossing,Cobb's Creek Trail,PPR,Trail,Y,0.01062854,22.3558740609574
+108,Designated,Asphalt,8, ,Road Crossing,Cobb's Creek Trail,PPR,Trail Connection,Y,0.0146812,30.9009198967957
+109,Designated,Asphalt,8, ,Road Crossing,Cobb's Creek Trail,PPR,Trail Connection,Y,0.0237221,49.9282897175728
+110,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.02860311,60.1905956500966
+111,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,1.69763809,3570.68979485448
+112,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.01786463,37.5984652872371
+113,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.03142219,66.107845910175
+114,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.07472086,157.225213144267
+115,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.58463191,1230.08124030269
+116,Designated,Gravel,20, ,Gravel Trail,Forbidden Drive,PPR,Trail,N,4.60399007,9693.31473330604
+117,Designated,Wood,0, ,Bridge,Tacony Creek Trail,PPR,Trail,N,0.01750328,36.7649644901431
+118,Designated,Wood,0, ,Bridge,Tacony Creek Trail,PPR,Trail,Y,0.01339534,28.1217816527776
+119,Designated,Wood,8, ,Boardwalk,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.13488067,283.359664339625
+120,Designated,Wood,8, ,Boardwalk,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.0719908,151.250085742188
+121,Designated,Wood,8, ,Bridge,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.00643107,13.5311147196009
+122,Designated,Wood,8, ,Bridge,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.00705133,14.8330767503888
+123,Designated,Wood,8, ,Bridge,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.0223458,46.9068074110012
+124,Designated,Wood,8, ,Bridge,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.00843827,17.7143075640099
+125,Designated,Wood,10, ,Boardwalk,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.04602081,96.7681628740721
+126,Designated,Wood,10, ,Boardwalk,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.03887185,81.7032055789593
+127,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.01296689,27.2009014554349
+128,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.01074831,22.6320233957179
+129,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.0066203,13.8857856567135
+130,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.00802537,16.8812589131528
+131,Designated,Asphalt,10, ,Road Crossing,Kelly Drive Trail,PPR,Trail,Y,0.00555471,11.6798883627741
+132,Designated,Asphalt,10, ,Road Crossing,Kelly Drive Trail,PPR,Trail,Y,0.00543027,11.4027843714746
+133,Designated,Asphalt,10, ,Road Crossing,Kelly Drive Trail,PPR,Trail,Y,0.00549846,11.5541972557563
+134,Designated,Asphalt,10, ,Road Crossing,Kelly Drive Trail,PPR,Trail,Y,0.00431709,9.09212566484095
+135,Designated,Asphalt,10, ,Road Crossing,Kelly Drive Trail,PPR,Trail,Y,0.02678757,56.2638448387021
+136,Designated,Asphalt,10, ,Road Crossing,Kelly Drive Trail,PPR,Trail Connection,Y,0.01861316,39.1595788746115
+137,Designated,Asphalt,10, ,Road Crossing,Kelly Drive Trail,PPR,Trail Connection,Y,0.01029275,21.5958853118071
+138,Designated,Asphalt,10, ,Road Crossing,Kelly Drive Trail,PPR,Trail Connection,Y,0.00823887,17.2976225396972
+139,Designated,Asphalt,10, ,Road Crossing,MLK Drive Trail,PPR,Trail,Y,0.00825912,17.3862389172602
+140,Designated,Asphalt,10, ,Road Crossing,Pennypack Park Trail,PPR,Trail,Y,0.01679389,35.3176179044533
+141,Designated,Asphalt,10, ,Road Crossing,Pennypack Park Trail,PPR,Trail,Y,0.01046984,22.0304831718961
+142,Designated,Asphalt,10, ,Road Crossing,Pennypack Park Trail,PPR,Trail Connection,Y,0.00781205,16.4190975337738
+143,Designated,Asphalt,10, ,Road Crossing,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.01224462,25.7607195582078
+144,Designated,Asphalt,12, ,Asphalt Trail,Gray's Crescent Trail,PPR SRDC,Trail,Y,0.15391395,323.471172885836
+145,Designated,Asphalt,12, ,Asphalt Trail,Gray's Crescent Trail,PPR SRDC,Trail,Y,0.14946838,313.399751328928
+146,Designated,Asphalt,12, ,Asphalt Trail,Gray's Crescent Trail,PPR SRDC,Trail,Y,0.28955345,608.059128713013
+147,Designated,Asphalt,12, ,Asphalt Trail,Gray's Crescent Trail,PPR SRDC,Trail,Y,0.17960642,377.191612678451
+148,Designated,Asphalt,12, ,Asphalt Trail,Gray's Crescent Trail,PPR SRDC,Trail,Y,0.05242575,109.969539862118
+149,Designated,Asphalt,12, ,Asphalt Trail,Gray's Crescent Trail,PPR SRDC,Trail,Y,0.05720463,120.035626951538
+150,Designated,Asphalt,12, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.40107577,843.891610914115
+151,Designated,Asphalt,12, ,Driveway,Cobb's Creek Trail,PPR,Trail,Y,0.09073246,190.453428723604
+152,Designated,Asphalt,12, ,Driveway,Cobb's Creek Trail,PPR,Trail Connection,Y,0.07861592,165.050059755257
+153,Designated,Asphalt,15, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.22339133,468.58604966652
+154,Designated,Asphalt,15, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.22273099,467.201549871692
+155,Designated,Asphalt,15, ,Driveway,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,Y,0.07820968,164.689760841166
+156,Designated,Asphalt,20, ,Parking Lot,Forbidden Drive,PPR,Trail,Y,0.03030274,63.788622089173
+157,Designated,Concrete,0, ,Bridge,Ben Franklin Bridge Walkway,DRPA,Trail,Y,0.99294637,2082.14863546623
+158,Designated,Concrete,0, ,Concrete Plaza,Penn's Landing,DRWC,Trail,Y,0.69238875,1456.06079741216
+159,Designated,Concrete,0, ,Stairs,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail Connection,N,0.00901381,18.9529048293712
+160,Designated,Concrete,0,,Concrete Trail,Schuylkill Banks Boardwalk,PPR SRDC,Trail,Y,0.15583457,327.430926158723
+161,Designated,Concrete,0,,Concrete Trail,Schuylkill Banks Boardwalk,PPR SRDC,Trail,Y,0.12044344,252.992727349183
+162,Designated,Concrete,0,,Concrete Trail,Schuylkill Banks Boardwalk,PPR SRDC,Trail,Y,0.25098395,527.173011689408
+163,Designated,Concrete,6, ,Sidewalk,Kelly Drive Trail,PPR,Trail,Y,0.52579283,1105.16294463574
+164,Designated,Concrete,8, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.0137746,28.9368134364416
+165,Designated,Concrete,8, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.00610089,12.7956474946055
+166,Designated,Concrete,8, ,Sidewalk,Pennypack Park Trail,PPR,Trail,Y,0.0601107,126.33126781015
+167,Designated,Concrete,8, ,Sidewalk,Pennypack Park Trail,PPR,Trail,Y,0.04790135,100.682093161577
+168,Designated,Concrete,8, ,Sidewalk,Pennypack Park Trail,PPR,Trail,Y,0.03429266,72.0008936004091
+169,Designated,Concrete,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.00368383,7.75547188540519
+170,Designated,Concrete,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.06690511,140.369906192265
+171,Designated,Concrete,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.04777111,100.235513537403
+172,Designated,Concrete,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.08490673,178.677212298079
+173,Designated,Concrete,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.13824331,290.333982010516
+174,Designated,Concrete,10, ,Asphalt Trail,Boxer's Trail,PPR,Trail,Y,0.03654529,76.7256378688947
+175,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.03920575,82.3655980839323
+176,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.10855291,228.281187279456
+177,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,1.22061169,2568.55799084689
+178,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.15337389,322.001340500147
+179,Designated,Asphalt,10, ,Asphalt Trail,MLK Drive Trail,PPR,Trail,Y,0.06188611,129.799350082938
+180,Designated,Asphalt,10, ,Asphalt Trail,MLK Drive Trail,PPR,Trail,Y,3.90391401,8208.71512293238
+181,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.29704997,624.411243952108
+182,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.02868196,60.4157060930871
+183,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.15876791,334.31262330038
+184,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.17403232,366.261274215574
+185,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.00566816,11.9270433665322
+186,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.38177894,804.282620799353
+187,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.06346879,133.605830886338
+188,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.29140786,612.021364237141
+189,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.72693995,1528.4781786766
+190,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.00423786,8.90389958157354
+191,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.95496086,2010.11984672626
+192,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.19515967,409.954101798036
+193,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.1843748,387.856136644462
+194,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.64581777,1360.59172221805
+195,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.08960234,188.611677146076
+196,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,4.315e-05,0.0909278134404381
+197,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.00233252,4.9056367585536
+198,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.09566723,201.623372164562
+199,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,1.18851159,2501.79338954486
+200,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.05795712,121.823474790144
+201,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.13032258,274.515432646839
+202,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.92676821,1951.04561127927
+203,Designated,Asphalt,10, ,Asphalt Trail,Pennypack Park Trail,PPR,Trail,Y,0.1564656,329.414865455668
+204,Designated,Wood,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.03971191,83.5543755676591
+205,Designated,Wood,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.01963419,41.3024481581695
+206,Designated,Wood,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.01985799,41.757865678431
+207,Designated,Wood,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.00859904,18.1090222840661
+208,Designated,Wood,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.01258838,26.5444820720454
+209,Designated,Concrete,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.08323118,175.092043106301
+210,Designated,Concrete,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.03794337,79.7469180109639
+211,Designated,Concrete,10, ,Ramp,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.01363319,28.638897245007
+212,Designated,Concrete,10, ,Ramp,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.04833511,101.690292461294
+213,Designated,Concrete,10, ,Ramp,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.00206862,4.33863323787812
+214,Designated,Concrete,10, ,Ramp,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.04788477,100.742823556761
+215,Designated,Concrete,10, ,Ramp,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.04825615,101.487170567181
+216,Designated,Concrete,10, ,Stairs,Schuylkill Banks Trail,PPR SRDC,Trail Connection,Y,0.01608084,33.8379624862933
+217,Designated,Concrete,15, ,Sidewalk,Kelly Drive Trail,PPR,Trail,Y,0.08811034,185.095290988725
+218,Designated,Concrete,20, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.04322163,90.7341504910012
+219,Designated,Concrete,20, ,Asphalt Trail,Boxer's Trail,PPR,Trail,N,0.00505923,10.6247358446312
+220,Designated,Concrete,20, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.04463261,93.7184181567192
+221,Designated,Dirt,0, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.37480532,788.088510789285
+222,Designated,Dirt,0,No Bicycles,Dirt Trail,Heinz Wildlife Refuge Trail,Heinz Wildlife Refuge,Outside Philly Trail,N,0.0159226,33.395951066558
+223,Designated,Dirt,0,No Bicycles,Dirt Trail,Heinz Wildlife Refuge Trail,Heinz Wildlife Refuge,Outside Philly Trail,N,0.00046802,0.983608288817814
+224,Designated,Dirt,0,No Bicycles,Dirt Trail,Heinz Wildlife Refuge Trail,Heinz Wildlife Refuge,Trail,N,0.18703269,392.780835328423
+225,Designated,Dirt,0,No Bicycles,Dirt Trail,Heinz Wildlife Refuge Trail,Heinz Wildlife Refuge,Trail,N,0.17168257,360.343535573514
+226,Designated,Dirt,0,No Bicycles,Dirt Trail,Heinz Wildlife Refuge Trail,Heinz Wildlife Refuge,Trail,N,0.35136081,736.873168799517
+227,Designated,Dirt,8, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.03623241,76.0664854214061
+228,Designated,Dirt,8, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.59742439,1256.75166964267
+229,Designated,Gravel,0, ,Bridge,Forbidden Drive,PPR,Trail,N,0.01077933,22.7151795003737
+230,Designated,Gravel,0, ,Dirt Trail,Forbidden Drive,PPR,Trail,N,0.41721548,878.290723820957
+231,Designated,Gravel,0, ,Gravel Trail,Heinz Wildlife Refuge Trail,Heinz Wildlife Refuge,Trail,N,1.35142018,2835.96607463939
+232,Designated,Gravel,0, ,Gravel Trail,Pennypack Lorimer Connector,PPR?,Outside Philly Trail,N,0.33775032,711.191893469421
+233,Designated,Gravel,0, ,Gravel Trail,Pennypack Lorimer Connector,PPR?,Trail,N,0.18718004,394.454005077759
+234,Designated,Gravel,0,No Bicycles,Dirt Trail,Heinz Wildlife Refuge Trail,Heinz Wildlife Refuge,Trail,N,1.66708261,3501.16921838793
+235,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.10631943,223.84693904148
+236,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.14906254,312.883616165526
+237,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.01383875,29.0749141388703
+238,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.01730915,36.3759834305857
+239,Designated,Asphalt,10, ,Asphalt Trail,Centennial Loop,PPR,Trail,Y,0.05537215,116.58508272695
+240,Designated,Asphalt,10, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,1.47810424,3106.03014393608
+241,Designated,Asphalt,10, ,Asphalt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.22702873,477.014728887625
+242,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.08026249,168.892890384071
+243,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.33780367,709.351734075175
+244,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,1.83884412,3864.53299296503
+245,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.03599317,75.6996639670281
+246,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.00021228,0.446462709358024
+247,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.31061718,653.277829505853
+248,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.31381617,659.972079608324
+249,Designated,Asphalt,10, ,Asphalt Trail,Kelly Drive Trail,PPR,Trail,Y,0.11313484,237.695240801229
+250,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.56029342,1178.9991192034
+251,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.03363412,70.7213839863339
+252,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.04523507,95.1740579563208
+253,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.00682832,14.317725867952
+254,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.01566216,32.9415637232098
+255,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.17966654,377.75890741095
+256,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.0177873,37.4206673370284
+257,Designated,Asphalt,10, ,Asphalt Trail,Schuylkill Banks Trail,PPR SRDC,Trail,Y,0.11158743,234.599277570816
+258,Designated,Asphalt,10, ,Asphalt Trail,Wissahickon Bike Path,PPR,Trail,Y,0.99296625,2088.4406660839
+259,Designated,Asphalt,10, ,Asphalt Trail,Wissahickon Bike Path,PPR,Trail,Y,0.17741708,373.354694471883
+260,Designated,Asphalt,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.02845226,59.8936997483256
+261,Designated,Asphalt,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.01182855,24.9273845069313
+262,Designated,Asphalt,10, ,Bridge,Pennypack Park Trail,PPR,Trail,Y,0.02723003,57.2259774636047
+263,Designated,Asphalt,10, ,Dirt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.03860123,81.1483537553074
+264,Designated,Asphalt,10, ,Road Crossing,Boxer's Trail,PPR,Trail Connection,Y,0.007955,16.6848694641367
+265,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.02723624,57.1589679970045
+266,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.08066707,169.519751508213
+267,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.01127335,23.7089633453606
+268,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.00902828,18.9869738073049
+269,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.01722188,36.1259155531365
+270,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.01779416,37.3551863475305
+271,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.03027067,63.7270547990309
+272,Designated,Asphalt,10, ,Road Crossing,Centennial Loop,PPR,Trail Connection,Y,0.01853107,38.8781468608371
+273,Designated,Concrete,25,,Bridge ,Manayunk Bridge Trail,PPR,Trail,Y,0.22876149,481.665994106047
+274,Designated,Concrete,25,,Bridge ,Manayunk Bridge Trail,Mont Co,Outside Philly Trail,Y,0.11049209,232.775037597084
+275,Designated,Asphalt,0, ,Asphalt Sidepath,58th Street Greenway,Streets,Sidepath, ,1.41127226,2964.05251450005
+276,Trail,Asphalt,5,,Asphalt Sidepath,Berks Street Path,,Sidepath,Y,0.13307732,279.550891410628
+277,Sidepath,Asphalt,12,,Asphalt Sidepath,Delaware Avenue Extension Sidepath 1A,Streets,Sidepath,Y,0.54617415,1147.72374790642
+278,Designated,Gravel,1,Not Bikeable,Gravel Trail,Boxer's Trail,PPR,Trail,N,0.01637262,34.4099996757851
+279,Designated,Gravel,8, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.22603421,475.107592323649
+280,Designated,Gravel,8, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.04071177,85.5253643970748
+281,Designated,Gravel,8, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.2040418,429.007852838427
+282,Designated,Gravel,8, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.14142174,297.517002024978
+283,Designated,Gravel,8, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.0652791,137.341418149229
+284,Designated,Gravel,8, ,Dirt Trail,Manayunk Canal Towpath/Lock St to Shawmont,PPR,Trail,N,0.17080569,359.324500845913
+285,Designated,Gravel,8, ,Gravel Trail,Pennypack Park Trail,PPR,Trail,Y,0.27380365,575.781624334949
+286,Designated,Gravel,10, ,Dirt Trail,Cobb's Creek Trail,PPR,Trail,Y,0.39586213,832.626244722955
+287,Designated,Gravel,10,Not Bikeable,Gravel Trail,Boxer's Trail,PPR,Trail,N,0.38889362,817.438469493995
+288,Designated,Gravel,10,Not Bikeable,Gravel Trail,Boxer's Trail,PPR,Trail,N,0.02577211,54.1646540475751
+289,Designated,Gravel,10,Not Bikeable,Gravel Trail,Boxer's Trail,PPR,Trail,N,0.11558954,242.916588892831
+290,Designated,Gravel,10,Not Bikeable,Gravel Trail,Boxer's Trail,PPR,Trail,N,0.02689191,56.5696116961159
+291,Designated,Gravel,10,Not Bikeable,Gravel Trail,Boxer's Trail,PPR,Trail,N,0.41338528,868.6678405024
+292,Designated,Gravel,10,Not Bikeable,Gravel Trail,Boxer's Trail,PPR,Trail,N,0.09480451,199.1145850953
+293,Designated,Gravel,10,Not Bikeable,Gravel Trail,Boxer's Trail,PPR,Trail,N,0.13339555,279.912843588406
+294,Designated,Gravel,20, ,Bridge,Forbidden Drive,PPR,Trail,N,0.02871416,60.2719099286625
+295,Designated,Gravel,20, ,Gravel Trail,Forbidden Drive,PPR,Trail,N,0.25816533,542.130144668456
+296,,,,,,Poquessing Creek Trail,,,,1.50717013,3175.14488653086
+297,Designated,Asphalt,,,Asphalt Trail,South to Christian Connector,PPR,Trail,Y,0.2707773,568.796500152995
+298,Designated,Asphalt,,,Asphalt Trail,Kensington & Tacony Trail 1,PPR,Trail,Y,1.12153507,2357.54169783645
+299,Designated,Asphalt,,,Asphalt Trail,Bartram's Mile,PPR,Trail,Y,0.88264212,1855.31526500167
+300,Designated,,,,Bridge,CHOP Connector Bridge,CHOP,Trail Connection,Y,0.01890621,39.7255953207312
+301,Designated,Concrete,,,Sidewalk,Race Street North Sidepath,DRWC,Trail Connection,Y,0.15475214,324.514188290354
+302,Sidepath,Asphalt,10,,,Frankford Creek Greenway 1,,,Y,1.22653706,2579.47612004033
+303,Trail,Asphalt,10,,,Tacony Creek Trail B,PPR,Trail,Y,0.26526598,558.380826870068
+304,Trail,Gravel,8,,Dirt Trail,Schuylkill Center SRT Connector,PPR,Trail,N,0.46999842,988.910361478035
+305,Designated,Asphalt,12,,Asphalt Trail,"Frankford Creek Greenway, Phase 2",PennDOT,Sidepath,Y,0.99664893,2095.3375203738
+306,Designated,Asphalt,12,,Asphalt Trail,"Cobbs Creek Connector, Seg A",PPR,Trail,Y,0.49948668,1050.54613149361
+307,Designated,Asphalt,12,,Pavers,SugarHouse to Penn Treaty,DRWC,,Y,0.31653645,664.915295704
+308,Designated,Asphalt,12,,Asphalt Sidepath,Delaware Waterfront Trail,DWRC,Trail,Y,1.90713734,4012.97868265177
+309,Designated,Asphalt,12,,Asphalt Trail,GR3- Maintenance Path,Streets,Trail,Y,0.76267817,1601.83365774871
+310,Designated,Asphalt,12,,Asphalt Sidepath,Penrose Sidepath 2,Wawa,Trail,Y,0.24137678,506.184194840432
+311,Designated,Asphalt,12,,Asphalt Trail,"Cobbs Creek Connector, Seg D",PPR,Trail,Y,0.34049155,714.823148708831
+312,Designated,Wood,10, ,Bridge,Tacony Creek Trail,PPR,Trail,Y,0.01128126,23.7470894511273
+313,Designated,Wood,10, ,Bridge,Wissahickon Bike Path,PPR,Trail,N,0.02638012,55.3885372246808
+314,Designated,Wood,10, ,Bridge,Wissahickon Bike Path,PPR,Trail,N,0.06157008,129.575712665316
+315,Not Designated,Asphalt,0, ,Asphalt Sidepath,Chamounix Drive Sidepath,PPR,Sidepath,Y,0.76505297,1606.51119846852
+316,Not Designated,Asphalt,0, ,Asphalt Sidepath,Ford Road Sidepath,PPR,Sidepath,Y,0.24620207,516.920287709819
+317,Not Designated,Asphalt,0, ,Asphalt Sidepath,Greenland Road Sidepath,PPR,Sidepath,Y,0.16645168,349.383034221664
+318,Not Designated,Asphalt,0, ,Asphalt Sidepath,Lansdowne Sidepath,PPR,Sidepath,Y,0.31061101,651.650775099204
+319,Not Designated,Asphalt,0, ,Asphalt Sidepath,West Bank Greenway,Streets,Sidepath,Y,0.58806289,1236.18842098161
+320,Not Designated,Asphalt,8, ,Asphalt Sidepath,Pennypack Park Trail,PPR,Sidepath,Y,0.44156448,929.1320496513
+321,Not Designated,Asphalt,8, ,Road Crossing,Falls Bridge Sidepath,PPR,Sidepath,Y,0.00621496,13.0498899175395
+322,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.10435601,219.696573756018
+323,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.11710873,246.553578817737
+324,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.00025809,0.542326241282747
+325,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.18939163,397.78646807578
+326,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.09309964,195.283492233661
+327,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.03764362,79.2261660482078
+328,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.12929578,271.324698734248
+329,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.28731117,603.089398687377
+330,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.18171716,382.589020874378
+331,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.24146059,506.869911587492
+332,Not Designated,Asphalt,10, ,Asphalt Sidepath,Sidepath,PPR,Sidepath,Y,0.04756724,99.8437226361177
+333,Not Designated,Concrete,6, ,Bridge,Falls Bridge Sidepath,PPR,Sidepath,Y,0.1114729,234.643523299372
+334,Not Designated,Concrete,6, ,Bridge,Falls Bridge Sidepath,PPR,Sidepath,Y,0.11123603,234.156268233322
+335,Off Road/Trail,Asphalt,12, ,Asphalt Trail,Locust St Connector,PPR SRDC,Trail Connection,Y,0.03997205,83.8917190154604
+336,Sidepath,Asphalt,10,,Asphalt Sidepath,Henry Avenue Sidepath,Streets,Sidepath,Y,0.98,2101.84706197948
+337,Trail,Asphalt,12,,Asphalt Trail,Kensington & Tacony Trail 2,PPR,Trail,Y,0.57,1233.64785584416
+338,Trail,Asphalt,12,,Asphalt Trail,"Cobbs Creek Connector, Seg C",PPR,Trail,Y,0.47,1545.71345829712
+339,Trail,Asphalt,12,,Asphalt Trail,Bartram's to Passyunk Phase 1,PPR,Trail,Y,0.38,732.776028252769
