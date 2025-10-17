@@ -25,8 +25,8 @@
 | 10/13/2025 | M   | 18,19    | -         | ChIP-Seq: I + II                                                      |
 | 10/15/2025 | W   | -        | -         | ENCODE - I + II                                                       |
 | 10/17/2025 | F   | -        | -         | ENCODE - I + II                                                       |
-| 10/20/2025 | M   | 20,21    | -         | Building Analytical Pipelines (L)                                     |
-| 10/22/2025 | W   | -        | -         | Bioinformatics in Pharmacology                                        |
+| 10/20/2025 | M   | 20,21    | -         | Bioinformatics in Pharmacology                                        |
+| 10/22/2025 | W   | -        | -         | Building Analytical Pipelines (L)                                     |
 | 10/24/2025 | F   | -        | -         | Automating Pipelines                                                  |
 | 10/27/2025 | M   | 22,23    | -         | Transcriptomics via single-cell RNA-Seq (L)                           |
 | 10/29/2025 | W   | -        | -         | scRNA-Seq Analysis - I + II                                           |
