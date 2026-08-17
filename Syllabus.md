@@ -1,4 +1,4 @@
-# BIOM/CIS/MTR 5350 (Fall 2025): Introduction to Bioinformatics
+# BIOM/CIS/MTR 5350 (Fall 2026): Introduction to Bioinformatics
 
 ## Course Staff
 
@@ -24,27 +24,24 @@ We do not reliably check the Canvas messaging functionality.
 
 ### Teaching assistants
 
-[Max Dudek](mailto:Max.Dudek@pennmedicine.upenn.edu): Max.Dudek@pennmedicine.upenn.edu
-
-[Ijeoma Meremikwu](mailto:Ijeoma.Meremikwu@pennmedicine.upenn.edu): Ijeoma.Meremikwu@pennmedicine.upenn.edu
-
-[Yuhao Tan](mailto:Yuhao.Tan@pennmedicine.upenn.edu): Yuhao.Tan@pennmedicine.upenn.edu
-
 [Ravi Mandla](mailto:ravi.mandla@pennmedicine.upenn.edu): ravi.mandla@pennmedicine.upenn.edu
+
+[Jackie Peng](mailto:): pengj@pennmedicine.upenn.edu
+
+[Sherry Xie](mailto:sherry.xie@pennmedicine.upenn.edu): sherry.xie@pennmedicine.upenn.edu
 
 ### Keywords
 
 * Ophir Shalem: functional genomics, protein quality control, neurodegenerative disease
 * Ben Voight: human genetics, statistics, human evolution, cardiometabolic disease
 
-* Max Dudek (GCB): computational genomics, disease genetics, liver disease
-* Ijeoma Meremikwu (GCB): Spatial transcriptomics, meningioma, immunology, cancer biology
-* Yuhao Tan (GCB): cancer immunology, machine learning, mass spectrometry
 * Ravi Mandla (GCB): statistical genetics, precision medicine
+* Jackie Peng (GCB): Neuro-oncology, single-cell genomics
+* Sherry Xie (GCB): Statistical methods, genetics, single-cell genomics
 
 
 ## Location and time
-The course will be administered on campus for Fall 2025
+The course will be administered on campus for Fall 2026
 
 [Towne Building](https://goo.gl/maps/uoVt4vjryf8ecv2Q9); Access details are [here](https://facilities.upenn.edu/sites/default/files/pennaccess/PA0570-Towne.pdf).
 
@@ -66,7 +63,7 @@ students will receive precedence. To schedule a meeting, send an e-mail or slack
 the course directors. 
 
 * BFV: On zoom or in office (10-126) by appointment
-* TAs: Wednesday 2:45-3:45p (After class in Towne 217, same room)
+* TAs: TBD
     
 ## Course web site
 
@@ -104,6 +101,15 @@ BIOL5260 (Experimental Principles in Cell and Molecular Biology), BIOL5270
 (Advanced Molecular Biology and Genetics), BIOL5280 (Advanced Molecular
 Genetics), BIOL5400 (Genetic Systems), or equivalent, is a prerequisite.
 
+This year, we have taken the ambitious step to incorporate a unit on use of AI tools into the
+course. Given the pace that these tools are accelerating in their number and capabilities, it
+is impossible for us to cover this topic deeply and with the absolutely latest set of tools that are
+available. However, AI tools have become increasingly common and provide capabilities to
+those who already know how to code, making a baseline level of 'literacy' increasingly essential
+to both use and interpret. The goal is to provide a baseline level of AI literacy, discriminating 
+good vs. bad use cases, use of code repositories and portable codebases for reproducibility, and
+best practices for coding and analysis tasks. 
+
 ## Note on Reproducibility and Responsible Research
 
 Scientific rigor and reproducibility (SRR) is essential for progress, and especially so in 
@@ -111,7 +117,7 @@ Bioinformatics. This course aims to address SRR by teaching students programming
 and computational pipeline building skills, so that students can generate results that are
 "technically reproducible" - that the same code run on the same input file generates
 the same output file or result each time. Moreover, the class will teach students
-technical an intuitional skills on how to look at, and evaluate, data sets they are 
+technical an institutional skills on how to look at, and evaluate, data sets they are 
 provided that might be established or new. This helps to generate SRR because 'bugs'
 or technical artefacts in data files hinders the production of reproducible results. 
 Students who leave the course will have developed their intuition and 'healthy skepticism'
@@ -135,7 +141,14 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 
 Grades are composed of:
 
-* Homework Assignments (3 in total, equal weight) - 100%
+* Class Participation (Lecture Attendance) - 10%
+* Homework Assignments (2 in total, equal weight) - 50%
+* Final Project - 40%
+
+Grades for participation is based on attendance at lectures, and we will use an
+attendance tracker to keep record. Lectures will not be recorded and there will
+not be a hybrid/virtual option provided. Attendance for class times dedicated
+to work on 'in-class' activities/course modules is strongly encouraged. 
 
 ### Late grading policy:
 
@@ -162,18 +175,22 @@ http://www.upenn.edu/academicintegrity/ai_violations.html
 ## Regarding ChatGPT and other Generative AI / Large Language Models (LLMs) in the course
 
 The recent release of powerful generative AI tools has unsettled higher education. Tools such 
-as Chat-GPT, GPT-4, Bard, Dall-E 2, Llama 2, Claude, Pi and Bing are developing rapidly. These 
-chat tools can write and revise text, code and images in response to prompts.
+as ChatGPT, Codex, Claude, Claude Cowork, Gemini, CoPilot, Perplexity, Midjourney, etc.
+are developing rapidly. These chat tools can write and revise text, code and images in response to 
+prompts. Our policy on use of these tools for various class activities is complex, 
+but defined below with some rationale:
 
-There may be cases where these tools can help you develop your understanding of the material and 
-modules that we provide you for the class. If you are using these tools to help you work through 
+"In class" activities. There may be cases where these tools can help you develop your understanding of 
+the material and modules that we provide you for the class. If you are using these tools to help you work through 
 'in-class' materials, or in the course of helping you in your understanding of specific topics, 
 we would ask that you indicate that by including a written note at the top of the notebook by creating 
 a 'new cell' (and adding a note).
 
-Our rationale for creating graded material is to give a 'checkpoint' that 
-you are, in fact, working through the materials and are understanding them sufficiently that you can 
-independently perform data analysis tasks put to you. As such using these tool to answer graded material
-is not consistent with this goal and as such is not allowed and constitutes 
-plagiarism. Use without permission in these cases will be considered a violation of Penn's Code of 
-Academic Integrity.
+Homework assignments. We want to use this as a 'checkpoint' that you are working through 
+the materials and are understanding them sufficiently that you can independently perform data analysis 
+tasks put to you. As such, we ask that you do NOT use these tools to answer homework material, and use
+without permission in these cases will be considered a violation of Penn's Code of Academic Integrity.
+
+Final project. As with In-Class activities, use of AI tools and approaches will be allowed, by
+providing a specific indication or statement which describes what is your work and what work was 
+completed with the assistance of an AI tool.
