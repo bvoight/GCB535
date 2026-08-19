@@ -142,7 +142,7 @@ calendar](https://github.com/bvoight/GCB535/blob/master/Course_Calendar.md).
 Grades are composed of:
 
 * Class Participation (Lecture Attendance) - 15%
-* Homework Assignments (2 in total, equal weight) - 60%
+* Homework Assignments (across all) - 60%
 * Final Project - 25%
 
 Grades for participation is based on attendance at lectures, and we will use an
