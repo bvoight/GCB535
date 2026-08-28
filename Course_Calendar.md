@@ -46,4 +46,5 @@
 | 11/30/2026 | M   | L        | 41       | -                 | Imaging Analysis (L)                                        |
 | 12/2/2026  | W   | -        | -        | -                 | Analysis of Imaging Data                                    |
 | 12/4/2026  | F   | -        | 42       | -                 | Coding with AI - III                                        |
-| 12/7/2026  | M   | -        | -        | Final Project Due | Free Time - Project Work                                    |
+| 12/7/2026  | M   | -        | -        | HW 3 Due          | Free Time - Project Work                                    |
+| 12/9/2026  | W   | -        | -        | Final Project Due | NO CLASS                                                    |
