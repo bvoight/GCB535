@@ -6,7 +6,7 @@
 | 8/28/2026  | F   | -        | 1,2      | -                 | Seeking Biological Information Online; R: I (Base R)        |
 | 8/31/2026  | M   | L        | 3        | -                 | Processing data with Tidyverse (L)                          |
 | 9/2/2026   | W   | -        | -        | -                 | R: II (Tidyverse)                                           |
-| 9/4/2026   | F   | L        | 4,5,6    | -                 | Demystifying syntax for ggplot2 (L)                         |
+| 9/4/2026   | F   | L        | 4,5,6    | -                 | The Grammar of Graphics (L)                                 |
 | 9/7/2026   | M   | -        | -        | -                 | NO CLASS [Labor Day]                                        |
 | 9/9/2026   | W   | -        | -        | -                 | R: III + IV (ggplot2); V (Tidyverse)                        |
 | 9/11/2026  | F   | L        | 7,8      | -                 | HTS Transcriptomics via RNA-Seq (L)                         |
