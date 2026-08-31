@@ -63,7 +63,7 @@ students will receive precedence. To schedule a meeting, send an e-mail or slack
 the course directors. 
 
 * BFV: On zoom or in office (10-126) by appointment
-* TAs: TBD
+* TAs: Wednesdays in Room 217, 2:45-3:45p
     
 ## Course web site
 
