@@ -1,4 +1,4 @@
-In-class Module Completion Table
+BIOM/CIS/MTR 5350 Cocalc.ai In-class Module Completion Table
 
 | Complete In-Class module... | ...to receive HW: | Due Date  |
 |-----------------------------|-------------------|-----------|
