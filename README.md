@@ -1,5 +1,5 @@
-# GCB535  / GCB999
-This repository contains the course materials for GCB535 (or GCB999) taught at the
+# BIOM/CIS/MTR 5350 (or occasionally GCB999)
+This repository contains the course materials for BIOM/CIS/MTR 5350 taught at the
 University of Pennsylvania.
 
 ## CoCalc 
