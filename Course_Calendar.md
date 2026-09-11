@@ -11,8 +11,8 @@
 | 9/9/2026   | W   | -        | -        | -                 | R: III + IV (ggplot2); V (Tidyverse)                        |
 | 9/11/2026  | F   | L        | 7,8      | -                 | HTS Transcriptomics via RNA-Seq (L)                         |
 | 9/14/2026  | M   | -        | 9        | -                 | RNA-Seq Analysis: I + II; Enrichment Analysis               |
-| 9/16/2026  | W   | L        | 10       | -                 | Intro to DESeq2 and Multiple Hypothesis Testing - FDR (L)   |
-| 9/18/2026  | F   | -        | 11,12    | -                 | UNIX: I + II                                                |
+| 9/16/2026  | W   | -        | 11,12    | -                 | UNIX: I + II                                                |
+| 9/18/2026  | F   | L        | 10       | -                 | Intro to DESeq2 and Multiple Hypothesis Testing - FDR (L)   |
 | 9/21/2026  | M   | L        | 13       | -                 | Reproducible Research: Debugging Code (L)                   |
 | 9/23/2026  | W   | -        | 14       | -                 | Debugging Code                                              |
 | 9/25/2026  | F   | -        | 15       | -                 | Data Parsing/Cleaning: Setup for new analysis + Fixing Data |
