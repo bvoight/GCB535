@@ -13,7 +13,7 @@
 | 9/14/2026  | M   | -        | 9        | -                 | RNA-Seq Analysis: I + II; Enrichment Analysis               |
 | 9/16/2026  | W   | -        | 11,12    | -                 | UNIX: I + II                                                |
 | 9/18/2026  | F   | L        | 10       | -                 | Intro to DESeq2 and Multiple Hypothesis Testing - FDR (L)   |
-| 9/21/2026  | M   | L        | 13       | -                 | Reproducible Research: Debugging Code (L)                   |
+| 9/21/2026  | M   | L        | 13       | -                 | Repr. Research: Debugging Code; Intro to UNIX (L)           |
 | 9/23/2026  | W   | -        | 14       | -                 | Debugging Code                                              |
 | 9/25/2026  | F   | -        | 15       | -                 | Data Parsing/Cleaning: Setup for new analysis + Fixing Data |
 | 9/28/2026  | M   | L        | 16-19    | HW 1 Due          | HTS Functional Genomics: ChIP-Seq (L)                       |
