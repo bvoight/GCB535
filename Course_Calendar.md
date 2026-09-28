@@ -16,7 +16,7 @@
 | 9/21/2026  | M   | L        | 13       | -                 | Repr. Research: Debugging Code; Intro to UNIX (L)           |
 | 9/23/2026  | W   | -        | 14       | -                 | Debugging Code                                              |
 | 9/25/2026  | F   | -        | 15       | -                 | Data Parsing/Cleaning: Setup for new analysis + Fixing Data |
-| 9/28/2026  | M   | L        | 16-19    | HW 1 Due          | HTS Functional Genomics: ChIP-Seq (L)                       |
+| 9/28/2026  | M   | L        | 16-19    | HW 1 Due          | Parsing New Data + HTS Functional Genomics: ChIP-Seq (L)    |
 | 9/30/2026  | W   | -        | -        | -                 | ChIP-Seq: I + II; ENCODE I + II                             |
 | 10/2/2026  | F   | -        | -        | -                 | NO CLASS [Fall Break]                                       |
 | 10/5/2026  | M   | L        | 20,21    | -                 | Building Analytical Pipelines (L)                           |
