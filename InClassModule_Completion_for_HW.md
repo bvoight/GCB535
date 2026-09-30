@@ -8,7 +8,7 @@ BIOM/CIS/MTR 5350 2026 Cocalc.ai In-class Module Completion Table
 | -                           | HW1a - HW1c       | 09/28/2026 |
 | 11,12,13                    | HW2a              | -          |
 | 14,15                       | HW2b              | -          |
-| 16,17,18,19,20,21           | HW2c              | -          |
+| 16,17,18,19                 | HW2c              | -          |
 | -                           | HW2a - HW2c       | 11/09/2026 |
 | 27,28,29,30                 | HW3a              | -          |
 | 34,35,36,37,38              | HW3b              | -          |                 
