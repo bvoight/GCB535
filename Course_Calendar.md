@@ -36,15 +36,15 @@
 | 11/6/2026  | F   | -        | -        | -                 | Python - I to V                                             |
 | 11/9/2026  | M   | L        | 33       | HW2 Due           | Intro to Tools for Code Sharing (L)                         |
 | 11/11/2026 | W   | -        | -        | -                 | Github and Docker                                           |
-| 11/13/2026 | F   | -        | 34-38    | -                 | Machine Learning: I - V                                     |
+| 11/13/2026 | F   | -        | 34-38    | -                 | Machine Learning: I to V                                    |
 | 11/16/2026 | M   | L        | -        | -                 | AI Literacy (L)                                             |
-| 11/18/2026 | W   | -        | -        | -                 | Machine Learning: I - V                                     |
-| 11/20/2026 | F   | -        | 39,40    | -                 | Coding with AI - I                                          |
-| 11/23/2026 | M   | L        | -        | -                 | Computational Workflows with AI (L)                         |
-| 11/25/2026 | W   | -        | -        | -                 | Coding with AI - II                                         |
+| 11/18/2026 | W   | -        | -        | -                 | Machine Learning: I to V                                    |
+| 11/20/2026 | F   | -        | -        | -                 | Machine Learning: I to V                                    |
+| 11/23/2026 | M   | L        | 39,40    | -                 | Computational Workflows with AI (L)                         |
+| 11/25/2026 | W   | -        | -        | -                 | Coding with AI - I + II                                     |
 | 11/27/2026 | F   | -        | -        | -                 | NO CLASS [Thanksgiving]                                     |
 | 11/30/2026 | M   | L        | 41       | -                 | Imaging Analysis (L)                                        |
-| 12/2/2026  | W   | -        | -        | -                 | Analysis of Imaging Data                                    |
-| 12/4/2026  | F   | -        | 42       | -                 | Coding with AI - III                                        |
-| 12/7/2026  | M   | -        | -        | HW 3 Due          | Free Time - Project Work                                    |
+| 12/2/2026  | W   | -        | -        | -                 | Coding with AI - I + II                                     |
+| 12/4/2026  | F   | -        | -        | -                 | Analysis of Imaging Data                                    |
+| 12/7/2026  | M   | -        | -        | HW 3 Due          | Elective time (for Project Work)                            |
 | 12/9/2026  | W   | -        | -        | Final Project Due | NO CLASS                                                    |
