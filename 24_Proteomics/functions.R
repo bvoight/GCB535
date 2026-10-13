@@ -6,7 +6,7 @@
 
 make_unique <- function(proteins, names, ids, delim = ";") {
   # Show error if inputs are not the required classes
-  assertthat::assert_that(is.data.frame(proteins),
+  stopifnot(is.data.frame(proteins),
     is.character(names),
     length(names) == 1,
     is.character(ids),
@@ -51,7 +51,7 @@ make_unique <- function(proteins, names, ids, delim = ";") {
 #' of the supplied words.
 get_prefix <- function(words) {
   # Show error if input is not the required class
-  assertthat::assert_that(is.character(words))
+  stopifnot(is.character(words))
 
   # Show error if 'words' contains 1 or less elements
   if(length(words) <= 1) {
@@ -87,7 +87,7 @@ get_prefix <- function(words) {
 
 get_suffix <- function(words) {
   # Show error if input is not the required class
-  assertthat::assert_that(is.character(words))
+  stopifnot(is.character(words))
 
   # Show error if 'words' contains 1 or less elements
   if(length(words) <= 1) {
@@ -145,7 +145,7 @@ delete_suffix <- function(words) {
 
 make_se <- function(proteins_unique, columns, expdesign) {
   # Show error if inputs are not the required classes
-  assertthat::assert_that(is.data.frame(proteins_unique),
+  stopifnot(is.data.frame(proteins_unique),
                           is.integer(columns),
                           is.data.frame(expdesign))
 
@@ -219,7 +219,7 @@ make_se <- function(proteins_unique, columns, expdesign) {
 make_se_parse <- function(proteins_unique, columns,
                           mode = c("char", "delim"), chars = 1, sep = "_") {
   # Show error if inputs are not the required classes
-  assertthat::assert_that(is.data.frame(proteins_unique),
+  stopifnot(is.data.frame(proteins_unique),
                           is.integer(columns),
                           is.character(mode),
                           is.numeric(chars),
@@ -294,7 +294,7 @@ make_se_parse <- function(proteins_unique, columns,
 filter_missval <- function(se, thr = 0) {
   # Show error if inputs are not the required classes
   if(is.integer(thr)) thr <- as.numeric(thr)
-  assertthat::assert_that(inherits(se, "SummarizedExperiment"),
+  stopifnot(inherits(se, "SummarizedExperiment"),
                           is.numeric(thr),
                           length(thr) == 1)
 
@@ -351,7 +351,7 @@ filter_missval <- function(se, thr = 0) {
 filter_proteins <- function(se, type = c("complete", "condition", "fraction"),
                             thr = NULL, min = NULL) {
   # Show error if inputs are not the required classes
-  assertthat::assert_that(inherits(se, "SummarizedExperiment"))
+  stopifnot(inherits(se, "SummarizedExperiment"))
   type <- match.arg(type)
 
   # Show error if inputs do not contain required columns
@@ -373,7 +373,7 @@ filter_proteins <- function(se, type = c("complete", "condition", "fraction"),
     filtered <- se[keep,]
   }
   if(type == "condition") {
-    assertthat::assert_that(is.numeric(thr),
+    stopifnot(is.numeric(thr),
                             length(thr) == 1)
     max_repl <- max(colData(se)$replicate)
     if(thr < 0 | thr > max_repl) {
@@ -385,7 +385,7 @@ filter_proteins <- function(se, type = c("complete", "condition", "fraction"),
     filtered <- filter_missval(se, thr = thr)
   }
   if(type == "fraction") {
-    assertthat::assert_that(is.numeric(min),
+    stopifnot(is.numeric(min),
                             length(min) == 1)
     if(min < 0 | min > 1) {
       stop("invalid filter threshold 'min' applied",
@@ -421,7 +421,7 @@ filter_proteins <- function(se, type = c("complete", "condition", "fraction"),
 
 normalize_vsn <- function(se) {
   # Show error if inputs are not the required classes
-  assertthat::assert_that(inherits(se, "SummarizedExperiment"))
+  stopifnot(inherits(se, "SummarizedExperiment"))
 
   # Variance stabilization transformation on assay data
   se_vsn <- se
