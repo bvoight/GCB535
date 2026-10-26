@@ -25,11 +25,11 @@
 | 10/12/2026 | M   | L        | 22,23    | -                 | Transcriptomics via single-cell RNA-Seq (L)                 |
 | 10/14/2026 | W   | -        | -        | -                 | scRNA-Seq Analysis - I + II                                 |
 | 10/16/2026 | F   | -        | -        | -                 | scRNA-Seq Analysis - I + II                                 |
-| 10/19/2026 | M   | -        | 24,25    | -                 | ATAC-Seq Analysis                                           |
+| 10/19/2026 | M   | -        | 24-26    | -                 | ATAC-Seq Analysis                                           |
 | 10/21/2026 | W   | -        | -        | -                 | Analysis of Proteomics Data                                 |
 | 10/23/2026 | F   | -        | -        | -                 | Analysis of CRISPR Screens                                  |
 | 10/26/2026 | M   | L        | -        | -                 | Proteomics (L)                                              |
-| 10/28/2026 | W   | L        | 26       | -                 | CRISPR Screening (L)                                        |
+| 10/28/2026 | W   | L        | -        | -                 | CRISPR Screening (L)                                        |
 | 10/30/2026 | F   | -        | 27-31    | -                 | Python - I to V                                             |
 | 11/2/2026  | M   | L        | 32       | -                 | Data Parsing/Cleaning: Batch Effects (L)                    |
 | 11/4/2026  | W   | -        | -        | -                 | Python - I to V                                             |
