@@ -35,7 +35,7 @@
 | 11/4/2026  | W   | -        | -        | -                 | Python - I to V                                             |
 | 11/6/2026  | F   | -        | -        | -                 | Python - I to V                                             |
 | 11/9/2026  | M   | L        | 33       | HW2 Due           | Intro to Tools for Code Sharing (L)                         |
-| 11/11/2026 | W   | -        | -        | -                 | Github and Docker                                           |
+| 11/11/2026 | W   | -        | -        | -                 | Intro to Github and Repository Building                     |
 | 11/13/2026 | F   | -        | 34-38    | -                 | Machine Learning: I to V                                    |
 | 11/16/2026 | M   | L        | -        | -                 | AI Literacy (L)                                             |
 | 11/18/2026 | W   | -        | -        | -                 | Machine Learning: I to V                                    |
