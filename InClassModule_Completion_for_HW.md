@@ -15,4 +15,4 @@ BIOM/CIS/MTR 5350 2026 Cocalc.ai In-class Module Completion Table
 | 34,35,36,37,38              | HW3b              | -          |                 
 | -                           | HW3a - HW3b       | 12/07/2026 |
 
-***: These in-class modules will be evaluated for completeness as part of the grade for HW3, but not a prerequisite to receive HW3a/3b
+***: These in-class modules will be evaluated for completeness as part of the HW3 grade (33% of that grade), but not a prerequisite to receive HW3a/3b
