@@ -31,12 +31,12 @@
 | 10/26/2026 | M   | L        | -        | -                 | Proteomics (L)                                              |
 | 10/28/2026 | W   | L        | -        | -                 | CRISPR Screening (L)                                        |
 | 10/30/2026 | F   | -        | 27-31    | -                 | Python - I to V                                             |
-| 11/2/2026  | M   | L        | 32       | -                 | Data Parsing/Cleaning: Batch Effects (L)                    |
+| 11/2/2026  | M   | -        | -        | -                 | Free-time: In-class work                                    |
 | 11/4/2026  | W   | -        | -        | -                 | Python - I to V                                             |
 | 11/6/2026  | F   | -        | -        | -                 | Python - I to V                                             |
 | 11/9/2026  | M   | -        | 33       | HW2 Due           | Code Sharing with git / GitHub                              |
-| 11/11/2026 | W   | -        | -        | -                 | Intro to Github and Repository Building                     |
-| 11/13/2026 | F   | -        | 34-38    | -                 | Machine Learning: I to V                                    |
+| 11/11/2026 | W   | -        | 34-38    | -                 | Machine Learning: I to V                                    |
+| 11/13/2026 | F   | -        | -        | -                 | Machine Learning: I to V                                    |
 | 11/16/2026 | M   | L        | -        | -                 | AI Literacy (L)                                             |
 | 11/18/2026 | W   | -        | -        | -                 | Machine Learning: I to V                                    |
 | 11/20/2026 | F   | -        | -        | -                 | Machine Learning: I to V                                    |
@@ -45,6 +45,6 @@
 | 11/27/2026 | F   | -        | -        | -                 | NO CLASS [Thanksgiving]                                     |
 | 11/30/2026 | M   | L        | 41       | -                 | Imaging Analysis (L)                                        |
 | 12/2/2026  | W   | -        | -        | -                 | Coding with AI - I + II                                     |
-| 12/4/2026  | F   | -        | -        | -                 | Analysis of Imaging Data                                    |
-| 12/7/2026  | M   | -        | -        | HW 3 Due          | Elective time (for Project Work)                            |
+| 12/4/2026  | F   | -        | 32        | -                | Analysis of Imaging Data                                    |
+| 12/7/2026  | M   | L        | -        | HW 3 Due          | All you wanted to know about Batch Effects and Ducks (L)    |
 | 12/9/2026  | W   | -        | -        | Final Project Due | NO CLASS                                                    |
