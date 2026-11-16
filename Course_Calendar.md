@@ -37,14 +37,14 @@
 | 11/9/2026  | M   | -        | 33       | HW2 Due           | Code Sharing with git / GitHub                              |
 | 11/11/2026 | W   | -        | 34-38    | -                 | Machine Learning: I to V                                    |
 | 11/13/2026 | F   | -        | -        | -                 | Machine Learning: I to V                                    |
-| 11/16/2026 | M   | L        | -        | -                 | AI Literacy (L)                                             |
+| 11/16/2026 | M   | L        | 39       | -                 | AI Literacy (L)                                             |
 | 11/18/2026 | W   | -        | -        | -                 | Machine Learning: I to V                                    |
-| 11/20/2026 | F   | -        | -        | -                 | Machine Learning: I to V                                    |
-| 11/23/2026 | M   | L        | 39,40    | -                 | Computational Workflows with AI (L)                         |
+| 11/20/2026 | F   | -        | -        | -                 | Coding with AI - I                                          |
+| 11/23/2026 | M   | L        | 40       | -                 | Computational Workflows with AI (L)                         |
 | 11/25/2026 | W   | -        | -        | -                 | Coding with AI - I + II                                     |
 | 11/27/2026 | F   | -        | -        | -                 | NO CLASS [Thanksgiving]                                     |
 | 11/30/2026 | M   | L        | 41       | -                 | Imaging Analysis (L)                                        |
-| 12/2/2026  | W   | -        | -        | -                 | Coding with AI - I + II                                     |
-| 12/4/2026  | F   | -        | 32        | -                | Analysis of Imaging Data                                    |
+| 12/2/2026  | W   | -        | -        | -                 | Coding with AI - II                                         |
+| 12/4/2026  | F   | -        | 32       | -                 | Analysis of Imaging Data                                    |
 | 12/7/2026  | M   | L        | -        | HW 3 Due          | All you wanted to know about Batch Effects and Ducks (L)    |
 | 12/9/2026  | W   | -        | -        | Final Project Due | NO CLASS                                                    |
